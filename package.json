@@ -16,6 +16,10 @@
       "type": "MIT"
     }
   ],
+  "dependencies": {
+    "request":   "~2.34.0",
+    "cheerio":   "~0.13.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "latest",
