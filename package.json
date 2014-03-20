@@ -1,6 +1,6 @@
 {
   "name": "footy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/footy.js",
   "description": "The best module ever.",
   "author": {
@@ -17,11 +17,12 @@
     }
   ],
   "dependencies": {
-    "request":   "~2.34.0",
-    "cheerio":   "~0.13.0"
+    "request-promise":   "~0.0.3",
+    "cheerio":   "~0.13.0",
+    "es6-promise":   "~0.1.1"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~0.4.4",
     "grunt-contrib-copy": "latest",
     "grunt-contrib-jshint": "~0.7.0",
     "grunt-contrib-nodeunit": "~0.2.0",
@@ -35,6 +36,7 @@
     "htmlparser": "~1.7.7",
     "dateformat": "latest",
     "express": "4.x",
+    "express3-handlebars": "~0.5.0",
       "redis": "*"
   },
   "scripts": {
