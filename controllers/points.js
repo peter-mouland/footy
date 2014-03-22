@@ -74,3 +74,12 @@ points.prototype.savePlayers = function(body){
     return 'Saved';
 
 };
+
+
+points.prototype.getRecentPlayerPoints = function(){
+    return {
+        week: 0,
+        new: {},
+        old: {}
+    };
+};

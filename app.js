@@ -34,6 +34,14 @@ app.get('/update/points', function(req, res){
     res.render('home', { week: stats.latestTeam, msg: msg});
 });
 
+app.get('/view/stats', function(req, res){
+    res.json(stats.getRecentPlayerStats().new);
+});
+
+app.get('/view/points', function(req, res){
+    res.json(points.getRecentPlayerPoints().new);
+});
+
 var server = app.listen(3000, function() {
     console.log('Listening on port %d', server.address().port);
 });
