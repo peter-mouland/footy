@@ -1,6 +1,6 @@
 'use strict';
 
-var statistics =  new (require('../controllers/statistics.js'))();
+var Statistics =  require('../controllers/statistics.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -28,11 +28,12 @@ exports.footy = {
     done();
   },
   'HTML Table can be converted to JSON': function(test) {
+      test.expect(3);
 
+      var statistics = new Statistics();
       var htmlTable = '<table class="STFFDataTable"><tr><th title="head-name">head name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>'
       var htmlTableWithName = '<table class="STFFDataTable"><tr><th title="head-name">Name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>'
 
-      test.expect(3);
     // tests here
       test.deepEqual(statistics.tableToJson(),
           { mapHeadings: {}, arrHeadings: [], arrStats: [], mapStats: {} },
@@ -65,21 +66,58 @@ exports.footy = {
     test.done();
   },
 
+  'knows the weeks playing status': function(test) {
+      test.expect(2);
+
+      var statistics = new Statistics();
+      var complete = require('./fixtures/statistics-week-complete.json');
+      var inProgress = require('./fixtures/statistics-week-in-progress.json');
+
+      test.equal(statistics.weekInProgress(inProgress), true, 'recognises when all games have scores');
+      test.equal(statistics.weekInProgress(complete), false, 'recognises when at least one game hasn\'t finished');
+
+      test.done();
+  },
+
   'Weekly team summary can be saved': function(test) {
+      test.expect(4);
+
+      var statistics = new Statistics();
+      statistics.getLatestTeam();
+
       var week1 = '{ "CURRENTWEEK" : 1 }';
       var week2 = '{ "CURRENTWEEK" : 2 }';
       var writtenJson = 0;
-      test.expect(4);
-
       statistics.latestTeam.CURRENTWEEK = 1;
       statistics.writeJson = function(){
           writtenJson++;
+      };
+      statistics.weekInProgress = function(){//i am not testing this so mock it
+          return false;
       };
       test.equal(statistics.saveTeam(week1), false, 'returns false when weeks match');
       test.equal(writtenJson, 0, 'returning false doesn\'t write json');
 
       test.equal(statistics.saveTeam(week2), 2, 'returns latest week number when weeks mismatch');
       test.equal(writtenJson, 1, 'returning true does write json');
+
+      test.done();
+  },
+
+  'Weekly player stats can be returned': function(test){
+      test.expect(2);
+
+      var statistics = new Statistics({statsRoot:'test/fixtures/'});
+      var week1 = require('./fixtures/1/players.json');
+      var week2 = require('./fixtures/2/players.json');
+
+      statistics.latestTeam = { "CURRENTWEEK" : 1 };
+      test.deepEqual(statistics.getRecentPlayerStats(),
+          {week: 1, new: week1, old: {} }, 'The first week will have no old data');
+
+      statistics.latestTeam = { "CURRENTWEEK" : 2 };
+      test.deepEqual(statistics.getRecentPlayerStats(),
+          {week: 2, new: week2, old: week1 }, 'the second week returns the correct data');
 
       test.done();
   }

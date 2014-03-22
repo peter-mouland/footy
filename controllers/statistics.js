@@ -2,13 +2,15 @@ var cheerio = require('cheerio');
 var fs = require('fs');
 var request = require('request-promise');
 
-var statsRoot = 'public/stats/';
 var externalWeekUrl = 'https://fantasyfootball.skysports.com/json/teaminfo/0';
 var externalOverallUrl = 'https://fantasyfootball.skysports.com/statistics/';
-var teamPath = statsRoot + 'team.json';
 
-var statistics = function(){
-    this.latestTeam = this.getLatestTeam();
+var statistics = function(opts){
+    opts = opts || {};
+
+    this.statsRoot = opts.statsRoot || 'public/stats/';
+    this.teamPath = opts.teamPath || this.statsRoot + 'latest-team.json';
+
 };
 
 
@@ -82,10 +84,13 @@ statistics.prototype.scrapeTeam = function(){
 };
 
 statistics.prototype.getLatestTeam = function(){
-    return JSON.parse(fs.readFileSync( statsRoot + 'latest-team.json'));
+    if (!this.latestTeam) {
+        this.latestTeam =  JSON.parse(fs.readFileSync( this.teamPath ));
+    }
+    return this.latestTeam;
 };
 statistics.prototype.getPlayers = function(week){
-    return JSON.parse(fs.readFileSync( statsRoot + week + '/players.json'));
+    return JSON.parse(fs.readFileSync( this.statsRoot + week + '/players.json'));
 };
 
 statistics.prototype.scrapePlayers = function(week){
@@ -94,20 +99,47 @@ statistics.prototype.scrapePlayers = function(week){
 };
 
 statistics.prototype.saveTeam = function(body){
+    var latest = this.getLatestTeam();
     var newJson = JSON.parse(body);
     var newWeek = newJson.CURRENTWEEK;
-    var isUpToDate = this.latestTeam.CURRENTWEEK == newWeek;
-    if (isUpToDate){
+    var isUpToDate = latest.CURRENTWEEK == newWeek;
+    if (isUpToDate || this.weekInProgress(newJson)){
         return false;
     } else {
-        this.latestTeam = newJson; //todo: doesn't work
-        this.writeJson(teamPath, newJson);
+        this.latestTeam = newJson;
+        this.writeJson(this.teamPath, newJson);
         return newWeek;
     }
 };
 
+statistics.prototype.weekInProgress = function(weekJson){
+    var incompleteGames = 0;
+    weekJson.PAGE[0].FIXTURES_RESULTS.forEach(function(day){
+        day.FIXTURES.forEach(function(fixture){
+            if (fixture.HOMESCORE.length === 0){
+                incompleteGames ++;
+            }
+        });
+    });
+    return incompleteGames > 0;
+};
+
+
+statistics.prototype.getRecentPlayerStats = function(){
+    var latest = this.getLatestTeam();
+    var week = latest.CURRENTWEEK;
+    var newStats = this.getPlayers(week);
+    var oldStats = (week - 1) > 0 ? this.getPlayers(week - 1) : {};
+    return {
+        week: week,
+        new: newStats,
+        old: oldStats
+    };
+};
+
 statistics.prototype.savePlayers = function(body){
     if (!body){ return false; }
-    self.writeJson(statsRoot + this.latestTeam.CURRENTWEEK + '/players.json', self.tableToJson(body));
+    var latest = this.getLatestTeam();
+    this.writeJson(this.statsRoot + latest.CURRENTWEEK + '/players.json', this.tableToJson(body));
     return 'Saved';
 };

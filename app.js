@@ -2,8 +2,8 @@
 
 var express = require('express');
 var exphbs = require('express3-handlebars');
-var statistics = require('./controllers/statistics');
-var points = require('./controllers/points');
+var Statistics = require('./controllers/statistics');
+var Points = require('./controllers/points');
 
 var app = express();
 app.root = __dirname + '/';
@@ -13,30 +13,25 @@ app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 app.set('view options', { doctype : 'html', pretty : true });
 
+var stats = new Statistics();
+stats.getLatestTeam();
+var points = new Points();
 
 app.get('/', function(req, res){
-    res.render('home');
+    res.render('home', { week: stats.latestTeam});
 });
 
-app.get('/info', function(req, res){
-    var stats = new statistics();
-    res.send('Most Recent Update: week ' + stats.latestTeam.CURRENTWEEK + ' (complete: ' + stats.latestTeam.SUCCESS + ')');
-});
-
-app.get('/update', function(req, res){
-    var stats = new statistics();
+app.get('/update/stats', function(req, res){
     stats.update().then(function(response){
-        res.send(response);
+        var msg = (response) ? 'Stats Updated' : 'Nothing updated, either week is in progress or stats have already been saved';
+        res.render('home', { week: stats.latestTeam, msg: msg});
     });
 });
 
-app.get('/compare', function(req, res){
-    var stats = new statistics();
-    var week = stats.latestTeam.CURRENTWEEK;
-    var prevWeek = parseInt(week,10) - 1;
-    var cur = require(app.statsRoot + week + '/stats.json');
-    var prev = require(app.statsRoot + prevWeek + '/stats.json');
-    res.send(prev.arrStats[0].Total + ' | ' + cur.arrStats[0].Total );
+app.get('/update/points', function(req, res){
+    var response = points.update();
+    var msg = (response) ? 'Points Updated' : 'Nothing updated, points have already been saved';
+    res.render('home', { week: stats.latestTeam, msg: msg});
 });
 
 var server = app.listen(3000, function() {
