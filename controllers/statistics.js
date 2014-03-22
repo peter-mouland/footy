@@ -5,14 +5,14 @@ var request = require('request-promise');
 var statsRoot = 'public/stats/';
 var externalWeekUrl = 'https://fantasyfootball.skysports.com/json/teaminfo/0';
 var externalOverallUrl = 'https://fantasyfootball.skysports.com/statistics/';
-var currentWeek = statsRoot + 'current-week.json';
+var teamPath = statsRoot + 'team.json';
 
-var stats = function(){
-    this.current = JSON.parse(fs.readFileSync( statsRoot + 'current-week.json'));
+var statistics = function(){
+    this.latestTeam = this.getLatestTeam();
 };
 
 
-stats.prototype.tableToJson = function(body){
+statistics.prototype.tableToJson = function(body){
     var $ = cheerio.load(body);
     var o = {  mapHeadings:{}, arrHeadings:[], arrStats: [], mapStats : {} };
     var $th = $('.STFFDataTable th');
@@ -61,46 +61,53 @@ stats.prototype.tableToJson = function(body){
 
 
 
-module.exports = stats;
+module.exports = statistics;
 
-stats.prototype.writeJson = function(url, json){
+statistics.prototype.writeJson = function(url, json){
     fs.writeFile(url, JSON.stringify(json, null, 2), function(err){
         if (err) console.log(err);
         console.log(url + ' saved');
     });
 };
 
-stats.prototype.update = function(){
-     return this.getWeek()
-         .then(this.saveWeek.bind(this))
-         .then(this.getStats.bind(this))
-         .then(this.saveStats.bind(this));
+statistics.prototype.update = function(){
+     return this.scrapeTeam()
+         .then(this.saveTeam.bind(this))
+         .then(this.scrapePlayers.bind(this))
+         .then(this.savePlayers.bind(this));
 };
 
-stats.prototype.getWeek = function(){
+statistics.prototype.scrapeTeam = function(){
     return request(externalWeekUrl);
 };
 
-stats.prototype.getStats = function(week){
+statistics.prototype.getLatestTeam = function(){
+    return JSON.parse(fs.readFileSync( statsRoot + 'latest-team.json'));
+};
+statistics.prototype.getPlayers = function(week){
+    return JSON.parse(fs.readFileSync( statsRoot + week + '/players.json'));
+};
+
+statistics.prototype.scrapePlayers = function(week){
     if (!week){ return false; }
     return request(externalOverallUrl);
 };
 
-stats.prototype.saveWeek = function(body){
+statistics.prototype.saveTeam = function(body){
     var newJson = JSON.parse(body);
     var newWeek = newJson.CURRENTWEEK;
-    var isUpToDate = this.current.CURRENTWEEK == newWeek;
+    var isUpToDate = this.latestTeam.CURRENTWEEK == newWeek;
     if (isUpToDate){
         return false;
     } else {
-        this.current = newJson; //todo: doesn't work
-        this.writeJson(currentWeek, newJson);
+        this.latestTeam = newJson; //todo: doesn't work
+        this.writeJson(teamPath, newJson);
         return newWeek;
     }
 };
 
-stats.prototype.saveStats = function(body){
+statistics.prototype.savePlayers = function(body){
     if (!body){ return false; }
-    self.writeJson(statsRoot + this.current.CURRENTWEEK + '/stats.json', self.tableToJson(body));
+    self.writeJson(statsRoot + this.latestTeam.CURRENTWEEK + '/players.json', self.tableToJson(body));
     return 'Saved';
 };

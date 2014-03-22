@@ -1,6 +1,6 @@
 'use strict';
 
-var stats =  new (require('../controllers/stats.js'))();
+var statistics =  new (require('../controllers/statistics.js'))();
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -34,11 +34,11 @@ exports.footy = {
 
       test.expect(3);
     // tests here
-      test.deepEqual(stats.tableToJson(),
+      test.deepEqual(statistics.tableToJson(),
           { mapHeadings: {}, arrHeadings: [], arrStats: [], mapStats: {} },
           'Empty table should return JSON with empty maps + arrays');
 
-      test.deepEqual(stats.tableToJson(htmlTable),
+      test.deepEqual(statistics.tableToJson(htmlTable),
           { mapHeadings:
             { 'head name': 'head-name',
               'head one': 'head-title' },
@@ -49,7 +49,7 @@ exports.footy = {
             mapStats: {} },
           'Table without a Name column wont fill out mapStats');
 
-      test.deepEqual(stats.tableToJson(htmlTableWithName),
+      test.deepEqual(statistics.tableToJson(htmlTableWithName),
           { mapHeadings:
             { Name: 'head-name',
               'head one': 'head-title' },
@@ -65,20 +65,20 @@ exports.footy = {
     test.done();
   },
 
-  'Weekly summary can be saved': function(test) {
+  'Weekly team summary can be saved': function(test) {
       var week1 = '{ "CURRENTWEEK" : 1 }';
       var week2 = '{ "CURRENTWEEK" : 2 }';
       var writtenJson = 0;
       test.expect(4);
 
-      stats.current.CURRENTWEEK = 1;
-      stats.writeJson = function(){
+      statistics.latestTeam.CURRENTWEEK = 1;
+      statistics.writeJson = function(){
           writtenJson++;
       };
-      test.equal(stats.saveWeek(week1), false, 'returns false when weeks match');
+      test.equal(statistics.saveTeam(week1), false, 'returns false when weeks match');
       test.equal(writtenJson, 0, 'returning false doesn\'t write json');
 
-      test.equal(stats.saveWeek(week2), 2, 'returns latest week number when weeks mismatch');
+      test.equal(statistics.saveTeam(week2), 2, 'returns latest week number when weeks mismatch');
       test.equal(writtenJson, 1, 'returning true does write json');
 
       test.done();

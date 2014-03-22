@@ -1,0 +1,73 @@
+{
+    "mapHeadings": {
+        "Name": "Player name",
+        "Club": "Club",
+        "£m": "Price per million",
+        "SXI": "Starting XI",
+        "Sub": "Substitute On",
+        "Gls": "Goals",
+        "Ass": "Assist",
+        "MOM": "Man of the Match",
+        "CS": "Clean Sheet",
+        "GA": "Goals Against",
+        "PS": "Penalty Saved",
+        "YC": "Yellow Card",
+        "RC": "Red Card",
+        "Total": "Total"
+    },
+    "arrHeadings": [
+        "Name",
+        "Club",
+        "£m",
+        "SXI",
+        "Sub",
+        "Gls",
+        "Ass",
+        "MOM",
+        "CS",
+        "GA",
+        "PS",
+        "YC",
+        "RC",
+        "Total",
+        "&nbsp;"
+    ],
+    "arrStats": [
+        {
+            "Name": "Gouffran, Yoan",
+            "Club": "NEW",
+            "£m": "5.0",
+            "SXI": "20",
+            "Sub": "3",
+            "Gls": "5",
+            "Ass": "3",
+            "MOM": "0",
+            "CS": "0",
+            "GA": "0",
+            "PS": "0",
+            "YC": "1",
+            "RC": "0",
+            "Total": "88",
+            "&nbsp;": {}
+        }
+    ],
+    "mapStats": {
+        "Gouffran, Yoan": {
+            "Name": "Gouffran, Yoan",
+            "Club": "NEW",
+            "£m": "5.1",
+            "SXI": "22",
+            "Sub": "4",
+            "Gls": "6",
+            "Ass": "4",
+            "MOM": "0",
+            "CS": "0",
+            "GA": "0",
+            "PS": "0",
+            "YC": "2",
+            "RC": "0",
+            "Total": "90",
+            "&nbsp;": {}
+        }
+    }
+}
