@@ -10,8 +10,9 @@
  - `npm install`
 
 ## Runnning
-To create a new JSON file (which will appear in `stats/[date]/data.json` run:
- - `grunt`
+To view the site 
+ - run: `node app.js`
+ - goto `localhost:3000`
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
