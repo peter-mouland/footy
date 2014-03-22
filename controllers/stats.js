@@ -11,19 +11,14 @@ var stats = function(){
     this.current = JSON.parse(fs.readFileSync( statsRoot + 'current-week.json'));
 };
 
-var writeJson = function(url, json){
-    fs.writeFile(url, JSON.stringify(json, null, 2), function(err){
-        if (err) console.log(err);
-        console.log(url + ' saved');
-    });
-};
 
-var tableToJson = function(body){
+stats.prototype.tableToJson = function(body){
     var $ = cheerio.load(body);
     var o = {  mapHeadings:{}, arrHeadings:[], arrStats: [], mapStats : {} };
     var $th = $('.STFFDataTable th');
     var $tr = $('.STFFDataTable tr:not(:first-child)');
     var i, th, els, el, nodes, node, td, player;
+    var addPlayer = false;
     for (th in $th){
         if ($th.hasOwnProperty(th)) {
             el = $th[th];
@@ -34,25 +29,33 @@ var tableToJson = function(body){
         }
     }
     for (nodes in $tr){
-        player = {};
+        addPlayer = false;
+        delete player;
         i = 0;
         if ($tr.hasOwnProperty(nodes)) {
             node = $tr[nodes];
             if (nodes !== 'length'){
+                player = {};
                 for (els in node.children){
                     if (node.children.hasOwnProperty(els) ) {
                         el = node.children[els];
                         if (el.name == 'td' && o.arrHeadings[i].trim){
                             player[o.arrHeadings[i]] = el.children[0].data;
                             i++;
+                            addPlayer = true;
                         }
                     }
                 }
+                if (addPlayer){
+                    o.arrStats.push(player);
+                }
             }
         }
-        o.arrStats.push(player);
     }
-    o.arrStats.forEach(function(stats, i){o.mapStats[stats.Name] = stats});
+    o.arrStats.forEach(function(stats, i){
+        if (!stats.Name){ return; }
+        o.mapStats[stats.Name] = stats;
+    });
     return o;
 };
 
@@ -60,17 +63,30 @@ var tableToJson = function(body){
 
 module.exports = stats;
 
-
-stats.prototype.latest = function(){
-     return request(externalWeekUrl);
+stats.prototype.writeJson = function(url, json){
+    fs.writeFile(url, JSON.stringify(json, null, 2), function(err){
+        if (err) console.log(err);
+        console.log(url + ' saved');
+    });
 };
 
 stats.prototype.update = function(){
-    var self = this;
-     return this.latest().then(self.save.bind(self));
+     return this.getWeek()
+         .then(this.saveWeek.bind(this))
+         .then(this.getStats.bind(this))
+         .then(this.saveStats.bind(this));
 };
 
-stats.prototype.save = function(body){
+stats.prototype.getWeek = function(){
+    return request(externalWeekUrl);
+};
+
+stats.prototype.getStats = function(week){
+    if (!week){ return false; }
+    return request(externalOverallUrl);
+};
+
+stats.prototype.saveWeek = function(body){
     var newJson = JSON.parse(body);
     var newWeek = newJson.CURRENTWEEK;
     var isUpToDate = this.current.CURRENTWEEK == newWeek;
@@ -78,11 +94,13 @@ stats.prototype.save = function(body){
         return false;
     } else {
         this.current = newJson; //todo: doesn't work
-        writeJson(currentWeek, newJson);
-        return request(externalOverallUrl).then(function(body) {
-            var outputFilename = statsRoot + newWeek + '/stats.json';
-            writeJson(outputFilename, tableToJson(body));
-            return 'cool';
-        });
+        this.writeJson(currentWeek, newJson);
+        return newWeek;
     }
+};
+
+stats.prototype.saveStats = function(body){
+    if (!body){ return false; }
+    self.writeJson(statsRoot + this.current.CURRENTWEEK + '/stats.json', self.tableToJson(body));
+    return 'Saved';
 };

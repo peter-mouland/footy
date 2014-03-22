@@ -19,28 +19,21 @@
   "dependencies": {
     "request-promise":   "~0.0.3",
     "cheerio":   "~0.13.0",
-    "es6-promise":   "~0.1.1"
+      "express": "4.x",
+      "express3-handlebars": "~0.5.0"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-copy": "latest",
     "grunt-contrib-jshint": "~0.7.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-watch": "~0.5.0",
-    "grunt-exec": "~0.4.5",
-    "grunt-dom-munger": "~3.4.0",
-    "grunt-curl": "~1.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
     "load-grunt-tasks": "~0.2.0",
     "time-grunt": "~0.2.0",
-    "jshint-stylish": "~0.1.3",
-    "htmlparser": "~1.7.7",
-    "dateformat": "latest",
-    "express": "4.x",
-    "express3-handlebars": "~0.5.0",
-      "redis": "*"
+    "jshint-stylish": "~0.1.3"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "grunt test"
   },
   "engines": {
     "node": ">=0.10.0"
