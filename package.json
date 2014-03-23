@@ -24,10 +24,14 @@
   },
   "devDependencies": {
     "grunt": "~0.4.4",
-    "grunt-contrib-copy": "latest",
     "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-watch": "~0.5.0",
     "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-stylus": "~0.13.2",
+    "grunt-webfont": "latest",
+    "stylus": "~0.2.0",
     "load-grunt-tasks": "~0.2.0",
     "time-grunt": "~0.2.0",
     "jshint-stylish": "~0.1.3"

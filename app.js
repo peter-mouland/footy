@@ -12,6 +12,7 @@ app.statsRoot = app.public + 'stats/';
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 app.set('view options', { doctype : 'html', pretty : true });
+app.use(express.static(__dirname + '/public'));
 
 var stats = new Statistics();
 stats.getLatestTeam();

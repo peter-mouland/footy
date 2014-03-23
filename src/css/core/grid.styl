@@ -1,0 +1,161 @@
+
+body {
+  width: 100%;
+  min-width: 300px;
+}
+
+.row{
+  clearfix();
+  width: ((large-screen/full-width) * 100)%;
+  max-width: large-screen;
+  margin: 0 auto;
+  clear: left;
+  overflow: visible;
+}
+
+.span-12, .span-11,
+.span-10, .span-9,
+.span-8,  .span-7,
+.span-6,  .span-5,
+.span-4,  .span-3,
+.span-2,  .span-1 {
+  float: left;  margin-left: ((gutter/large-screen)*100)%;
+}
+
+.alpha,
+.span-12:first-child, .span-11:first-child,
+.span-10:first-child, .span-9:first-child,
+.span-8:first-child, .span-7:first-child,
+.span-6:first-child, .span-5:first-child,
+.span-4:first-child, .span-3:first-child,
+.span-2:first-child, .span-1:first-child {
+  margin-left: 0;
+  clear: left;
+}
+
+for i in (12..1) {
+  .span-{i} .cushioned {
+    padding: ((textIndent / ((column-space * i) - column-gap)) * 100) %;
+  }
+  .span-{i} {
+    width: ((((column-space * i) - column-gap) / large-screen) * 100) %;
+  }
+}
+
+for i in (1..11) {
+  .span-offset{i}, .span-offset{i}:first-child {
+    margin-left: (((column-space * i) / large-screen) * 100) %;
+  }
+  .span-offset{i}.alpha {
+    margin-left: ((((column-space * i) - column-gap) / large-screen) * 100) %;
+  }
+}
+
+
+@media (max-width: medium-screen) {
+  .span-12-medium, .span-11-medium,
+  .span-10-medium, .span-9-medium,
+  .span-8-medium,  .span-7-medium,
+  .span-6-medium,  .span-5-medium,
+  .span-4-medium,  .span-3-medium,
+  .span-2-medium,  .span-1-medium {
+    float: left;  margin-left: ((gutter/large-screen)*100)%;
+  }
+
+  .alpha-medium,
+  [class*=span-offset],[class*=span-offset]:first-child,
+  .span-12-medium:first-child,.span-11-medium:first-child,
+  .span-10-medium:first-child,.span-9-medium:first-child,
+  .span-8-medium:first-child,.span-7-medium:first-child,
+  .span-6-medium:first-child,.span-5-medium:first-child,
+  .span-4-medium:first-child,.span-3-medium:first-child,
+  .span-2-medium:first-child,.span-1-medium:first-child {
+    margin-left: 0;
+    clear:left;
+  }
+
+
+  for i in (12..1) {
+    .span-{i}-medium {
+      width: ((((column-space * i) - column-gap) / large-screen) * 100) %;
+    }
+  }
+
+  for i in (1..12) {
+    .span-{i}-medium .cushioned {
+      padding: ((textIndent / ((column-space * i) - column-gap)) * 100) %;
+    }
+  }
+
+
+  body .span-container-medium {
+    width: ((large-screen/full-width)*100)%;
+  }
+  body .span-container.bleed-medium {
+    width: 100%;
+  }
+}
+
+
+
+@media (max-width: small-screen) {
+  .span-12,.span-11,
+  .span-10,.span-9,
+  .span-8,.span-7,
+  .span-6,.span-5,
+  .span-4,.span-3,
+  .span-2,.span-1 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .span-12 .cushioned, .span-11 .cushioned,
+  .span-10 .cushioned, .span-9  .cushioned,
+  .span-8  .cushioned, .span-7  .cushioned,
+  .span-6  .cushioned, .span-5  .cushioned,
+  .span-4  .cushioned, .span-3  .cushioned,
+  .span-2  .cushioned, .span-1  .cushioned {
+    padding:((gutter/((column-space * 12)- gutter)) * 100)%;
+  }
+
+  .span-12-small, .span-11-small,
+  .span-10-small, .span-9-small,
+  .span-8-small,  .span-7-small,
+  .span-6-small,  .span-5-small,
+  .span-4-small,  .span-3-small,
+  .span-2-small,  .span-1-small {
+    float: left;  margin-left: ((gutter/large-screen) * 100)%;
+  }
+
+  .alpha-small,
+  [class*=span-offset],[class*=span-offset]:first-child,
+  .span-12-small:first-child,.span-11-small:first-child,
+  .span-10-small:first-child,.span-9-small:first-child,
+  .span-8-small:first-child,.span-7-small:first-child,
+  .span-6-small:first-child,.span-5-small:first-child,
+  .span-4-small:first-child,.span-3-small:first-child,
+  .span-2-small:first-child,.span-1-small:first-child {
+    margin-left: 0;
+    clear:left;
+  }
+
+  for i in (12..1) {
+    .span-{i}-small {
+      width: ((((column-space * i) - column-gap) / large-screen) * 100) %;
+    }
+  }
+
+  for i in (1..12) {
+    .span-{i}-small .cushioned {
+      padding: ((textIndent / ((column-space * i) - column-gap)) * 100) %;
+    }
+  }
+
+
+  body .span-container-small {
+    width: ((large-screen/full-width)*100)%;
+  }
+  body .span-container.bleed-small {
+    width: 100%;
+  }
+}

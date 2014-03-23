@@ -26,10 +26,49 @@ module.exports = function (grunt) {
         src: ['test/**/*.js']
       }
     },
-    exec: {
 
+    stylus: {
+        app: {
+            banner :'',
+            "include css": true,
+            paths: ['src/css/**/*'],
+            files: {
+                'public/css/app.css': 'src/css/app.styl'
+            }
+        }
     },
-
+    webfont:{
+        icons: {
+            src: 'src/fonts/icons/*.svg',
+            dest: 'public/fonts',
+            destCss: 'public/fonts',
+            options: {
+                ie7:false,
+                font : 'icon',
+                template : 'src/fonts/template/template.css',
+//                htmlDemoTemplate : 'grunt/fonts/template/skycon-template.html',
+                htmlDemo : false,
+                ligatures : false,
+//                    engine : 'node',
+//                destHtml : '_includes/base-styles/icons',
+                hashes : false,
+                embed : true
+            }
+        }
+    },
+    copy: {
+      images: {
+          files: [{
+              expand: true,
+              dot: true,
+              cwd: 'src/',
+              dest: 'public',
+              src: [
+                  'images/backgrounds/*.{jpg,png}'
+              ]
+          }]
+      }
+    },
     watch: {
       gruntfile: {
         files: '<%= jshint.gruntfile.src %>',
@@ -47,7 +86,7 @@ module.exports = function (grunt) {
   });
 
     // Default task.
-  grunt.registerTask('default', ['jshint']);
+  grunt.registerTask('default', ['jshint', 'stylus', 'copy:images', 'webfont']);
   grunt.registerTask('test', ['nodeunit']);
 
 };

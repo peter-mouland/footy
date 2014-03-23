@@ -1,0 +1,67 @@
+
+//grid
+gutter = 36px;
+column = 100px;
+column-gap = 20px;
+textIndent = 20px;
+
+small-screen = 600px;
+medium-screen = 900px;
+large-screen = ((column * 12) + (column-gap * 11))px;
+full-width = large-screen + gutter + gutter;
+column-space = column + column-gap;
+
+//typography
+base-font-size = 16px;
+font = Helvetica Neue, Helvetica, Arial, sans-serif;
+
+// colours
+link = #0070a5;
+primary = #333333;
+white = #fff;
+secondary = #666666;
+inactive = #999999;
+error = #D21717;
+background-dark = #eaeaea;
+background-light = #f4f4f4;
+background-focus = #004ac5;
+
+
+//mixins
+ellipsis()
+  white-space : nowrap;
+  overflow : hidden;
+  text-overflow : ellipsis;
+  -o-text-overflow : ellipsis;
+  -ms-text-overflow : ellipsis;
+  display : inline-block;
+  max-width : 100%;
+
+
+speak()
+  position : absolute !important;
+  clip : rect(1px, 1px, 1px, 1px);
+  clip : rect(1px 1px 1px 1px); /* IE6, IE7 */
+  padding :0 ;
+  border :0 ;
+  height : 1px ;
+  width : 1px ;
+  overflow : hidden;
+  display : block;
+
+
+sticky()
+  position : -webkit-sticky;
+  position : -moz-sticky;
+  position : -ms-sticky;
+  position : -o-sticky;
+  position : sticky;
+  top : 0;
+  z-index : 25;
+
+filter(style)
+  -webkit-filter: style;
+  -moz-filter: style;
+  -o-filter: style;
+  -ms-filter: style;
+  filter: style;

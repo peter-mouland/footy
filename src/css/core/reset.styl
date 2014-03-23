@@ -1,0 +1,61 @@
+html {
+  background: #000;
+}
+html, body, #main {
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-family:  font;
+  font-size: base-font-size;
+}
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+ol, ul, dl,
+li, dt, dd,
+h1,h2,h3,h4,h5,
+p, figure{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+h1,h2,h3,h4,h5{
+  font-family: font;
+  font-weight:100;
+}
+p{
+  margin: 1em 0;
+}
+time{
+  display: block;
+  font-size: 12px;
+  margin:1em 0 1.8em;
+  color: #a4a4a4;
+}
+
+video,
+img{
+  display: block;
+  max-width: 100%;
+  background: #000 url("/src/images/animated/ajax-loader.gif") center center no-repeat;
+}
+a{
+  color: link;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+a.has-focus,
+a.has-focus:focus,
+.has-focus,
+.has-focus:focus{
+  background-color: background-focus;
+  color: white!important;
+  box-shadow: 0px 0px 0px 2px background-focus;
+  i, span{
+    color: white;
+  }
+}

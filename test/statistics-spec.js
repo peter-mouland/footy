@@ -31,8 +31,8 @@ exports.footy = {
       test.expect(3);
 
       var statistics = new Statistics();
-      var htmlTable = '<table class="STFFDataTable"><tr><th title="head-name">head name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>'
-      var htmlTableWithName = '<table class="STFFDataTable"><tr><th title="head-name">Name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>'
+      var htmlTable = '<table class="STFFDataTable"><tr><th title="head-name">head name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>';
+      var htmlTableWithName = '<table class="STFFDataTable"><tr><th title="head-name">Name</th><th title="head-title">head one</th></tr><tr><td Name>cell name</td><td title="cell-title">cell one</td></tr></table>';
 
     // tests here
       test.deepEqual(statistics.tableToJson(),
