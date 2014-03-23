@@ -47,7 +47,7 @@ exports.footy = {
   },
 
 
-    'Points all players can be calculated': function(test) {
+    'Points for all players can be calculated': function(test) {
         test.expect(3);
 
         var week1 = require('./fixtures/points-week1.json');
@@ -60,7 +60,9 @@ exports.footy = {
                 new: { arrStats: [] }
             };
         };
-        test.deepEqual(points.calculateAllPlayersWeek(),{ week: 1, points: {} },'empty JSON is returned with no stats');
+        test.deepEqual(points.calculateAllPlayersWeek(),
+            { week: 1, points: {}, winners: [], losers: [] },
+            'empty JSON is returned with no stats');
 
         points.getRecentPlayerStats = function(){
             return {
@@ -75,7 +77,9 @@ exports.footy = {
             };
         };
         test.deepEqual(points.calculateAllPlayersWeek(),
-            { week: 1, points: { 'Gouffran, Yoan': 3 } },
+            { week: 1, points: [ {name: 'Gouffran, Yoan', change:3 }],
+                       winners: [ { name: 'Gouffran, Yoan', change: 3 } ],
+                       losers: [ { name: 'Gouffran, Yoan', change: 3 } ]  },
             'first week JSON is returned with stats');
 
         points.getRecentPlayerStats = function(){
@@ -86,10 +90,39 @@ exports.footy = {
             };
         };
         test.deepEqual(points.calculateAllPlayersWeek(),
-            { week: 2, points: { 'Gouffran, Yoan': -1 } },
+            { week: 2, points: [ {name: 'Gouffran, Yoan', change:-1 }],
+                winners: [ { name: 'Gouffran, Yoan', change: -1 } ],
+                losers: [ { name: 'Gouffran, Yoan', change: -1 } ] },
             'first week JSON is returned with stats');
 
         test.done();
 
+    }
+    ,
+    'Winners and losers are known':function(test){
+        test.expect(8);
+
+        var testData = [
+            {name:'win1',change:1},
+            {name:'win2',change:10},
+            {name:'lose1',change:-10},
+            {name:'lose2',change:-1},
+            {name:'win3',change:5},
+            {name:'lose3',change:-5}
+        ];
+        var winners = points.calculateWinners(testData);
+        var losers = points.calculateLosers(testData);
+
+        test.equal(winners[0].name,'win2','Puts highest points first');
+        test.equal(winners[1].name,'win3','Puts points in correct order');
+        test.equal(winners[2].name,'win1','Puts lowest points last');
+        test.equal(winners.length,5,'Returns 5 items');
+
+        test.equal(losers[0].name,'lose1','Puts lowest points first');
+        test.equal(losers[1].name,'lose3','Puts points in correct order');
+        test.equal(losers[2].name,'lose2','Puts lowest points last');
+        test.equal(losers.length,5,'Returns 5 items');
+
+        test.done();
     }
 };

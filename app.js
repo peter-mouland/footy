@@ -20,7 +20,6 @@ var points = new Points();
 points.calculateAllPlayersWeek();
 
 app.get('/', function(req, res){
-    console.log(points.latestPlayersWeek);
     res.render('home', { week: stats.latestTeam, playerWeek: points.latestPlayersWeek});
 });
 
