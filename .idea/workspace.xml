@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="847e769a-6d7f-47cb-9a70-acb93f137703" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/pages/banner.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/pages/menu.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/pages/player.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/players-summary.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/pages/summary.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/week-summary.handlebars" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/pages/home.styl" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/icon.eot" afterPath="$PROJECT_DIR$/public/fonts/icon.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/app.styl" afterPath="$PROJECT_DIR$/src/css/app.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/core/grid.styl" afterPath="$PROJECT_DIR$/src/css/core/grid.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/core/helpers.styl" afterPath="$PROJECT_DIR$/src/css/core/helpers.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.handlebars" afterPath="$PROJECT_DIR$/views/home.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/icon.css" afterPath="$PROJECT_DIR$/public/fonts/icon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/icon.svg" afterPath="$PROJECT_DIR$/public/fonts/icon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/icon.ttf" afterPath="$PROJECT_DIR$/public/fonts/icon.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/main.handlebars" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/points.js" afterPath="$PROJECT_DIR$/controllers/points.js" />
+    <list default="true" id="847e769a-6d7f-47cb-9a70-acb93f137703" name="Default" comment="fix points json">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stats/31/points.json" afterPath="$PROJECT_DIR$/public/stats/31/points.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/core/reset.styl" afterPath="$PROJECT_DIR$/src/css/core/reset.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/core/variables.styl" afterPath="$PROJECT_DIR$/src/css/core/variables.styl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="footy.iws" />
@@ -92,8 +70,8 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.269231" vertical-offset="0" max-vertical-offset="840">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="59" />
+            <state vertical-scroll-proportion="-25.384615" vertical-offset="0" max-vertical-offset="840">
+              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -109,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="points.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="points.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/points.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.923077" vertical-offset="195" max-vertical-offset="1650">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.79045403" vertical-offset="791" max-vertical-offset="1650">
+              <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -122,17 +100,17 @@
       <file leaf-file-name="points.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stats/31/points.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="36660">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state vertical-scroll-proportion="1604.125" vertical-offset="38724" max-vertical-offset="39585">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="players-summary.handlebars" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="players-summary.handlebars" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/players-summary.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34843206" vertical-offset="0" max-vertical-offset="861">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
               <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding />
             </state>
@@ -703,7 +681,8 @@
     <MESSAGE value="added menu + write points to file" />
     <MESSAGE value="added viewing routes" />
     <MESSAGE value="improved look" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved look" />
+    <MESSAGE value="added basic stats to the home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added basic stats to the home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1073,30 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.269231" vertical-offset="0" max-vertical-offset="840">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stats/31/points.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="36660">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.923077" vertical-offset="195" max-vertical-offset="1650">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/core/helpers.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2385">
@@ -1123,8 +1078,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/players-summary.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34843206" vertical-offset="0" max-vertical-offset="861">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
           <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stats/31/points.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1604.125" vertical-offset="38724" max-vertical-offset="39585">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.384615" vertical-offset="0" max-vertical-offset="840">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/points.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79045403" vertical-offset="791" max-vertical-offset="1650">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
           <folding />
         </state>
       </provider>
