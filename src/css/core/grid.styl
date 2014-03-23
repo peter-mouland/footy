@@ -52,6 +52,10 @@ for i in (1..11) {
 }
 
 
+body .row.bleed {
+  width: 100%;
+}
+
 @media less-than-medium{
   .span-12-medium, .span-11-medium,
   .span-10-medium, .span-9-medium,
@@ -88,10 +92,10 @@ for i in (1..11) {
   }
 
 
-  body .span-container-medium {
+  body .row-medium {
     width: ((large-screen/full-width)*100)%;
   }
-  body .span-container.bleed-medium {
+  body .row.bleed-medium {
     width: 100%;
   }
 }
@@ -152,10 +156,10 @@ for i in (1..11) {
   }
 
 
-  body .span-container-small {
+  body .row-small {
     width: ((large-screen/full-width)*100)%;
   }
-  body .span-container.bleed-small {
+  body .row.bleed-small {
     width: 100%;
   }
 }

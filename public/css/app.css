@@ -88,8 +88,8 @@ body {
 }
 .row {
   zoom: 1;
-  width: 95.17426273458445%;
-  max-width: 1420px;
+  width: 95.7943925233645%;
+  max-width: 1640px;
   margin: 0 auto;
   clear: left;
   overflow: visible;
@@ -115,7 +115,7 @@ body {
 .span-2,
 .span-1 {
   float: left;
-  margin-left: 1.4084507042253522%;
+  margin-left: 2.4390243902439024%;
 }
 .alpha,
 .span-12:first-child,
@@ -134,153 +134,156 @@ body {
   clear: left;
 }
 .span-12 .cushioned {
-  padding: 1.4084507042253522%;
+  padding: 2.4390243902439024%;
 }
 .span-12 {
   width: 100%;
 }
 .span-11 .cushioned {
-  padding: 1.5384615384615385%;
+  padding: 2.666666666666667%;
 }
 .span-11 {
-  width: 91.54929577464789%;
+  width: 91.46341463414635%;
 }
 .span-10 .cushioned {
-  padding: 1.694915254237288%;
+  padding: 2.941176470588235%;
 }
 .span-10 {
-  width: 83.09859154929578%;
+  width: 82.92682926829268%;
 }
 .span-9 .cushioned {
-  padding: 1.8867924528301887%;
+  padding: 3.278688524590164%;
 }
 .span-9 {
-  width: 74.64788732394366%;
+  width: 74.39024390243902%;
 }
 .span-8 .cushioned {
-  padding: 2.127659574468085%;
+  padding: 3.7037037037037033%;
 }
 .span-8 {
-  width: 66.19718309859155%;
+  width: 65.85365853658537%;
 }
 .span-7 .cushioned {
-  padding: 2.4390243902439024%;
+  padding: 4.25531914893617%;
 }
 .span-7 {
-  width: 57.74647887323944%;
+  width: 57.3170731707317%;
 }
 .span-6 .cushioned {
-  padding: 2.857142857142857%;
+  padding: 5%;
 }
 .span-6 {
-  width: 49.29577464788733%;
+  width: 48.78048780487805%;
 }
 .span-5 .cushioned {
-  padding: 3.4482758620689653%;
+  padding: 6.0606060606060606%;
 }
 .span-5 {
-  width: 40.845070422535215%;
+  width: 40.243902439024396%;
 }
 .span-4 .cushioned {
-  padding: 4.3478260869565215%;
+  padding: 7.6923076923076925%;
 }
 .span-4 {
-  width: 32.3943661971831%;
+  width: 31.70731707317073%;
 }
 .span-3 .cushioned {
-  padding: 5.88235294117647%;
+  padding: 10.526315789473683%;
 }
 .span-3 {
-  width: 23.943661971830984%;
+  width: 23.170731707317074%;
 }
 .span-2 .cushioned {
-  padding: 9.090909090909092%;
+  padding: 16.666666666666664%;
 }
 .span-2 {
-  width: 15.492957746478872%;
+  width: 14.634146341463413%;
 }
 .span-1 .cushioned {
-  padding: 20%;
+  padding: 40%;
 }
 .span-1 {
-  width: 7.042253521126761%;
+  width: 6.097560975609756%;
 }
 .span-offset1,
 .span-offset1:first-child {
-  margin-left: 8.450704225352112%;
+  margin-left: 8.536585365853659%;
 }
 .span-offset1.alpha {
-  margin-left: 7.042253521126761%;
+  margin-left: 6.097560975609756%;
 }
 .span-offset2,
 .span-offset2:first-child {
-  margin-left: 16.901408450704224%;
+  margin-left: 17.073170731707318%;
 }
 .span-offset2.alpha {
-  margin-left: 15.492957746478872%;
+  margin-left: 14.634146341463413%;
 }
 .span-offset3,
 .span-offset3:first-child {
-  margin-left: 25.352112676056336%;
+  margin-left: 25.609756097560975%;
 }
 .span-offset3.alpha {
-  margin-left: 23.943661971830984%;
+  margin-left: 23.170731707317074%;
 }
 .span-offset4,
 .span-offset4:first-child {
-  margin-left: 33.80281690140845%;
+  margin-left: 34.146341463414636%;
 }
 .span-offset4.alpha {
-  margin-left: 32.3943661971831%;
+  margin-left: 31.70731707317073%;
 }
 .span-offset5,
 .span-offset5:first-child {
-  margin-left: 42.25352112676056%;
+  margin-left: 42.68292682926829%;
 }
 .span-offset5.alpha {
-  margin-left: 40.845070422535215%;
+  margin-left: 40.243902439024396%;
 }
 .span-offset6,
 .span-offset6:first-child {
-  margin-left: 50.70422535211267%;
+  margin-left: 51.21951219512195%;
 }
 .span-offset6.alpha {
-  margin-left: 49.29577464788733%;
+  margin-left: 48.78048780487805%;
 }
 .span-offset7,
 .span-offset7:first-child {
-  margin-left: 59.154929577464785%;
+  margin-left: 59.756097560975604%;
 }
 .span-offset7.alpha {
-  margin-left: 57.74647887323944%;
+  margin-left: 57.3170731707317%;
 }
 .span-offset8,
 .span-offset8:first-child {
-  margin-left: 67.6056338028169%;
+  margin-left: 68.29268292682927%;
 }
 .span-offset8.alpha {
-  margin-left: 66.19718309859155%;
+  margin-left: 65.85365853658537%;
 }
 .span-offset9,
 .span-offset9:first-child {
-  margin-left: 76.05633802816901%;
+  margin-left: 76.82926829268293%;
 }
 .span-offset9.alpha {
-  margin-left: 74.64788732394366%;
+  margin-left: 74.39024390243902%;
 }
 .span-offset10,
 .span-offset10:first-child {
-  margin-left: 84.50704225352112%;
+  margin-left: 85.36585365853658%;
 }
 .span-offset10.alpha {
-  margin-left: 83.09859154929578%;
+  margin-left: 82.92682926829268%;
 }
 .span-offset11,
 .span-offset11:first-child {
-  margin-left: 92.95774647887323%;
+  margin-left: 93.90243902439023%;
 }
 .span-offset11.alpha {
-  margin-left: 91.54929577464789%;
+  margin-left: 91.46341463414635%;
+}
+body .row.bleed {
+  width: 100%;
 }
 @media  (max-width: 900px) {
   .span-12-medium,
@@ -296,7 +299,7 @@ body {
   .span-2-medium,
   .span-1-medium {
     float: left;
-    margin-left: 1.4084507042253522%;
+    margin-left: 2.4390243902439024%;
   }
   .alpha-medium,
   [class*=span-offset],
@@ -320,78 +323,78 @@ body {
     width: 100%;
   }
   .span-11-medium {
-    width: 91.54929577464789%;
+    width: 91.46341463414635%;
   }
   .span-10-medium {
-    width: 83.09859154929578%;
+    width: 82.92682926829268%;
   }
   .span-9-medium {
-    width: 74.64788732394366%;
+    width: 74.39024390243902%;
   }
   .span-8-medium {
-    width: 66.19718309859155%;
+    width: 65.85365853658537%;
   }
   .span-7-medium {
-    width: 57.74647887323944%;
+    width: 57.3170731707317%;
   }
   .span-6-medium {
-    width: 49.29577464788733%;
+    width: 48.78048780487805%;
   }
   .span-5-medium {
-    width: 40.845070422535215%;
+    width: 40.243902439024396%;
   }
   .span-4-medium {
-    width: 32.3943661971831%;
+    width: 31.70731707317073%;
   }
   .span-3-medium {
-    width: 23.943661971830984%;
+    width: 23.170731707317074%;
   }
   .span-2-medium {
-    width: 15.492957746478872%;
+    width: 14.634146341463413%;
   }
   .span-1-medium {
-    width: 7.042253521126761%;
+    width: 6.097560975609756%;
   }
   .span-1-medium .cushioned {
-    padding: 20%;
+    padding: 40%;
   }
   .span-2-medium .cushioned {
-    padding: 9.090909090909092%;
+    padding: 16.666666666666664%;
   }
   .span-3-medium .cushioned {
-    padding: 5.88235294117647%;
+    padding: 10.526315789473683%;
   }
   .span-4-medium .cushioned {
-    padding: 4.3478260869565215%;
+    padding: 7.6923076923076925%;
   }
   .span-5-medium .cushioned {
-    padding: 3.4482758620689653%;
+    padding: 6.0606060606060606%;
   }
   .span-6-medium .cushioned {
-    padding: 2.857142857142857%;
+    padding: 5%;
   }
   .span-7-medium .cushioned {
-    padding: 2.4390243902439024%;
+    padding: 4.25531914893617%;
   }
   .span-8-medium .cushioned {
-    padding: 2.127659574468085%;
+    padding: 3.7037037037037033%;
   }
   .span-9-medium .cushioned {
-    padding: 1.8867924528301887%;
+    padding: 3.278688524590164%;
   }
   .span-10-medium .cushioned {
-    padding: 1.694915254237288%;
+    padding: 2.941176470588235%;
   }
   .span-11-medium .cushioned {
-    padding: 1.5384615384615385%;
+    padding: 2.666666666666667%;
   }
   .span-12-medium .cushioned {
-    padding: 1.4084507042253522%;
+    padding: 2.4390243902439024%;
   }
-  body .span-container-medium {
-    width: 95.17426273458445%;
+  body .row-medium {
+    width: 95.7943925233645%;
   }
-  body .span-container.bleed-medium {
+  body .row.bleed-medium {
     width: 100%;
   }
 }
@@ -423,7 +426,7 @@ body {
   .span-3 .cushioned,
   .span-2 .cushioned,
   .span-1 .cushioned {
-    padding: 2.564102564102564%;
+    padding: 2.18978102189781%;
   }
   .span-12-small,
   .span-11-small,
@@ -438,7 +441,7 @@ body {
   .span-2-small,
   .span-1-small {
     float: left;
-    margin-left: 1.4084507042253522%;
+    margin-left: 2.4390243902439024%;
   }
   .alpha-small,
   [class*=span-offset],
@@ -462,78 +465,78 @@ body {
     width: 100%;
   }
   .span-11-small {
-    width: 91.54929577464789%;
+    width: 91.46341463414635%;
   }
   .span-10-small {
-    width: 83.09859154929578%;
+    width: 82.92682926829268%;
   }
   .span-9-small {
-    width: 74.64788732394366%;
+    width: 74.39024390243902%;
   }
   .span-8-small {
-    width: 66.19718309859155%;
+    width: 65.85365853658537%;
   }
   .span-7-small {
-    width: 57.74647887323944%;
+    width: 57.3170731707317%;
   }
   .span-6-small {
-    width: 49.29577464788733%;
+    width: 48.78048780487805%;
   }
   .span-5-small {
-    width: 40.845070422535215%;
+    width: 40.243902439024396%;
   }
   .span-4-small {
-    width: 32.3943661971831%;
+    width: 31.70731707317073%;
   }
   .span-3-small {
-    width: 23.943661971830984%;
+    width: 23.170731707317074%;
   }
   .span-2-small {
-    width: 15.492957746478872%;
+    width: 14.634146341463413%;
   }
   .span-1-small {
-    width: 7.042253521126761%;
+    width: 6.097560975609756%;
   }
   .span-1-small .cushioned {
-    padding: 20%;
+    padding: 40%;
   }
   .span-2-small .cushioned {
-    padding: 9.090909090909092%;
+    padding: 16.666666666666664%;
   }
   .span-3-small .cushioned {
-    padding: 5.88235294117647%;
+    padding: 10.526315789473683%;
   }
   .span-4-small .cushioned {
-    padding: 4.3478260869565215%;
+    padding: 7.6923076923076925%;
   }
   .span-5-small .cushioned {
-    padding: 3.4482758620689653%;
+    padding: 6.0606060606060606%;
   }
   .span-6-small .cushioned {
-    padding: 2.857142857142857%;
+    padding: 5%;
   }
   .span-7-small .cushioned {
-    padding: 2.4390243902439024%;
+    padding: 4.25531914893617%;
   }
   .span-8-small .cushioned {
-    padding: 2.127659574468085%;
+    padding: 3.7037037037037033%;
   }
   .span-9-small .cushioned {
-    padding: 1.8867924528301887%;
+    padding: 3.278688524590164%;
   }
   .span-10-small .cushioned {
-    padding: 1.694915254237288%;
+    padding: 2.941176470588235%;
   }
   .span-11-small .cushioned {
-    padding: 1.5384615384615385%;
+    padding: 2.666666666666667%;
   }
   .span-12-small .cushioned {
-    padding: 1.4084507042253522%;
+    padding: 2.4390243902439024%;
   }
-  body .span-container-small {
-    width: 95.17426273458445%;
+  body .row-small {
+    width: 95.7943925233645%;
   }
-  body .span-container.bleed-small {
+  body .row.bleed-small {
     width: 100%;
   }
 }
@@ -948,6 +951,9 @@ h1 {
 }
 .summary li {
   line-height: 1.2em;
+}
+.summary-content {
+  background-color: rgba(0,0,0,0.25);
 }
 .week-summary {
   background: rgba(150,0,0,0.7);
