@@ -19,7 +19,7 @@ body {
 .span-6,  .span-5,
 .span-4,  .span-3,
 .span-2,  .span-1 {
-  float: left;  margin-left: ((gutter/large-screen)*100)%;
+  float: left;  margin-left: ((column-gap/large-screen)*100)%;
 }
 
 .alpha,
@@ -52,14 +52,14 @@ for i in (1..11) {
 }
 
 
-@media (max-width: medium-screen) {
+@media less-than-medium{
   .span-12-medium, .span-11-medium,
   .span-10-medium, .span-9-medium,
   .span-8-medium,  .span-7-medium,
   .span-6-medium,  .span-5-medium,
   .span-4-medium,  .span-3-medium,
   .span-2-medium,  .span-1-medium {
-    float: left;  margin-left: ((gutter/large-screen)*100)%;
+    float: left;  margin-left: ((column-gap/large-screen)*100)%;
   }
 
   .alpha-medium,
@@ -98,7 +98,7 @@ for i in (1..11) {
 
 
 
-@media (max-width: small-screen) {
+@media less-than-small{
   .span-12,.span-11,
   .span-10,.span-9,
   .span-8,.span-7,
@@ -124,7 +124,7 @@ for i in (1..11) {
   .span-6-small,  .span-5-small,
   .span-4-small,  .span-3-small,
   .span-2-small,  .span-1-small {
-    float: left;  margin-left: ((gutter/large-screen) * 100)%;
+    float: left;  margin-left: ((column-gap/large-screen) * 100)%;
   }
 
   .alpha-small,

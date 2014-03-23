@@ -26,15 +26,35 @@ points.prototype.getRecentPlayerStats = function(){
 
 points.prototype.calculateAllPlayersWeek = function(){
     var points = this;
-    var weeklyPoints = {};
+    var weeklyPoints = [];
     var stats = this.getRecentPlayerStats();
     stats.new.arrStats.forEach(function(newPlayerStats, i){
-        weeklyPoints[newPlayerStats.Name] = points.calculatePlayer(stats.old, newPlayerStats);
+        weeklyPoints.push({
+            name: newPlayerStats.Name,
+            change: points.calculatePlayer(stats.old, newPlayerStats)
+        });
     });
-    return {
+    this.latestPlayersWeek = {
         week: stats.week,
-        points: weeklyPoints
+        points: weeklyPoints,
+        winners: this.calculateWinners(weeklyPoints),
+        losers: this.calculateLosers(weeklyPoints)
     };
+    return this.latestPlayersWeek;
+};
+
+points.prototype.calculateWinners = function(points){
+    var wins = points.sort(function(a,b) {
+        return parseFloat(b.change) - parseFloat(a.change)
+    });
+    return wins.slice(0,5);
+};
+
+points.prototype.calculateLosers = function(points){
+    var loses = points.sort(function(a,b) {
+        return parseFloat(a.change) - parseFloat(b.change)
+    });
+    return loses.slice(0,5);
 };
 
 points.prototype.calculatePlayer = function(oldStats, newPlayerStats){

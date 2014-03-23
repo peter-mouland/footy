@@ -81,12 +81,16 @@ module.exports = function (grunt) {
       test: {
         files: '<%= jshint.test.src %>',
         tasks: ['jshint:test', 'nodeunit']
+      },
+      stylus: {
+          files: 'src/css/**/*',
+          tasks: ['stylus']
       }
     }
   });
 
     // Default task.
-  grunt.registerTask('default', ['jshint', 'stylus', 'copy:images', 'webfont']);
+  grunt.registerTask('default', ['jshint', 'stylus', 'copy:images', 'webfont', 'watch']);
   grunt.registerTask('test', ['nodeunit']);
 
 };

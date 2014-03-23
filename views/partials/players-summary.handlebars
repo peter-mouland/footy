@@ -1,0 +1,36 @@
+<div class="summary player-summary">
+    <h2 class="summary-header speak-medium-large">
+        Top Players
+    </h2>
+    <div class="row middle-medium-large">
+        <div class="summary-content span-6">
+            <div class="clearfix cushioned">
+                <div class="span-6 span-6-small">
+                    <h3>Winners</h3>
+                    <ul class="row">
+                        {{#each playerWeek.winners}}
+                            <li>
+                                <span class="span-2 span-2-small">{{this.change}}</span>
+                                <span class="span-10 span-10-small">{{this.name}}</span>
+                            </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                <div class="span-6 span-6-small">
+                    <h3>Losers</h3>
+                    <ul class="row">
+                        {{#each playerWeek.losers}}
+                            <li>
+                                <span class="span-2 span-2-small">{{this.change}}</span>
+                                <span class="span-10 span-10-small">{{this.name}}</span>
+                            </li>
+                        {{/each}}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <h2 class="summary-header span-6 hidden-small" aria-hidden="true">
+            Top Players
+        </h2>
+    </div>
+</div>

@@ -1,614 +1,2439 @@
-{
-  "week": "31",
-  "points": {
-    "Gouffran, Yoan": 0,
-    "Palacios, Wilson": 0,
-    "Maiga, Modibo": 0,
-    "Gardner, Craig": -2,
-    "Ridgewell, Liam": 0,
-    "Chiriches, Vlad": 0,
-    "Bunn, Mark": 0,
-    "Lindegaard, Anders": 0,
-    "Borriello, Marco": 0,
-    "Do Prado, Guly": 0,
-    "Pantilimon, Costel": 0,
-    "Hernandez, Pablo": 0,
-    "Shaw, Luke": 0,
-    "Soldado, Roberto": -2,
-    "Campbell, Fraizer": -2,
-    "van Wolfswinkel, Ricky": 0,
-    "Cairney, Tom": 0,
-    "Fletcher, Darren": 0,
-    "Muniesa, Marc": 0,
-    "Carroll, Andy": 1,
-    "Reid, Steven": -2,
-    "Stones, John": 0,
-    "Wickham, Connor": 0,
-    "Pieters, Erik": 0,
-    "McNaughton, Kevin": 0,
-    "Maynard, Nicky": 0,
-    "Rodwell, Jack": 0,
-    "Holtby, Lewis": 0,
-    "Wilkinson, Andy": 0,
-    "Bony, Wilfried": 0,
-    "Oscar": 0,
-    "Quinn, Stephen": 0,
-    "Lamela, Erik": 0,
-    "Aguero, Sergio": 0,
-    "Adebayor, Emmanuel": 0,
-    "Schneiderlin, Morgan": 1,
-    "Fox, David": 0,
-    "Lambert, Rickie": 1,
-    "Fellaini, Marouane": 0,
-    "Walker, Kyle": 0,
-    "Harris, Kadeem": 0,
-    "Good, Curtis": 0,
-    "Kagawa, Shinji": 0,
-    "Taylor, Neil": 0,
-    "Cisse, Papiss": 0,
-    "Richardson, Kieran": 0,
-    "Collins, James": 0,
-    "Ward-Prowse, James": 0,
-    "Santos, Andre": 0,
-    "Arnautovic, Marko": 1,
-    "McCartney, George": 0,
-    "Gera, Zoltan": 0,
-    "Dann, Scott": 0,
-    "Noone, Craig": 0,
-    "Toure, Kolo": 0,
-    "Cork, Jack": 0,
-    "Evra, Patrice": 0,
-    "Lennon, Aaron": 0,
-    "Johnson, Roger": 0,
-    "Kozak, Libor": 0,
-    "Wisdom, Andre": 0,
-    "Noble, Mark": -2,
-    "Taylor, Steven": 0,
-    "Davis, Steven": -2,
-    "Gabbidon, Danny": 0,
-    "Fryatt, Matty": 0,
-    "Jones, Brad": 0,
-    "Boruc, Artur": 0,
-    "Sinclair, Scott": 0,
-    "Bentaleb, Nabil": 0,
-    "Meyler, David": 0,
-    "Nzonzi, Steven": 0,
-    "McClean, James": 0,
-    "Maicon": 0,
-    "Barkley, Ross": 0,
-    "Nastasic, Matija": 0,
-    "Chico": 0,
-    "Hutton, Alan": 0,
-    "Grandin, Elliot": 0,
-    "Spence, Jordan": 0,
-    "Gallagher, Sam": 1,
-    "Ireland, Stephen": 0,
-    "Garrido, Javier": 0,
-    "Osvaldo, Pablo": 0,
-    "Alexander, Neil": 0,
-    "Taarabt, Adel": 0,
-    "Bacuna, Leandro": 0,
-    "van Persie, Robin": 0,
-    "Daehli, Mats": 0,
-    "Nani": 0,
-    "Gedo": 0,
-    "Foster, Ben": 0,
-    "Brayford, John": 0,
-    "Dembele, Mousa": 0,
-    "Dummett, Paul": 0,
-    "Remy, Loic": 0,
-    "Parr, Jonathan": 0,
-    "Tremmel, Gerhard": 0,
-    "Mason, Joe": 0,
-    "Lukaku, Romelu": 0,
-    "Bartley, Kyle": 0,
-    "McGregor, Allan": 0,
-    "Eto'o, Samuel": 0,
-    "Agustien, Kemy": 0,
-    "Obertan, Gabriel": 0,
-    "Marshall, David": 0,
-    "Vergini, Santiago": 0,
-    "Diaby, Abou": 0,
-    "Rodriguez, Jay": 1,
-    "Ferguson, Shane": 0,
-    "Shea, Brek": 0,
-    "Deulofeu, Gerard": 1,
-    "Redmond, Nathan": 0,
-    "Garcia, Javi": 0,
-    "Thomas, Jerome": 0,
-    "Stewart, Cameron": 0,
-    "Lugano, Diego": 0,
-    "Sandro": -2,
-    "de Gea, David": 0,
-    "Connolly, Matthew": 0,
-    "Jones, Kenwyne": 0,
-    "Ramage, Peter": 0,
-    "Eriksen, Christian": 0,
-    "Larsson, Sebastian": -2,
-    "Huth, Robert": 0,
-    "Tamas, Gabriel": 0,
-    "Ibe, Jordon": 0,
-    "Lovren, Dejan": 0,
-    "Tiote, Cheick": 0,
-    "Fer, Leroy": 0,
-    "Hobbs, Jack": 0,
-    "Fabio": 0,
-    "Oviedo, Bryan": 0,
-    "Welbeck, Danny": 0,
-    "Murray, Glenn": 0,
-    "Shelvey, Jonjo": 0,
-    "Coloccini, Fabricio": 0,
-    "Duff, Damien": 0,
-    "Cazorla, Santi": 0,
-    "Vermaelen, Thomas": 0,
-    "Allen, Joe": 0,
-    "Morrison, James": 0,
-    "Sterling, Raheem": 0,
-    "Carruthers, Samir": 0,
-    "Alonso, Marcos": 0,
-    "Bennett, Joe": -2,
-    "David, Chris": 0,
-    "Downing, Stewart": 0,
-    "Gestede, Rudy": 0,
-    "Michu": 0,
-    "Carrick, Michael": 0,
-    "Giroud, Olivier": 0,
-    "Romeu, Oriol": 0,
-    "Westwood, Ashley": 0,
-    "Kallstrom, Kim": 0,
-    "Evans, Corry": 0,
-    "Kightly, Michael": 0,
-    "Mikel, John-Obi": 0,
-    "Dawkins, Simon": 0,
-    "Davis, Kelvin": 0,
-    "Boyd, George": 0,
-    "Demichelis, Martin": 0,
-    "Assou-Ekotto, Benoit": 0,
-    "Kebe, Jimmy": 0,
-    "Jedinak, Mile": 0,
-    "Jenkinson, Carl": 0,
-    "Dawson, Michael": 0,
-    "Elliot, Rob": 0,
-    "Moxey, Dean": 0,
-    "Bale, Gareth": 0,
-    "Suarez, Luis": 1,
-    "Evans, Jonny": 0,
-    "O'Neil, Gary": 0,
-    "van Ginkel, Marco": 0,
-    "Lampard, Frank": 0,
-    "Ngog, David": 0,
-    "Kompany, Vincent": -10,
-    "Varela, Guillermo": 0,
-    "Delaney, Damien": -2,
-    "Ben Arfa, Hatem": 0,
-    "Morrison, Ravel": 0,
-    "Vorm, Michel": 0,
-    "Jagielka, Phil": 0,
-    "Monk, Garry": 0,
-    "Nugent, Ben": 0,
-    "Brown, Wes": -2,
-    "Cabaye, Yohan": 0,
-    "Ruddy, John": 0,
-    "Snodgrass, Robert": -1,
-    "Jerome, Cameron": 0,
-    "Dong-Won, Ji": 0,
-    "Debuchy, Mathieu": 0,
-    "Distin, Sylvain": 0,
-    "Ince, Tom": 0,
-    "Guidetti, John": 0,
-    "Ameobi, Shola": 0,
-    "Long, Shane": 0,
-    "Cuvelier, Florent": 0,
-    "Paulinho": 0,
-    "Olsson, Jonas": -2,
-    "Lee, Elliot": 0,
-    "McCarthy, Paddy": 0,
-    "Tate, Alan": 0,
-    "Rooney, Wayne": 0,
-    "Berahino, Saido": 0,
-    "Aluko, Sone": 0,
-    "Thorne, George": 0,
-    "Collison, Jack": 0,
-    "Zaha, Wilfried": 0,
-    "Sagbo, Yannick": 0,
-    "Conway, Craig": 0,
-    "Valencia, Antonio": 0,
-    "Turner, Michael": 0,
-    "Diakite, Modibo": 0,
-    "Ramsey, Aaron": 0,
-    "Yobo, Joseph": 0,
-    "Bridcutt, Liam": -2,
-    "Anita, Vurnon": 0,
-    "Bowery, Jordan": 0,
-    "Sanogo, Yaya": 0,
-    "Frei, Kerim": 0,
-    "Cornelius, Andreas": 0,
-    "Forren, Vegard": 0,
-    "Borini, Fabio": 0,
-    "Campana, Jose": 0,
-    "Mulumbu, Youssouf": 1,
-    "Dossena, Andrea": 0,
-    "Parker, Scott": 0,
-    "Ameobi, Sammy": 0,
-    "Coates, Sebastian": 0,
-    "Szczesny, Wojciech": 0,
-    "Navas, Jesus": 0,
-    "Defoe, Jermain": 0,
-    "Myhill, Boaz": 0,
-    "Medel, Gary": -2,
-    "Toure, Yaya": 0,
-    "Naughton, Kyle": 0,
-    "Rosenberg, Markus": 0,
-    "Surman, Andrew": 0,
-    "Ozil, Mesut": 0,
-    "Clyne, Nathaniel": 0,
-    "Richards, Ashley": 0,
-    "Wanyama, Victor": 0,
-    "Lescott, Joleon": 0,
-    "Diarra, Alou": 0,
-    "Dorrans, Graham": 0,
-    "Dyer, Nathan": 0,
-    "Barnett, Leon": 0,
-    "Davies, Ben": 0,
-    "Lee, Tadanari": 0,
-    "Rafael": -2,
-    "Cahill, Gary": 0,
-    "de Jong, Luuk": 0,
-    "Hughes, Aaron": 0,
-    "Hart, Joe": -2,
-    "Taylor, Andrew": 0,
-    "Mignolet, Simon": 0,
-    "Brunt, Chris": 0,
-    "Negredo, Alvaro": 0,
-    "Assaidi, Oussama": 0,
-    "Lamah, Roland": 1,
-    "Tunnicliffe, Ryan": 0,
-    "Tettey, Alexander": 0,
-    "Giaccherini, Emanuele": 0,
-    "Gnabry, Serge": 0,
-    "N'Diaye, Alfred": 0,
-    "Walters, Jon": 0,
-    "Howson, Jonny": 0,
-    "Rosenior, Liam": -2,
-    "Ramires": -10,
-    "Odemwingie, Peter": 2,
-    "Jovetic, Stevan": 0,
-    "Ba, Demba": 0,
-    "Roberge, Valentin": 0,
-    "Wilshere, Jack": 0,
-    "Gutierrez, Jonas": 0,
-    "Vazquez, Alvaro": 0,
-    "Lewis, Joe": 0,
-    "Aspas, Iago": 0,
-    "Reina, Pepe": 0,
-    "Bendtner, Nicklas": 0,
-    "Fonte, Jose": 0,
-    "Blake, Darcy": 0,
-    "Caulker, Steven": 0,
-    "Bigirimana, Gael": 0,
-    "Scocco, Ignacio": 0,
-    "Sung-Yueng, Ki": 0,
-    "Jones, Billy": 0,
-    "Boyata, Dedryck": 0,
-    "Gosling, Dan": 0,
-    "Fernandinho": 0,
-    "Butland, Jack": 0,
-    "Anderson": 0,
-    "Gibson, Darron": 0,
-    "Burn, Dan": 0,
-    "Riether, Sascha": 0,
-    "Routledge, Wayne": -2,
-    "Dempsey, Clint": 0,
-    "Wilson, Dougie": 0,
-    "Diame, Mohamed": 0,
-    "Eikrem, Magnus": 0,
-    "Cuellar, Carlos": 0,
-    "Herd, Chris": 0,
-    "Amalfitano, Morgan": 0,
-    "Schurrle, Andre": 0,
-    "Tomkins, James": 0,
-    "Arteta, Mikel": 0,
-    "Moritz, Andre": 0,
-    "Kvist, William": 0,
-    "Phillips, Kevin": 0,
-    "Skrtel, Martin": -2,
-    "Gazzaniga, Paulo": 0,
-    "Lloris, Hugo": 0,
-    "Buttner, Alexander": 0,
-    "Mayuka, Emmanuel": 0,
-    "Krul, Tim": 0,
-    "Puncheon, Jason": 0,
-    "Sturridge, Daniel": -2,
-    "Kane, Harry": 0,
-    "Cole, Carlton": 0,
-    "Berbatov, Dimitar": 0,
-    "Azpilicueta, Cesar": 0,
-    "Emnes, Marvin": 0,
-    "Grygera, Zdenek": 0,
-    "Bellamy, Craig": 0,
-    "Karagounis, Giorgos": 0,
-    "Johnson, Adam": 0,
-    "Cleverley, Tom": 0,
-    "Miyaichi, Ryo": 0,
-    "Colback, Jack": 0,
-    "Gervinho": 0,
-    "Silva, David": 1,
-    "Brady, Robbie": 0,
-    "Young, Ashley": 0,
-    "Whelan, Glenn": -2,
-    "Naismith, Steven": 0,
-    "Luna, Antonio": 0,
-    "Etherington, Matthew": 0,
-    "El Ahmadi, Karim": 0,
-    "Dudgeon, Joe": 0,
-    "Proschwitz, Nick": 0,
-    "Mertesacker, Per": 0,
-    "Giggs, Ryan": 0,
-    "Amalfitano, Romain": 0,
-    "Sylla, Yacouba": 0,
-    "Bruce, Alex": 0,
-    "Given, Shay": 0,
-    "Albrighton, Marc": 0,
-    "Matic, Nemanja": 0,
-    "Hazard, Eden": 0,
-    "Januzaj, Adnan": 0,
-    "Vydra, Matej": 0,
-    "Salah, Mohamed": 0,
-    "Ward, Joel": -2,
-    "Terry, John": 0,
-    "de Bruyne, Kevin": 0,
-    "Vertonghen, Jan": -2,
-    "Flanagan, Jon": -2,
-    "Miquel, Ignasi": 0,
-    "Richards, Micah": 0,
-    "Dobbie, Stephen": 0,
-    "Hangeland, Brede": 0,
-    "Alberto, Luis": 0,
-    "Williams, Ashley": 0,
-    "Hunt, Jack": 0,
-    "Shotton, Ryan": 0,
-    "Coquelin, Francis": 0,
-    "Reid, Winston": 0,
-    "Johnson, Bradley": 0,
-    "Adam, Charlie": 0,
-    "Marveaux, Sylvain": 0,
-    "Olsson, Martin": 0,
-    "Cech, Petr": 0,
-    "Robles, Joel": 0,
-    "Bennett, Ryan": 0,
-    "Guzan, Brad": 0,
-    "Sorensen, Thomas": 0,
-    "Sigurdsson, Gylfi": 0,
-    "Rangel, Angel": 0,
-    "Cole, Ashley": 0,
-    "Fox, Danny": 0,
-    "Sakho, Mamadou": 0,
-    "Fryers, Zeki": 0,
-    "Vidic, Nemanja": -10,
-    "Ramirez, Gaston": 0,
-    "Torres, Fernando": 0,
-    "Lopes, Marcos": 0,
-    "Alcaraz, Antolin": 0,
-    "Begovic, Asmir": 0,
-    "Adrian": 0,
-    "Sagna, Bacary": -2,
-    "Nolan, Kevin": 0,
-    "Riise, John-Arne": 0,
-    "Anelka, Nicolas": 0,
-    "Harper, Steve": 0,
-    "Holt, Grant": 0,
-    "Clark, Ciaran": 0,
-    "Ruiz, Bryan": 0,
-    "Bassong, Sebastien": 0,
-    "Shawcross, Ryan": 0,
-    "Duffy, Shane": 0,
-    "Mitroglou, Kostas": 0,
-    "Mutch, Jordon": 0,
-    "Rosicky, Tomas": 1,
-    "Townsend, Andros": 0,
-    "Turner, Ben": 0,
-    "Rodallega, Hugo": 0,
-    "Sidwell, Steve": 0,
-    "Gunnarsson, Aron": 0,
-    "Vlaar, Ron": -2,
-    "Pienaar, Steven": 0,
-    "Razak, Abdul": 0,
-    "Whittingham, Peter": 0,
-    "Becchio, Luciano": 0,
-    "Dawson, Craig": 0,
-    "Stevens, Enda": 0,
-    "Santon, Davide": 0,
-    "Delfouneso, Nathan": 0,
-    "Petric, Mladen": 0,
-    "Livermore, Jake": 0,
-    "Dejagah, Ashkan": -1,
-    "Cowie, Don": 0,
-    "Schwarzer, Mark": 0,
-    "Williams, Jonathan": 0,
-    "Heitinga, Johnny": 0,
-    "Cameron, Geoff": 0,
-    "Hooper, Gary": 0,
-    "Ledley, Joe": 0,
-    "Popov, Goran": 0,
-    "Nocerino, Antonio": 0,
-    "Rat, Razvan": 0,
-    "Jones, Phil": 0,
-    "M'rg Karlsson, David": 0,
-    "Britton, Leon": 0,
-    "Dzeko, Edin": 1,
-    "Zverotic, Elsad": 0,
-    "Hernandez, Javier": 0,
-    "Pozuelo, Alejandro": 0,
-    "Zabaleta, Pablo": -2,
-    "Chadli, Nacer": -2,
-    "Pilkington, Anthony": -2,
-    "Amat, Jordi": 0,
-    "Sessegnon, Stephane": 1,
-    "Jarvis, Matt": 0,
-    "Butterfield, Jacob": 0,
-    "Ness, Jamie": 0,
-    "Capoue, Etienne": 0,
-    "Okore, Jores": 0,
-    "Yanga-Mbiwa, Mapou": 0,
-    "Wilbraham, Aaron": 0,
-    "McGeady, Aiden": 0,
-    "Ferdinand, Rio": 0,
-    "Chamakh, Marouane": 0,
-    "Mariappa, Adrian": -2,
-    "Crouch, Peter": 0,
-    "Murphy, Josh": 0,
-    "Moses, Victor": 0,
-    "Canas, Jose": 0,
-    "Yoshida, Maya": 0,
-    "Sissoko, Moussa": 0,
-    "Ilori, Tiago": 0,
-    "Gayle, Dwight": 0,
-    "Gibbs, Kieran": -2,
-    "Woodrow, Cauley": 0,
-    "Mannone, Vito": 0,
-    "Rose, Danny": -2,
-    "Howard, Tim": 0,
-    "McLean, Aaron": 0,
-    "Bolasie, Yannick": 0,
-    "Johnson, Glen": 0,
-    "Yacob, Claudio": 0,
-    "Milner, James": 0,
-    "Martin, Russell": 0,
-    "Monreal, Nacho": 0,
-    "Amorebieta, Fernando": 0,
-    "Whitehead, Danny": 0,
-    "Anichebe, Victor": -2,
-    "Osman, Leon": -2,
-    "Mata, Juan": 0,
-    "Chaplow, Richard": 0,
-    "Gardner, Gary": 0,
-    "John, Declan": 0,
-    "Stekelenburg, Maarten": 0,
-    "Berget, Jo Inge": 0,
-    "N'Zogbia, Charles": 0,
-    "Luiz, David": 0,
-    "Helenius, Nicklas": 0,
-    "Bo-Kyung, Kim": 0,
-    "Kone, Arouna": 0,
-    "Gerrard, Steven": 0,
-    "Smith, Brad": 0,
-    "Speroni, Julian": 0,
-    "Wilson, Marc": 0,
-    "Vaughan, David": 0,
-    "Isgrove, Lloyd": 0,
-    "Delph, Fabian": 1,
-    "Celustka, Ondrej": 0,
-    "Stockdale, David": 0,
-    "Chester, James": 0,
-    "Cole, Larnell": 0,
-    "Williamson, Mike": 0,
-    "Vuckic, Haris": 0,
-    "Elmohamady, Ahmed": -2,
-    "Lowton, Matt": 0,
-    "Haidara, Massadio": 0,
-    "Henriquez, Angelo": 0,
-    "Nasri, Samir": 0,
-    "Ustari, Oscar": 0,
-    "Senderos, Philippe": 0,
-    "Koscielny, Laurent": 0,
-    "Willian": -10,
-    "Cole, Joe": 0,
-    "Vaz Te, Ricardo": 0,
-    "Fletcher, Steven": 0,
-    "Kaboul, Younes": 0,
-    "Hudson, Mark": 0,
-    "Weimann, Andreas": 0,
-    "Perch, James": 0,
-    "Camp, Lee": 0,
-    "Hoolahan, Wesley": 0,
-    "Baines, Leighton": 0,
-    "McAuley, Gareth": 0,
-    "Essien, Michael": 0,
-    "Davies, Curtis": 0,
-    "Hooiveld, Jos": 0,
-    "Cabral": 0,
-    "Ox-Chamberlain, Alex": 0,
-    "Cala, Juan": 1,
-    "Kelly, Martin": 0,
-    "Taylor, Matthew": 0,
-    "Pennant, Jermaine": 0,
-    "McCarthy, James": 0,
-    "Benteke, Christian": -2,
-    "Graham, Danny": 0,
-    "McShane, Paul": 0,
-    "Altidore, Jozy": 0,
-    "Agbonlahor, Gabriel": 0,
-    "Boateng, Derek": 0,
-    "Armero, Pablo": 0,
-    "Bardsley, Phil": 0,
-    "Amondarain, Maximiliano": 0,
-    "Cissokho, Aly": 0,
-    "Tiendalli, Dwight": 0,
-    "Kolarov, Aleksandar": 0,
-    "Tonev, Aleksandar": 0,
-    "Lallana, Adam": 0,
-    "Townsend, Conor": 0,
-    "Podolski, Lukas": 0,
-    "Coutinho, Philippe": 0,
-    "Lingard, Jesse": 0,
-    "Mavrias, Charis": 0,
-    "Whittaker, Steven": 0,
-    "Bannan, Barry": 0,
-    "Leiva, Lucas": 0,
-    "Bertrand, Ryan": 0,
-    "De Ridder, Steve": 0,
-    "Figueroa, Maynor": 0,
-    "T'phile-Catherine, Kevin": -2,
-    "Clichy, Gael": 0,
-    "Traore, Lacina": 0,
-    "Taylor, Ryan": 0,
-    "O'Keefe, Stuart": 0,
-    "Hibbert, Tony": 0,
-    "Bifouma, Thievy": 0,
-    "Kacaniklic, Alex": 0,
-    "Walcott, Theo": 0,
-    "Koren, Robert": 0,
-    "Westwood, Keiren": 0,
-    "Jelavic, Nikica": 0,
-    "Enrique, Jose": 0,
-    "Hennessey, Wayne": 0,
-    "Tavernier, James": 0,
-    "Garvan, Owen": 0,
-    "Bent, Darren": 0,
-    "Moore, Luke": 0,
-    "de Guzman, Jonathan": 0,
-    "Agger, Daniel": 0,
-    "Jaaskelainen, Jussi": 0,
-    "Flamini, Mathieu": -2,
-    "Suso": 0,
-    "Smalling, Chris": 0,
-    "Powell, Nick": 0,
-    "Barry, Gareth": 0,
-    "Dikgacoi, Kagisho": -2,
-    "Vellios, Apostolos": 0,
-    "O'Shea, John": 0,
-    "Coleman, Seamus": 1,
-    "Henderson, Jordan": 0,
-    "Huddlestone, Tom": 0,
-    "Baker, Nathan": -2,
-    "Guedioura, Adlene": 0,
-    "Marin, Marko": 0,
-    "Frimpong, Emmanuel": 0,
-    "Jakupovic, Eldin": 0,
-    "Bennett, Elliott": 0,
-    "Kennedy, Matthew": 0,
-    "Faye, Abdoulaye": 0,
-    "Kasami, Pajtim": 0,
-    "Briggs, Matthew": 0,
-    "Friedel, Brad": 0,
-    "Cattermole, Lee": 0,
-    "Elmander, Johan": 1,
-    "Chambers, Calum": 0,
-    "Viviano, Emilianio": 0,
-    "Ba, El Hadji": 0,
-    "Demel, Guy": 0,
-    "Ivanovic, Branislav": 0,
-    "O'Brien, Joey": 0,
-    "undefined": null
-  }
-}
+{ week: "31",
+    points: {
+        "Gouffran, Yoan": {
+            name: "Gouffran, Yoan",
+            change: 0
+        },
+        "Palacios, Wilson": {
+            name: "Palacios, Wilson",
+            change: 0
+        },
+        "Maiga, Modibo": {
+            name: "Maiga, Modibo",
+            change: 0
+        },
+        "Gardner, Craig": {
+            name: "Gardner, Craig",
+            change: -2
+        },
+        "Ridgewell, Liam": {
+            name: "Ridgewell, Liam",
+            change: 0
+        },
+        "Chiriches, Vlad": {
+            name: "Chiriches, Vlad",
+            change: 0
+        },
+        "Bunn, Mark": {
+            name: "Bunn, Mark",
+            change: 0
+        },
+        "Lindegaard, Anders": {
+            name: "Lindegaard, Anders",
+            change: 0
+        },
+        "Borriello, Marco": {
+            name: "Borriello, Marco",
+            change: 0
+        },
+        "Do Prado, Guly": {
+            name: "Do Prado, Guly",
+            change: 0
+        },
+        "Pantilimon, Costel": {
+            name: "Pantilimon, Costel",
+            change: 0
+        },
+        "Hernandez, Pablo": {
+            name: "Hernandez, Pablo",
+            change: 0
+        },
+        "Shaw, Luke": {
+            name: "Shaw, Luke",
+            change: 0
+        },
+        "Soldado, Roberto": {
+            name: "Soldado, Roberto",
+            change: -2
+        },
+        "Campbell, Fraizer": {
+            name: "Campbell, Fraizer",
+            change: -2
+        },
+        "van Wolfswinkel, Ricky": {
+            name: "van Wolfswinkel, Ricky",
+            change: 0
+        },
+        "Cairney, Tom": {
+            name: "Cairney, Tom",
+            change: 0
+        },
+        "Fletcher, Darren": {
+            name: "Fletcher, Darren",
+            change: 0
+        },
+        "Muniesa, Marc": {
+            name: "Muniesa, Marc",
+            change: 0
+        },
+        "Carroll, Andy": {
+            name: "Carroll, Andy",
+            change: 1
+        },
+        "Reid, Steven": {
+            name: "Reid, Steven",
+            change: -2
+        },
+        "Stones, John": {
+            name: "Stones, John",
+            change: 0
+        },
+        "Wickham, Connor": {
+            name: "Wickham, Connor",
+            change: 0
+        },
+        "Pieters, Erik": {
+            name: "Pieters, Erik",
+            change: 0
+        },
+        "McNaughton, Kevin": {
+            name: "McNaughton, Kevin",
+            change: 0
+        },
+        "Maynard, Nicky": {
+            name: "Maynard, Nicky",
+            change: 0
+        },
+        "Rodwell, Jack": {
+            name: "Rodwell, Jack",
+            change: 0
+        },
+        "Holtby, Lewis": {
+            name: "Holtby, Lewis",
+            change: 0
+        },
+        "Wilkinson, Andy": {
+            name: "Wilkinson, Andy",
+            change: 0
+        },
+        "Bony, Wilfried": {
+            name: "Bony, Wilfried",
+            change: 0
+        },
+        Oscar: {
+            name: "Oscar",
+            change: 0
+        },
+        "Quinn, Stephen": {
+            name: "Quinn, Stephen",
+            change: 0
+        },
+        "Lamela, Erik": {
+            name: "Lamela, Erik",
+            change: 0
+        },
+        "Aguero, Sergio": {
+            name: "Aguero, Sergio",
+            change: 0
+        },
+        "Adebayor, Emmanuel": {
+            name: "Adebayor, Emmanuel",
+            change: 0
+        },
+        "Schneiderlin, Morgan": {
+            name: "Schneiderlin, Morgan",
+            change: 1
+        },
+        "Fox, David": {
+            name: "Fox, David",
+            change: 0
+        },
+        "Lambert, Rickie": {
+            name: "Lambert, Rickie",
+            change: 1
+        },
+        "Fellaini, Marouane": {
+            name: "Fellaini, Marouane",
+            change: 0
+        },
+        "Walker, Kyle": {
+            name: "Walker, Kyle",
+            change: 0
+        },
+        "Harris, Kadeem": {
+            name: "Harris, Kadeem",
+            change: 0
+        },
+        "Good, Curtis": {
+            name: "Good, Curtis",
+            change: 0
+        },
+        "Kagawa, Shinji": {
+            name: "Kagawa, Shinji",
+            change: 0
+        },
+        "Taylor, Neil": {
+            name: "Taylor, Neil",
+            change: 0
+        },
+        "Cisse, Papiss": {
+            name: "Cisse, Papiss",
+            change: 0
+        },
+        "Richardson, Kieran": {
+            name: "Richardson, Kieran",
+            change: 0
+        },
+        "Collins, James": {
+            name: "Collins, James",
+            change: 0
+        },
+        "Ward-Prowse, James": {
+            name: "Ward-Prowse, James",
+            change: 0
+        },
+        "Santos, Andre": {
+            name: "Santos, Andre",
+            change: 0
+        },
+        "Arnautovic, Marko": {
+            name: "Arnautovic, Marko",
+            change: 1
+        },
+        "McCartney, George": {
+            name: "McCartney, George",
+            change: 0
+        },
+        "Gera, Zoltan": {
+            name: "Gera, Zoltan",
+            change: 0
+        },
+        "Dann, Scott": {
+            name: "Dann, Scott",
+            change: 0
+        },
+        "Noone, Craig": {
+            name: "Noone, Craig",
+            change: 0
+        },
+        "Toure, Kolo": {
+            name: "Toure, Kolo",
+            change: 0
+        },
+        "Cork, Jack": {
+            name: "Cork, Jack",
+            change: 0
+        },
+        "Evra, Patrice": {
+            name: "Evra, Patrice",
+            change: 0
+        },
+        "Lennon, Aaron": {
+            name: "Lennon, Aaron",
+            change: 0
+        },
+        "Johnson, Roger": {
+            name: "Johnson, Roger",
+            change: 0
+        },
+        "Kozak, Libor": {
+            name: "Kozak, Libor",
+            change: 0
+        },
+        "Wisdom, Andre": {
+            name: "Wisdom, Andre",
+            change: 0
+        },
+        "Noble, Mark": {
+            name: "Noble, Mark",
+            change: -2
+        },
+        "Taylor, Steven": {
+            name: "Taylor, Steven",
+            change: 0
+        },
+        "Davis, Steven": {
+            name: "Davis, Steven",
+            change: -2
+        },
+        "Gabbidon, Danny": {
+            name: "Gabbidon, Danny",
+            change: 0
+        },
+        "Fryatt, Matty": {
+            name: "Fryatt, Matty",
+            change: 0
+        },
+        "Jones, Brad": {
+            name: "Jones, Brad",
+            change: 0
+        },
+        "Boruc, Artur": {
+            name: "Boruc, Artur",
+            change: 0
+        },
+        "Sinclair, Scott": {
+            name: "Sinclair, Scott",
+            change: 0
+        },
+        "Bentaleb, Nabil": {
+            name: "Bentaleb, Nabil",
+            change: 0
+        },
+        "Meyler, David": {
+            name: "Meyler, David",
+            change: 0
+        },
+        "Nzonzi, Steven": {
+            name: "Nzonzi, Steven",
+            change: 0
+        },
+        "McClean, James": {
+            name: "McClean, James",
+            change: 0
+        },
+        Maicon: {
+            name: "Maicon",
+            change: 0
+        },
+        "Barkley, Ross": {
+            name: "Barkley, Ross",
+            change: 0
+        },
+        "Nastasic, Matija": {
+            name: "Nastasic, Matija",
+            change: 0
+        },
+        Chico: {
+            name: "Chico",
+            change: 0
+        },
+        "Hutton, Alan": {
+            name: "Hutton, Alan",
+            change: 0
+        },
+        "Grandin, Elliot": {
+            name: "Grandin, Elliot",
+            change: 0
+        },
+        "Spence, Jordan": {
+            name: "Spence, Jordan",
+            change: 0
+        },
+        "Gallagher, Sam": {
+            name: "Gallagher, Sam",
+            change: 1
+        },
+        "Ireland, Stephen": {
+            name: "Ireland, Stephen",
+            change: 0
+        },
+        "Garrido, Javier": {
+            name: "Garrido, Javier",
+            change: 0
+        },
+        "Osvaldo, Pablo": {
+            name: "Osvaldo, Pablo",
+            change: 0
+        },
+        "Alexander, Neil": {
+            name: "Alexander, Neil",
+            change: 0
+        },
+        "Taarabt, Adel": {
+            name: "Taarabt, Adel",
+            change: 0
+        },
+        "Bacuna, Leandro": {
+            name: "Bacuna, Leandro",
+            change: 0
+        },
+        "van Persie, Robin": {
+            name: "van Persie, Robin",
+            change: 0
+        },
+        "Daehli, Mats": {
+            name: "Daehli, Mats",
+            change: 0
+        },
+        Nani: {
+            name: "Nani",
+            change: 0
+        },
+        Gedo: {
+            name: "Gedo",
+            change: 0
+        },
+        "Foster, Ben": {
+            name: "Foster, Ben",
+            change: 0
+        },
+        "Brayford, John": {
+            name: "Brayford, John",
+            change: 0
+        },
+        "Dembele, Mousa": {
+            name: "Dembele, Mousa",
+            change: 0
+        },
+        "Dummett, Paul": {
+            name: "Dummett, Paul",
+            change: 0
+        },
+        "Remy, Loic": {
+            name: "Remy, Loic",
+            change: 0
+        },
+        "Parr, Jonathan": {
+            name: "Parr, Jonathan",
+            change: 0
+        },
+        "Tremmel, Gerhard": {
+            name: "Tremmel, Gerhard",
+            change: 0
+        },
+        "Mason, Joe": {
+            name: "Mason, Joe",
+            change: 0
+        },
+        "Lukaku, Romelu": {
+            name: "Lukaku, Romelu",
+            change: 0
+        },
+        "Bartley, Kyle": {
+            name: "Bartley, Kyle",
+            change: 0
+        },
+        "McGregor, Allan": {
+            name: "McGregor, Allan",
+            change: 0
+        },
+        "Eto'o, Samuel": {
+            name: "Eto'o, Samuel",
+            change: 0
+        },
+        "Agustien, Kemy": {
+            name: "Agustien, Kemy",
+            change: 0
+        },
+        "Obertan, Gabriel": {
+            name: "Obertan, Gabriel",
+            change: 0
+        },
+        "Marshall, David": {
+            name: "Marshall, David",
+            change: 0
+        },
+        "Vergini, Santiago": {
+            name: "Vergini, Santiago",
+            change: 0
+        },
+        "Diaby, Abou": {
+            name: "Diaby, Abou",
+            change: 0
+        },
+        "Rodriguez, Jay": {
+            name: "Rodriguez, Jay",
+            change: 1
+        },
+        "Ferguson, Shane": {
+            name: "Ferguson, Shane",
+            change: 0
+        },
+        "Shea, Brek": {
+            name: "Shea, Brek",
+            change: 0
+        },
+        "Deulofeu, Gerard": {
+            name: "Deulofeu, Gerard",
+            change: 1
+        },
+        "Redmond, Nathan": {
+            name: "Redmond, Nathan",
+            change: 0
+        },
+        "Garcia, Javi": {
+            name: "Garcia, Javi",
+            change: 0
+        },
+        "Thomas, Jerome": {
+            name: "Thomas, Jerome",
+            change: 0
+        },
+        "Stewart, Cameron": {
+            name: "Stewart, Cameron",
+            change: 0
+        },
+        "Lugano, Diego": {
+            name: "Lugano, Diego",
+            change: 0
+        },
+        Sandro: {
+            name: "Sandro",
+            change: -2
+        },
+        "de Gea, David": {
+            name: "de Gea, David",
+            change: 0
+        },
+        "Connolly, Matthew": {
+            name: "Connolly, Matthew",
+            change: 0
+        },
+        "Jones, Kenwyne": {
+            name: "Jones, Kenwyne",
+            change: 0
+        },
+        "Ramage, Peter": {
+            name: "Ramage, Peter",
+            change: 0
+        },
+        "Eriksen, Christian": {
+            name: "Eriksen, Christian",
+            change: 0
+        },
+        "Larsson, Sebastian": {
+            name: "Larsson, Sebastian",
+            change: -2
+        },
+        "Huth, Robert": {
+            name: "Huth, Robert",
+            change: 0
+        },
+        "Tamas, Gabriel": {
+            name: "Tamas, Gabriel",
+            change: 0
+        },
+        "Ibe, Jordon": {
+            name: "Ibe, Jordon",
+            change: 0
+        },
+        "Lovren, Dejan": {
+            name: "Lovren, Dejan",
+            change: 0
+        },
+        "Tiote, Cheick": {
+            name: "Tiote, Cheick",
+            change: 0
+        },
+        "Fer, Leroy": {
+            name: "Fer, Leroy",
+            change: 0
+        },
+        "Hobbs, Jack": {
+            name: "Hobbs, Jack",
+            change: 0
+        },
+        Fabio: {
+            name: "Fabio",
+            change: 0
+        },
+        "Oviedo, Bryan": {
+            name: "Oviedo, Bryan",
+            change: 0
+        },
+        "Welbeck, Danny": {
+            name: "Welbeck, Danny",
+            change: 0
+        },
+        "Murray, Glenn": {
+            name: "Murray, Glenn",
+            change: 0
+        },
+        "Shelvey, Jonjo": {
+            name: "Shelvey, Jonjo",
+            change: 0
+        },
+        "Coloccini, Fabricio": {
+            name: "Coloccini, Fabricio",
+            change: 0
+        },
+        "Duff, Damien": {
+            name: "Duff, Damien",
+            change: 0
+        },
+        "Cazorla, Santi": {
+            name: "Cazorla, Santi",
+            change: 0
+        },
+        "Vermaelen, Thomas": {
+            name: "Vermaelen, Thomas",
+            change: 0
+        },
+        "Allen, Joe": {
+            name: "Allen, Joe",
+            change: 0
+        },
+        "Morrison, James": {
+            name: "Morrison, James",
+            change: 0
+        },
+        "Sterling, Raheem": {
+            name: "Sterling, Raheem",
+            change: 0
+        },
+        "Carruthers, Samir": {
+            name: "Carruthers, Samir",
+            change: 0
+        },
+        "Alonso, Marcos": {
+            name: "Alonso, Marcos",
+            change: 0
+        },
+        "Bennett, Joe": {
+            name: "Bennett, Joe",
+            change: -2
+        },
+        "David, Chris": {
+            name: "David, Chris",
+            change: 0
+        },
+        "Downing, Stewart": {
+            name: "Downing, Stewart",
+            change: 0
+        },
+        "Gestede, Rudy": {
+            name: "Gestede, Rudy",
+            change: 0
+        },
+        Michu: {
+            name: "Michu",
+            change: 0
+        },
+        "Carrick, Michael": {
+            name: "Carrick, Michael",
+            change: 0
+        },
+        "Giroud, Olivier": {
+            name: "Giroud, Olivier",
+            change: 0
+        },
+        "Romeu, Oriol": {
+            name: "Romeu, Oriol",
+            change: 0
+        },
+        "Westwood, Ashley": {
+            name: "Westwood, Ashley",
+            change: 0
+        },
+        "Kallstrom, Kim": {
+            name: "Kallstrom, Kim",
+            change: 0
+        },
+        "Evans, Corry": {
+            name: "Evans, Corry",
+            change: 0
+        },
+        "Kightly, Michael": {
+            name: "Kightly, Michael",
+            change: 0
+        },
+        "Mikel, John-Obi": {
+            name: "Mikel, John-Obi",
+            change: 0
+        },
+        "Dawkins, Simon": {
+            name: "Dawkins, Simon",
+            change: 0
+        },
+        "Davis, Kelvin": {
+            name: "Davis, Kelvin",
+            change: 0
+        },
+        "Boyd, George": {
+            name: "Boyd, George",
+            change: 0
+        },
+        "Demichelis, Martin": {
+            name: "Demichelis, Martin",
+            change: 0
+        },
+        "Assou-Ekotto, Benoit": {
+            name: "Assou-Ekotto, Benoit",
+            change: 0
+        },
+        "Kebe, Jimmy": {
+            name: "Kebe, Jimmy",
+            change: 0
+        },
+        "Jedinak, Mile": {
+            name: "Jedinak, Mile",
+            change: 0
+        },
+        "Jenkinson, Carl": {
+            name: "Jenkinson, Carl",
+            change: 0
+        },
+        "Dawson, Michael": {
+            name: "Dawson, Michael",
+            change: 0
+        },
+        "Elliot, Rob": {
+            name: "Elliot, Rob",
+            change: 0
+        },
+        "Moxey, Dean": {
+            name: "Moxey, Dean",
+            change: 0
+        },
+        "Bale, Gareth": {
+            name: "Bale, Gareth",
+            change: 0
+        },
+        "Suarez, Luis": {
+            name: "Suarez, Luis",
+            change: 1
+        },
+        "Evans, Jonny": {
+            name: "Evans, Jonny",
+            change: 0
+        },
+        "O'Neil, Gary": {
+            name: "O'Neil, Gary",
+            change: 0
+        },
+        "van Ginkel, Marco": {
+            name: "van Ginkel, Marco",
+            change: 0
+        },
+        "Lampard, Frank": {
+            name: "Lampard, Frank",
+            change: 0
+        },
+        "Ngog, David": {
+            name: "Ngog, David",
+            change: 0
+        },
+        "Kompany, Vincent": {
+            name: "Kompany, Vincent",
+            change: -10
+        },
+        "Varela, Guillermo": {
+            name: "Varela, Guillermo",
+            change: 0
+        },
+        "Delaney, Damien": {
+            name: "Delaney, Damien",
+            change: -2
+        },
+        "Ben Arfa, Hatem": {
+            name: "Ben Arfa, Hatem",
+            change: 0
+        },
+        "Morrison, Ravel": {
+            name: "Morrison, Ravel",
+            change: 0
+        },
+        "Vorm, Michel": {
+            name: "Vorm, Michel",
+            change: 0
+        },
+        "Jagielka, Phil": {
+            name: "Jagielka, Phil",
+            change: 0
+        },
+        "Monk, Garry": {
+            name: "Monk, Garry",
+            change: 0
+        },
+        "Nugent, Ben": {
+            name: "Nugent, Ben",
+            change: 0
+        },
+        "Brown, Wes": {
+            name: "Brown, Wes",
+            change: -2
+        },
+        "Cabaye, Yohan": {
+            name: "Cabaye, Yohan",
+            change: 0
+        },
+        "Ruddy, John": {
+            name: "Ruddy, John",
+            change: 0
+        },
+        "Snodgrass, Robert": {
+            name: "Snodgrass, Robert",
+            change: -1
+        },
+        "Jerome, Cameron": {
+            name: "Jerome, Cameron",
+            change: 0
+        },
+        "Dong-Won, Ji": {
+            name: "Dong-Won, Ji",
+            change: 0
+        },
+        "Debuchy, Mathieu": {
+            name: "Debuchy, Mathieu",
+            change: 0
+        },
+        "Distin, Sylvain": {
+            name: "Distin, Sylvain",
+            change: 0
+        },
+        "Ince, Tom": {
+            name: "Ince, Tom",
+            change: 0
+        },
+        "Guidetti, John": {
+            name: "Guidetti, John",
+            change: 0
+        },
+        "Ameobi, Shola": {
+            name: "Ameobi, Shola",
+            change: 0
+        },
+        "Long, Shane": {
+            name: "Long, Shane",
+            change: 0
+        },
+        "Cuvelier, Florent": {
+            name: "Cuvelier, Florent",
+            change: 0
+        },
+        Paulinho: {
+            name: "Paulinho",
+            change: 0
+        },
+        "Olsson, Jonas": {
+            name: "Olsson, Jonas",
+            change: -2
+        },
+        "Lee, Elliot": {
+            name: "Lee, Elliot",
+            change: 0
+        },
+        "McCarthy, Paddy": {
+            name: "McCarthy, Paddy",
+            change: 0
+        },
+        "Tate, Alan": {
+            name: "Tate, Alan",
+            change: 0
+        },
+        "Rooney, Wayne": {
+            name: "Rooney, Wayne",
+            change: 0
+        },
+        "Berahino, Saido": {
+            name: "Berahino, Saido",
+            change: 0
+        },
+        "Aluko, Sone": {
+            name: "Aluko, Sone",
+            change: 0
+        },
+        "Thorne, George": {
+            name: "Thorne, George",
+            change: 0
+        },
+        "Collison, Jack": {
+            name: "Collison, Jack",
+            change: 0
+        },
+        "Zaha, Wilfried": {
+            name: "Zaha, Wilfried",
+            change: 0
+        },
+        "Sagbo, Yannick": {
+            name: "Sagbo, Yannick",
+            change: 0
+        },
+        "Conway, Craig": {
+            name: "Conway, Craig",
+            change: 0
+        },
+        "Valencia, Antonio": {
+            name: "Valencia, Antonio",
+            change: 0
+        },
+        "Turner, Michael": {
+            name: "Turner, Michael",
+            change: 0
+        },
+        "Diakite, Modibo": {
+            name: "Diakite, Modibo",
+            change: 0
+        },
+        "Ramsey, Aaron": {
+            name: "Ramsey, Aaron",
+            change: 0
+        },
+        "Yobo, Joseph": {
+            name: "Yobo, Joseph",
+            change: 0
+        },
+        "Bridcutt, Liam": {
+            name: "Bridcutt, Liam",
+            change: -2
+        },
+        "Anita, Vurnon": {
+            name: "Anita, Vurnon",
+            change: 0
+        },
+        "Bowery, Jordan": {
+            name: "Bowery, Jordan",
+            change: 0
+        },
+        "Sanogo, Yaya": {
+            name: "Sanogo, Yaya",
+            change: 0
+        },
+        "Frei, Kerim": {
+            name: "Frei, Kerim",
+            change: 0
+        },
+        "Cornelius, Andreas": {
+            name: "Cornelius, Andreas",
+            change: 0
+        },
+        "Forren, Vegard": {
+            name: "Forren, Vegard",
+            change: 0
+        },
+        "Borini, Fabio": {
+            name: "Borini, Fabio",
+            change: 0
+        },
+        "Campana, Jose": {
+            name: "Campana, Jose",
+            change: 0
+        },
+        "Mulumbu, Youssouf": {
+            name: "Mulumbu, Youssouf",
+            change: 1
+        },
+        "Dossena, Andrea": {
+            name: "Dossena, Andrea",
+            change: 0
+        },
+        "Parker, Scott": {
+            name: "Parker, Scott",
+            change: 0
+        },
+        "Ameobi, Sammy": {
+            name: "Ameobi, Sammy",
+            change: 0
+        },
+        "Coates, Sebastian": {
+            name: "Coates, Sebastian",
+            change: 0
+        },
+        "Szczesny, Wojciech": {
+            name: "Szczesny, Wojciech",
+            change: 0
+        },
+        "Navas, Jesus": {
+            name: "Navas, Jesus",
+            change: 0
+        },
+        "Defoe, Jermain": {
+            name: "Defoe, Jermain",
+            change: 0
+        },
+        "Myhill, Boaz": {
+            name: "Myhill, Boaz",
+            change: 0
+        },
+        "Medel, Gary": {
+            name: "Medel, Gary",
+            change: -2
+        },
+        "Toure, Yaya": {
+            name: "Toure, Yaya",
+            change: 0
+        },
+        "Naughton, Kyle": {
+            name: "Naughton, Kyle",
+            change: 0
+        },
+        "Rosenberg, Markus": {
+            name: "Rosenberg, Markus",
+            change: 0
+        },
+        "Surman, Andrew": {
+            name: "Surman, Andrew",
+            change: 0
+        },
+        "Ozil, Mesut": {
+            name: "Ozil, Mesut",
+            change: 0
+        },
+        "Clyne, Nathaniel": {
+            name: "Clyne, Nathaniel",
+            change: 0
+        },
+        "Richards, Ashley": {
+            name: "Richards, Ashley",
+            change: 0
+        },
+        "Wanyama, Victor": {
+            name: "Wanyama, Victor",
+            change: 0
+        },
+        "Lescott, Joleon": {
+            name: "Lescott, Joleon",
+            change: 0
+        },
+        "Diarra, Alou": {
+            name: "Diarra, Alou",
+            change: 0
+        },
+        "Dorrans, Graham": {
+            name: "Dorrans, Graham",
+            change: 0
+        },
+        "Dyer, Nathan": {
+            name: "Dyer, Nathan",
+            change: 0
+        },
+        "Barnett, Leon": {
+            name: "Barnett, Leon",
+            change: 0
+        },
+        "Davies, Ben": {
+            name: "Davies, Ben",
+            change: 0
+        },
+        "Lee, Tadanari": {
+            name: "Lee, Tadanari",
+            change: 0
+        },
+        Rafael: {
+            name: "Rafael",
+            change: -2
+        },
+        "Cahill, Gary": {
+            name: "Cahill, Gary",
+            change: 0
+        },
+        "de Jong, Luuk": {
+            name: "de Jong, Luuk",
+            change: 0
+        },
+        "Hughes, Aaron": {
+            name: "Hughes, Aaron",
+            change: 0
+        },
+        "Hart, Joe": {
+            name: "Hart, Joe",
+            change: -2
+        },
+        "Taylor, Andrew": {
+            name: "Taylor, Andrew",
+            change: 0
+        },
+        "Mignolet, Simon": {
+            name: "Mignolet, Simon",
+            change: 0
+        },
+        "Brunt, Chris": {
+            name: "Brunt, Chris",
+            change: 0
+        },
+        "Negredo, Alvaro": {
+            name: "Negredo, Alvaro",
+            change: 0
+        },
+        "Assaidi, Oussama": {
+            name: "Assaidi, Oussama",
+            change: 0
+        },
+        "Lamah, Roland": {
+            name: "Lamah, Roland",
+            change: 1
+        },
+        "Tunnicliffe, Ryan": {
+            name: "Tunnicliffe, Ryan",
+            change: 0
+        },
+        "Tettey, Alexander": {
+            name: "Tettey, Alexander",
+            change: 0
+        },
+        "Giaccherini, Emanuele": {
+            name: "Giaccherini, Emanuele",
+            change: 0
+        },
+        "Gnabry, Serge": {
+            name: "Gnabry, Serge",
+            change: 0
+        },
+        "N'Diaye, Alfred": {
+            name: "N'Diaye, Alfred",
+            change: 0
+        },
+        "Walters, Jon": {
+            name: "Walters, Jon",
+            change: 0
+        },
+        "Howson, Jonny": {
+            name: "Howson, Jonny",
+            change: 0
+        },
+        "Rosenior, Liam": {
+            name: "Rosenior, Liam",
+            change: -2
+        },
+        Ramires: {
+            name: "Ramires",
+            change: -10
+        },
+        "Odemwingie, Peter": {
+            name: "Odemwingie, Peter",
+            change: 2
+        },
+        "Jovetic, Stevan": {
+            name: "Jovetic, Stevan",
+            change: 0
+        },
+        "Ba, Demba": {
+            name: "Ba, Demba",
+            change: 0
+        },
+        "Roberge, Valentin": {
+            name: "Roberge, Valentin",
+            change: 0
+        },
+        "Wilshere, Jack": {
+            name: "Wilshere, Jack",
+            change: 0
+        },
+        "Gutierrez, Jonas": {
+            name: "Gutierrez, Jonas",
+            change: 0
+        },
+        "Vazquez, Alvaro": {
+            name: "Vazquez, Alvaro",
+            change: 0
+        },
+        "Lewis, Joe": {
+            name: "Lewis, Joe",
+            change: 0
+        },
+        "Aspas, Iago": {
+            name: "Aspas, Iago",
+            change: 0
+        },
+        "Reina, Pepe": {
+            name: "Reina, Pepe",
+            change: 0
+        },
+        "Bendtner, Nicklas": {
+            name: "Bendtner, Nicklas",
+            change: 0
+        },
+        "Fonte, Jose": {
+            name: "Fonte, Jose",
+            change: 0
+        },
+        "Blake, Darcy": {
+            name: "Blake, Darcy",
+            change: 0
+        },
+        "Caulker, Steven": {
+            name: "Caulker, Steven",
+            change: 0
+        },
+        "Bigirimana, Gael": {
+            name: "Bigirimana, Gael",
+            change: 0
+        },
+        "Scocco, Ignacio": {
+            name: "Scocco, Ignacio",
+            change: 0
+        },
+        "Sung-Yueng, Ki": {
+            name: "Sung-Yueng, Ki",
+            change: 0
+        },
+        "Jones, Billy": {
+            name: "Jones, Billy",
+            change: 0
+        },
+        "Boyata, Dedryck": {
+            name: "Boyata, Dedryck",
+            change: 0
+        },
+        "Gosling, Dan": {
+            name: "Gosling, Dan",
+            change: 0
+        },
+        Fernandinho: {
+            name: "Fernandinho",
+            change: 0
+        },
+        "Butland, Jack": {
+            name: "Butland, Jack",
+            change: 0
+        },
+        Anderson: {
+            name: "Anderson",
+            change: 0
+        },
+        "Gibson, Darron": {
+            name: "Gibson, Darron",
+            change: 0
+        },
+        "Burn, Dan": {
+            name: "Burn, Dan",
+            change: 0
+        },
+        "Riether, Sascha": {
+            name: "Riether, Sascha",
+            change: 0
+        },
+        "Routledge, Wayne": {
+            name: "Routledge, Wayne",
+            change: -2
+        },
+        "Dempsey, Clint": {
+            name: "Dempsey, Clint",
+            change: 0
+        },
+        "Wilson, Dougie": {
+            name: "Wilson, Dougie",
+            change: 0
+        },
+        "Diame, Mohamed": {
+            name: "Diame, Mohamed",
+            change: 0
+        },
+        "Eikrem, Magnus": {
+            name: "Eikrem, Magnus",
+            change: 0
+        },
+        "Cuellar, Carlos": {
+            name: "Cuellar, Carlos",
+            change: 0
+        },
+        "Herd, Chris": {
+            name: "Herd, Chris",
+            change: 0
+        },
+        "Amalfitano, Morgan": {
+            name: "Amalfitano, Morgan",
+            change: 0
+        },
+        "Schurrle, Andre": {
+            name: "Schurrle, Andre",
+            change: 0
+        },
+        "Tomkins, James": {
+            name: "Tomkins, James",
+            change: 0
+        },
+        "Arteta, Mikel": {
+            name: "Arteta, Mikel",
+            change: 0
+        },
+        "Moritz, Andre": {
+            name: "Moritz, Andre",
+            change: 0
+        },
+        "Kvist, William": {
+            name: "Kvist, William",
+            change: 0
+        },
+        "Phillips, Kevin": {
+            name: "Phillips, Kevin",
+            change: 0
+        },
+        "Skrtel, Martin": {
+            name: "Skrtel, Martin",
+            change: -2
+        },
+        "Gazzaniga, Paulo": {
+            name: "Gazzaniga, Paulo",
+            change: 0
+        },
+        "Lloris, Hugo": {
+            name: "Lloris, Hugo",
+            change: 0
+        },
+        "Buttner, Alexander": {
+            name: "Buttner, Alexander",
+            change: 0
+        },
+        "Mayuka, Emmanuel": {
+            name: "Mayuka, Emmanuel",
+            change: 0
+        },
+        "Krul, Tim": {
+            name: "Krul, Tim",
+            change: 0
+        },
+        "Puncheon, Jason": {
+            name: "Puncheon, Jason",
+            change: 0
+        },
+        "Sturridge, Daniel": {
+            name: "Sturridge, Daniel",
+            change: -2
+        },
+        "Kane, Harry": {
+            name: "Kane, Harry",
+            change: 0
+        },
+        "Cole, Carlton": {
+            name: "Cole, Carlton",
+            change: 0
+        },
+        "Berbatov, Dimitar": {
+            name: "Berbatov, Dimitar",
+            change: 0
+        },
+        "Azpilicueta, Cesar": {
+            name: "Azpilicueta, Cesar",
+            change: 0
+        },
+        "Emnes, Marvin": {
+            name: "Emnes, Marvin",
+            change: 0
+        },
+        "Grygera, Zdenek": {
+            name: "Grygera, Zdenek",
+            change: 0
+        },
+        "Bellamy, Craig": {
+            name: "Bellamy, Craig",
+            change: 0
+        },
+        "Karagounis, Giorgos": {
+            name: "Karagounis, Giorgos",
+            change: 0
+        },
+        "Johnson, Adam": {
+            name: "Johnson, Adam",
+            change: 0
+        },
+        "Cleverley, Tom": {
+            name: "Cleverley, Tom",
+            change: 0
+        },
+        "Miyaichi, Ryo": {
+            name: "Miyaichi, Ryo",
+            change: 0
+        },
+        "Colback, Jack": {
+            name: "Colback, Jack",
+            change: 0
+        },
+        Gervinho: {
+            name: "Gervinho",
+            change: 0
+        },
+        "Silva, David": {
+            name: "Silva, David",
+            change: 1
+        },
+        "Brady, Robbie": {
+            name: "Brady, Robbie",
+            change: 0
+        },
+        "Young, Ashley": {
+            name: "Young, Ashley",
+            change: 0
+        },
+        "Whelan, Glenn": {
+            name: "Whelan, Glenn",
+            change: -2
+        },
+        "Naismith, Steven": {
+            name: "Naismith, Steven",
+            change: 0
+        },
+        "Luna, Antonio": {
+            name: "Luna, Antonio",
+            change: 0
+        },
+        "Etherington, Matthew": {
+            name: "Etherington, Matthew",
+            change: 0
+        },
+        "El Ahmadi, Karim": {
+            name: "El Ahmadi, Karim",
+            change: 0
+        },
+        "Dudgeon, Joe": {
+            name: "Dudgeon, Joe",
+            change: 0
+        },
+        "Proschwitz, Nick": {
+            name: "Proschwitz, Nick",
+            change: 0
+        },
+        "Mertesacker, Per": {
+            name: "Mertesacker, Per",
+            change: 0
+        },
+        "Giggs, Ryan": {
+            name: "Giggs, Ryan",
+            change: 0
+        },
+        "Amalfitano, Romain": {
+            name: "Amalfitano, Romain",
+            change: 0
+        },
+        "Sylla, Yacouba": {
+            name: "Sylla, Yacouba",
+            change: 0
+        },
+        "Bruce, Alex": {
+            name: "Bruce, Alex",
+            change: 0
+        },
+        "Given, Shay": {
+            name: "Given, Shay",
+            change: 0
+        },
+        "Albrighton, Marc": {
+            name: "Albrighton, Marc",
+            change: 0
+        },
+        "Matic, Nemanja": {
+            name: "Matic, Nemanja",
+            change: 0
+        },
+        "Hazard, Eden": {
+            name: "Hazard, Eden",
+            change: 0
+        },
+        "Januzaj, Adnan": {
+            name: "Januzaj, Adnan",
+            change: 0
+        },
+        "Vydra, Matej": {
+            name: "Vydra, Matej",
+            change: 0
+        },
+        "Salah, Mohamed": {
+            name: "Salah, Mohamed",
+            change: 0
+        },
+        "Ward, Joel": {
+            name: "Ward, Joel",
+            change: -2
+        },
+        "Terry, John": {
+            name: "Terry, John",
+            change: 0
+        },
+        "de Bruyne, Kevin": {
+            name: "de Bruyne, Kevin",
+            change: 0
+        },
+        "Vertonghen, Jan": {
+            name: "Vertonghen, Jan",
+            change: -2
+        },
+        "Flanagan, Jon": {
+            name: "Flanagan, Jon",
+            change: -2
+        },
+        "Miquel, Ignasi": {
+            name: "Miquel, Ignasi",
+            change: 0
+        },
+        "Richards, Micah": {
+            name: "Richards, Micah",
+            change: 0
+        },
+        "Dobbie, Stephen": {
+            name: "Dobbie, Stephen",
+            change: 0
+        },
+        "Hangeland, Brede": {
+            name: "Hangeland, Brede",
+            change: 0
+        },
+        "Alberto, Luis": {
+            name: "Alberto, Luis",
+            change: 0
+        },
+        "Williams, Ashley": {
+            name: "Williams, Ashley",
+            change: 0
+        },
+        "Hunt, Jack": {
+            name: "Hunt, Jack",
+            change: 0
+        },
+        "Shotton, Ryan": {
+            name: "Shotton, Ryan",
+            change: 0
+        },
+        "Coquelin, Francis": {
+            name: "Coquelin, Francis",
+            change: 0
+        },
+        "Reid, Winston": {
+            name: "Reid, Winston",
+            change: 0
+        },
+        "Johnson, Bradley": {
+            name: "Johnson, Bradley",
+            change: 0
+        },
+        "Adam, Charlie": {
+            name: "Adam, Charlie",
+            change: 0
+        },
+        "Marveaux, Sylvain": {
+            name: "Marveaux, Sylvain",
+            change: 0
+        },
+        "Olsson, Martin": {
+            name: "Olsson, Martin",
+            change: 0
+        },
+        "Cech, Petr": {
+            name: "Cech, Petr",
+            change: 0
+        },
+        "Robles, Joel": {
+            name: "Robles, Joel",
+            change: 0
+        },
+        "Bennett, Ryan": {
+            name: "Bennett, Ryan",
+            change: 0
+        },
+        "Guzan, Brad": {
+            name: "Guzan, Brad",
+            change: 0
+        },
+        "Sorensen, Thomas": {
+            name: "Sorensen, Thomas",
+            change: 0
+        },
+        "Sigurdsson, Gylfi": {
+            name: "Sigurdsson, Gylfi",
+            change: 0
+        },
+        "Rangel, Angel": {
+            name: "Rangel, Angel",
+            change: 0
+        },
+        "Cole, Ashley": {
+            name: "Cole, Ashley",
+            change: 0
+        },
+        "Fox, Danny": {
+            name: "Fox, Danny",
+            change: 0
+        },
+        "Sakho, Mamadou": {
+            name: "Sakho, Mamadou",
+            change: 0
+        },
+        "Fryers, Zeki": {
+            name: "Fryers, Zeki",
+            change: 0
+        },
+        "Vidic, Nemanja": {
+            name: "Vidic, Nemanja",
+            change: -10
+        },
+        "Ramirez, Gaston": {
+            name: "Ramirez, Gaston",
+            change: 0
+        },
+        "Torres, Fernando": {
+            name: "Torres, Fernando",
+            change: 0
+        },
+        "Lopes, Marcos": {
+            name: "Lopes, Marcos",
+            change: 0
+        },
+        "Alcaraz, Antolin": {
+            name: "Alcaraz, Antolin",
+            change: 0
+        },
+        "Begovic, Asmir": {
+            name: "Begovic, Asmir",
+            change: 0
+        },
+        Adrian: {
+            name: "Adrian",
+            change: 0
+        },
+        "Sagna, Bacary": {
+            name: "Sagna, Bacary",
+            change: -2
+        },
+        "Nolan, Kevin": {
+            name: "Nolan, Kevin",
+            change: 0
+        },
+        "Riise, John-Arne": {
+            name: "Riise, John-Arne",
+            change: 0
+        },
+        "Anelka, Nicolas": {
+            name: "Anelka, Nicolas",
+            change: 0
+        },
+        "Harper, Steve": {
+            name: "Harper, Steve",
+            change: 0
+        },
+        "Holt, Grant": {
+            name: "Holt, Grant",
+            change: 0
+        },
+        "Clark, Ciaran": {
+            name: "Clark, Ciaran",
+            change: 0
+        },
+        "Ruiz, Bryan": {
+            name: "Ruiz, Bryan",
+            change: 0
+        },
+        "Bassong, Sebastien": {
+            name: "Bassong, Sebastien",
+            change: 0
+        },
+        "Shawcross, Ryan": {
+            name: "Shawcross, Ryan",
+            change: 0
+        },
+        "Duffy, Shane": {
+            name: "Duffy, Shane",
+            change: 0
+        },
+        "Mitroglou, Kostas": {
+            name: "Mitroglou, Kostas",
+            change: 0
+        },
+        "Mutch, Jordon": {
+            name: "Mutch, Jordon",
+            change: 0
+        },
+        "Rosicky, Tomas": {
+            name: "Rosicky, Tomas",
+            change: 1
+        },
+        "Townsend, Andros": {
+            name: "Townsend, Andros",
+            change: 0
+        },
+        "Turner, Ben": {
+            name: "Turner, Ben",
+            change: 0
+        },
+        "Rodallega, Hugo": {
+            name: "Rodallega, Hugo",
+            change: 0
+        },
+        "Sidwell, Steve": {
+            name: "Sidwell, Steve",
+            change: 0
+        },
+        "Gunnarsson, Aron": {
+            name: "Gunnarsson, Aron",
+            change: 0
+        },
+        "Vlaar, Ron": {
+            name: "Vlaar, Ron",
+            change: -2
+        },
+        "Pienaar, Steven": {
+            name: "Pienaar, Steven",
+            change: 0
+        },
+        "Razak, Abdul": {
+            name: "Razak, Abdul",
+            change: 0
+        },
+        "Whittingham, Peter": {
+            name: "Whittingham, Peter",
+            change: 0
+        },
+        "Becchio, Luciano": {
+            name: "Becchio, Luciano",
+            change: 0
+        },
+        "Dawson, Craig": {
+            name: "Dawson, Craig",
+            change: 0
+        },
+        "Stevens, Enda": {
+            name: "Stevens, Enda",
+            change: 0
+        },
+        "Santon, Davide": {
+            name: "Santon, Davide",
+            change: 0
+        },
+        "Delfouneso, Nathan": {
+            name: "Delfouneso, Nathan",
+            change: 0
+        },
+        "Petric, Mladen": {
+            name: "Petric, Mladen",
+            change: 0
+        },
+        "Livermore, Jake": {
+            name: "Livermore, Jake",
+            change: 0
+        },
+        "Dejagah, Ashkan": {
+            name: "Dejagah, Ashkan",
+            change: -1
+        },
+        "Cowie, Don": {
+            name: "Cowie, Don",
+            change: 0
+        },
+        "Schwarzer, Mark": {
+            name: "Schwarzer, Mark",
+            change: 0
+        },
+        "Williams, Jonathan": {
+            name: "Williams, Jonathan",
+            change: 0
+        },
+        "Heitinga, Johnny": {
+            name: "Heitinga, Johnny",
+            change: 0
+        },
+        "Cameron, Geoff": {
+            name: "Cameron, Geoff",
+            change: 0
+        },
+        "Hooper, Gary": {
+            name: "Hooper, Gary",
+            change: 0
+        },
+        "Ledley, Joe": {
+            name: "Ledley, Joe",
+            change: 0
+        },
+        "Popov, Goran": {
+            name: "Popov, Goran",
+            change: 0
+        },
+        "Nocerino, Antonio": {
+            name: "Nocerino, Antonio",
+            change: 0
+        },
+        "Rat, Razvan": {
+            name: "Rat, Razvan",
+            change: 0
+        },
+        "Jones, Phil": {
+            name: "Jones, Phil",
+            change: 0
+        },
+        "M'rg Karlsson, David": {
+            name: "M'rg Karlsson, David",
+            change: 0
+        },
+        "Britton, Leon": {
+            name: "Britton, Leon",
+            change: 0
+        },
+        "Dzeko, Edin": {
+            name: "Dzeko, Edin",
+            change: 1
+        },
+        "Zverotic, Elsad": {
+            name: "Zverotic, Elsad",
+            change: 0
+        },
+        "Hernandez, Javier": {
+            name: "Hernandez, Javier",
+            change: 0
+        },
+        "Pozuelo, Alejandro": {
+            name: "Pozuelo, Alejandro",
+            change: 0
+        },
+        "Zabaleta, Pablo": {
+            name: "Zabaleta, Pablo",
+            change: -2
+        },
+        "Chadli, Nacer": {
+            name: "Chadli, Nacer",
+            change: -2
+        },
+        "Pilkington, Anthony": {
+            name: "Pilkington, Anthony",
+            change: -2
+        },
+        "Amat, Jordi": {
+            name: "Amat, Jordi",
+            change: 0
+        },
+        "Sessegnon, Stephane": {
+            name: "Sessegnon, Stephane",
+            change: 1
+        },
+        "Jarvis, Matt": {
+            name: "Jarvis, Matt",
+            change: 0
+        },
+        "Butterfield, Jacob": {
+            name: "Butterfield, Jacob",
+            change: 0
+        },
+        "Ness, Jamie": {
+            name: "Ness, Jamie",
+            change: 0
+        },
+        "Capoue, Etienne": {
+            name: "Capoue, Etienne",
+            change: 0
+        },
+        "Okore, Jores": {
+            name: "Okore, Jores",
+            change: 0
+        },
+        "Yanga-Mbiwa, Mapou": {
+            name: "Yanga-Mbiwa, Mapou",
+            change: 0
+        },
+        "Wilbraham, Aaron": {
+            name: "Wilbraham, Aaron",
+            change: 0
+        },
+        "McGeady, Aiden": {
+            name: "McGeady, Aiden",
+            change: 0
+        },
+        "Ferdinand, Rio": {
+            name: "Ferdinand, Rio",
+            change: 0
+        },
+        "Chamakh, Marouane": {
+            name: "Chamakh, Marouane",
+            change: 0
+        },
+        "Mariappa, Adrian": {
+            name: "Mariappa, Adrian",
+            change: -2
+        },
+        "Crouch, Peter": {
+            name: "Crouch, Peter",
+            change: 0
+        },
+        "Murphy, Josh": {
+            name: "Murphy, Josh",
+            change: 0
+        },
+        "Moses, Victor": {
+            name: "Moses, Victor",
+            change: 0
+        },
+        "Canas, Jose": {
+            name: "Canas, Jose",
+            change: 0
+        },
+        "Yoshida, Maya": {
+            name: "Yoshida, Maya",
+            change: 0
+        },
+        "Sissoko, Moussa": {
+            name: "Sissoko, Moussa",
+            change: 0
+        },
+        "Ilori, Tiago": {
+            name: "Ilori, Tiago",
+            change: 0
+        },
+        "Gayle, Dwight": {
+            name: "Gayle, Dwight",
+            change: 0
+        },
+        "Gibbs, Kieran": {
+            name: "Gibbs, Kieran",
+            change: -2
+        },
+        "Woodrow, Cauley": {
+            name: "Woodrow, Cauley",
+            change: 0
+        },
+        "Mannone, Vito": {
+            name: "Mannone, Vito",
+            change: 0
+        },
+        "Rose, Danny": {
+            name: "Rose, Danny",
+            change: -2
+        },
+        "Howard, Tim": {
+            name: "Howard, Tim",
+            change: 0
+        },
+        "McLean, Aaron": {
+            name: "McLean, Aaron",
+            change: 0
+        },
+        "Bolasie, Yannick": {
+            name: "Bolasie, Yannick",
+            change: 0
+        },
+        "Johnson, Glen": {
+            name: "Johnson, Glen",
+            change: 0
+        },
+        "Yacob, Claudio": {
+            name: "Yacob, Claudio",
+            change: 0
+        },
+        "Milner, James": {
+            name: "Milner, James",
+            change: 0
+        },
+        "Martin, Russell": {
+            name: "Martin, Russell",
+            change: 0
+        },
+        "Monreal, Nacho": {
+            name: "Monreal, Nacho",
+            change: 0
+        },
+        "Amorebieta, Fernando": {
+            name: "Amorebieta, Fernando",
+            change: 0
+        },
+        "Whitehead, Danny": {
+            name: "Whitehead, Danny",
+            change: 0
+        },
+        "Anichebe, Victor": {
+            name: "Anichebe, Victor",
+            change: -2
+        },
+        "Osman, Leon": {
+            name: "Osman, Leon",
+            change: -2
+        },
+        "Mata, Juan": {
+            name: "Mata, Juan",
+            change: 0
+        },
+        "Chaplow, Richard": {
+            name: "Chaplow, Richard",
+            change: 0
+        },
+        "Gardner, Gary": {
+            name: "Gardner, Gary",
+            change: 0
+        },
+        "John, Declan": {
+            name: "John, Declan",
+            change: 0
+        },
+        "Stekelenburg, Maarten": {
+            name: "Stekelenburg, Maarten",
+            change: 0
+        },
+        "Berget, Jo Inge": {
+            name: "Berget, Jo Inge",
+            change: 0
+        },
+        "N'Zogbia, Charles": {
+            name: "N'Zogbia, Charles",
+            change: 0
+        },
+        "Luiz, David": {
+            name: "Luiz, David",
+            change: 0
+        },
+        "Helenius, Nicklas": {
+            name: "Helenius, Nicklas",
+            change: 0
+        },
+        "Bo-Kyung, Kim": {
+            name: "Bo-Kyung, Kim",
+            change: 0
+        },
+        "Kone, Arouna": {
+            name: "Kone, Arouna",
+            change: 0
+        },
+        "Gerrard, Steven": {
+            name: "Gerrard, Steven",
+            change: 0
+        },
+        "Smith, Brad": {
+            name: "Smith, Brad",
+            change: 0
+        },
+        "Speroni, Julian": {
+            name: "Speroni, Julian",
+            change: 0
+        },
+        "Wilson, Marc": {
+            name: "Wilson, Marc",
+            change: 0
+        },
+        "Vaughan, David": {
+            name: "Vaughan, David",
+            change: 0
+        },
+        "Isgrove, Lloyd": {
+            name: "Isgrove, Lloyd",
+            change: 0
+        },
+        "Delph, Fabian": {
+            name: "Delph, Fabian",
+            change: 1
+        },
+        "Celustka, Ondrej": {
+            name: "Celustka, Ondrej",
+            change: 0
+        },
+        "Stockdale, David": {
+            name: "Stockdale, David",
+            change: 0
+        },
+        "Chester, James": {
+            name: "Chester, James",
+            change: 0
+        },
+        "Cole, Larnell": {
+            name: "Cole, Larnell",
+            change: 0
+        },
+        "Williamson, Mike": {
+            name: "Williamson, Mike",
+            change: 0
+        },
+        "Vuckic, Haris": {
+            name: "Vuckic, Haris",
+            change: 0
+        },
+        "Elmohamady, Ahmed": {
+            name: "Elmohamady, Ahmed",
+            change: -2
+        },
+        "Lowton, Matt": {
+            name: "Lowton, Matt",
+            change: 0
+        },
+        "Haidara, Massadio": {
+            name: "Haidara, Massadio",
+            change: 0
+        },
+        "Henriquez, Angelo": {
+            name: "Henriquez, Angelo",
+            change: 0
+        },
+        "Nasri, Samir": {
+            name: "Nasri, Samir",
+            change: 0
+        },
+        "Ustari, Oscar": {
+            name: "Ustari, Oscar",
+            change: 0
+        },
+        "Senderos, Philippe": {
+            name: "Senderos, Philippe",
+            change: 0
+        },
+        "Koscielny, Laurent": {
+            name: "Koscielny, Laurent",
+            change: 0
+        },
+        Willian: {
+            name: "Willian",
+            change: -10
+        },
+        "Cole, Joe": {
+            name: "Cole, Joe",
+            change: 0
+        },
+        "Vaz Te, Ricardo": {
+            name: "Vaz Te, Ricardo",
+            change: 0
+        },
+        "Fletcher, Steven": {
+            name: "Fletcher, Steven",
+            change: 0
+        },
+        "Kaboul, Younes": {
+            name: "Kaboul, Younes",
+            change: 0
+        },
+        "Hudson, Mark": {
+            name: "Hudson, Mark",
+            change: 0
+        },
+        "Weimann, Andreas": {
+            name: "Weimann, Andreas",
+            change: 0
+        },
+        "Perch, James": {
+            name: "Perch, James",
+            change: 0
+        },
+        "Camp, Lee": {
+            name: "Camp, Lee",
+            change: 0
+        },
+        "Hoolahan, Wesley": {
+            name: "Hoolahan, Wesley",
+            change: 0
+        },
+        "Baines, Leighton": {
+            name: "Baines, Leighton",
+            change: 0
+        },
+        "McAuley, Gareth": {
+            name: "McAuley, Gareth",
+            change: 0
+        },
+        "Essien, Michael": {
+            name: "Essien, Michael",
+            change: 0
+        },
+        "Davies, Curtis": {
+            name: "Davies, Curtis",
+            change: 0
+        },
+        "Hooiveld, Jos": {
+            name: "Hooiveld, Jos",
+            change: 0
+        },
+        Cabral: {
+            name: "Cabral",
+            change: 0
+        },
+        "Ox-Chamberlain, Alex": {
+            name: "Ox-Chamberlain, Alex",
+            change: 0
+        },
+        "Cala, Juan": {
+            name: "Cala, Juan",
+            change: 1
+        },
+        "Kelly, Martin": {
+            name: "Kelly, Martin",
+            change: 0
+        },
+        "Taylor, Matthew": {
+            name: "Taylor, Matthew",
+            change: 0
+        },
+        "Pennant, Jermaine": {
+            name: "Pennant, Jermaine",
+            change: 0
+        },
+        "McCarthy, James": {
+            name: "McCarthy, James",
+            change: 0
+        },
+        "Benteke, Christian": {
+            name: "Benteke, Christian",
+            change: -2
+        },
+        "Graham, Danny": {
+            name: "Graham, Danny",
+            change: 0
+        },
+        "McShane, Paul": {
+            name: "McShane, Paul",
+            change: 0
+        },
+        "Altidore, Jozy": {
+            name: "Altidore, Jozy",
+            change: 0
+        },
+        "Agbonlahor, Gabriel": {
+            name: "Agbonlahor, Gabriel",
+            change: 0
+        },
+        "Boateng, Derek": {
+            name: "Boateng, Derek",
+            change: 0
+        },
+        "Armero, Pablo": {
+            name: "Armero, Pablo",
+            change: 0
+        },
+        "Bardsley, Phil": {
+            name: "Bardsley, Phil",
+            change: 0
+        },
+        "Amondarain, Maximiliano": {
+            name: "Amondarain, Maximiliano",
+            change: 0
+        },
+        "Cissokho, Aly": {
+            name: "Cissokho, Aly",
+            change: 0
+        },
+        "Tiendalli, Dwight": {
+            name: "Tiendalli, Dwight",
+            change: 0
+        },
+        "Kolarov, Aleksandar": {
+            name: "Kolarov, Aleksandar",
+            change: 0
+        },
+        "Tonev, Aleksandar": {
+            name: "Tonev, Aleksandar",
+            change: 0
+        },
+        "Lallana, Adam": {
+            name: "Lallana, Adam",
+            change: 0
+        },
+        "Townsend, Conor": {
+            name: "Townsend, Conor",
+            change: 0
+        },
+        "Podolski, Lukas": {
+            name: "Podolski, Lukas",
+            change: 0
+        },
+        "Coutinho, Philippe": {
+            name: "Coutinho, Philippe",
+            change: 0
+        },
+        "Lingard, Jesse": {
+            name: "Lingard, Jesse",
+            change: 0
+        },
+        "Mavrias, Charis": {
+            name: "Mavrias, Charis",
+            change: 0
+        },
+        "Whittaker, Steven": {
+            name: "Whittaker, Steven",
+            change: 0
+        },
+        "Bannan, Barry": {
+            name: "Bannan, Barry",
+            change: 0
+        },
+        "Leiva, Lucas": {
+            name: "Leiva, Lucas",
+            change: 0
+        },
+        "Bertrand, Ryan": {
+            name: "Bertrand, Ryan",
+            change: 0
+        },
+        "De Ridder, Steve": {
+            name: "De Ridder, Steve",
+            change: 0
+        },
+        "Figueroa, Maynor": {
+            name: "Figueroa, Maynor",
+            change: 0
+        },
+        "T'phile-Catherine, Kevin": {
+            name: "T'phile-Catherine, Kevin",
+            change: -2
+        },
+        "Clichy, Gael": {
+            name: "Clichy, Gael",
+            change: 0
+        },
+        "Traore, Lacina": {
+            name: "Traore, Lacina",
+            change: 0
+        },
+        "Taylor, Ryan": {
+            name: "Taylor, Ryan",
+            change: 0
+        },
+        "O'Keefe, Stuart": {
+            name: "O'Keefe, Stuart",
+            change: 0
+        },
+        "Hibbert, Tony": {
+            name: "Hibbert, Tony",
+            change: 0
+        },
+        "Bifouma, Thievy": {
+            name: "Bifouma, Thievy",
+            change: 0
+        },
+        "Kacaniklic, Alex": {
+            name: "Kacaniklic, Alex",
+            change: 0
+        },
+        "Walcott, Theo": {
+            name: "Walcott, Theo",
+            change: 0
+        },
+        "Koren, Robert": {
+            name: "Koren, Robert",
+            change: 0
+        },
+        "Westwood, Keiren": {
+            name: "Westwood, Keiren",
+            change: 0
+        },
+        "Jelavic, Nikica": {
+            name: "Jelavic, Nikica",
+            change: 0
+        },
+        "Enrique, Jose": {
+            name: "Enrique, Jose",
+            change: 0
+        },
+        "Hennessey, Wayne": {
+            name: "Hennessey, Wayne",
+            change: 0
+        },
+        "Tavernier, James": {
+            name: "Tavernier, James",
+            change: 0
+        },
+        "Garvan, Owen": {
+            name: "Garvan, Owen",
+            change: 0
+        },
+        "Bent, Darren": {
+            name: "Bent, Darren",
+            change: 0
+        },
+        "Moore, Luke": {
+            name: "Moore, Luke",
+            change: 0
+        },
+        "de Guzman, Jonathan": {
+            name: "de Guzman, Jonathan",
+            change: 0
+        },
+        "Agger, Daniel": {
+            name: "Agger, Daniel",
+            change: 0
+        },
+        "Jaaskelainen, Jussi": {
+            name: "Jaaskelainen, Jussi",
+            change: 0
+        },
+        "Flamini, Mathieu": {
+            name: "Flamini, Mathieu",
+            change: -2
+        },
+        Suso: {
+            name: "Suso",
+            change: 0
+        },
+        "Smalling, Chris": {
+            name: "Smalling, Chris",
+            change: 0
+        },
+        "Powell, Nick": {
+            name: "Powell, Nick",
+            change: 0
+        },
+        "Barry, Gareth": {
+            name: "Barry, Gareth",
+            change: 0
+        },
+        "Dikgacoi, Kagisho": {
+            name: "Dikgacoi, Kagisho",
+            change: -2
+        },
+        "Vellios, Apostolos": {
+            name: "Vellios, Apostolos",
+            change: 0
+        },
+        "O'Shea, John": {
+            name: "O'Shea, John",
+            change: 0
+        },
+        "Coleman, Seamus": {
+            name: "Coleman, Seamus",
+            change: 1
+        },
+        "Henderson, Jordan": {
+            name: "Henderson, Jordan",
+            change: 0
+        },
+        "Huddlestone, Tom": {
+            name: "Huddlestone, Tom",
+            change: 0
+        },
+        "Baker, Nathan": {
+            name: "Baker, Nathan",
+            change: -2
+        },
+        "Guedioura, Adlene": {
+            name: "Guedioura, Adlene",
+            change: 0
+        },
+        "Marin, Marko": {
+            name: "Marin, Marko",
+            change: 0
+        },
+        "Frimpong, Emmanuel": {
+            name: "Frimpong, Emmanuel",
+            change: 0
+        },
+        "Jakupovic, Eldin": {
+            name: "Jakupovic, Eldin",
+            change: 0
+        },
+        "Bennett, Elliott": {
+            name: "Bennett, Elliott",
+            change: 0
+        },
+        "Kennedy, Matthew": {
+            name: "Kennedy, Matthew",
+            change: 0
+        },
+        "Faye, Abdoulaye": {
+            name: "Faye, Abdoulaye",
+            change: 0
+        },
+        "Kasami, Pajtim": {
+            name: "Kasami, Pajtim",
+            change: 0
+        },
+        "Briggs, Matthew": {
+            name: "Briggs, Matthew",
+            change: 0
+        },
+        "Friedel, Brad": {
+            name: "Friedel, Brad",
+            change: 0
+        },
+        "Cattermole, Lee": {
+            name: "Cattermole, Lee",
+            change: 0
+        },
+        "Elmander, Johan": {
+            name: "Elmander, Johan",
+            change: 1
+        },
+        "Chambers, Calum": {
+            name: "Chambers, Calum",
+            change: 0
+        },
+        "Viviano, Emilianio": {
+            name: "Viviano, Emilianio",
+            change: 0
+        },
+        "Ba, El Hadji": {
+            name: "Ba, El Hadji",
+            change: 0
+        },
+        "Demel, Guy": {
+            name: "Demel, Guy",
+            change: 0
+        },
+        "Ivanovic, Branislav": {
+            name: "Ivanovic, Branislav",
+            change: 0
+        },
+        "O'Brien, Joey": {
+            name: "O'Brien, Joey",
+            change: 0
+        },
+        undefined: {
+            name: undefined,
+            change: NaN
+        }
+    } }

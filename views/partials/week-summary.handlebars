@@ -1,0 +1,25 @@
+<div class="summary week-summary">
+    <div class="row middle-medium-large">
+        <h2 class="summary-header span-6 span-12-small">
+            Week {{week.CURRENTWEEK}}
+        </h2>
+        <div class="summary-content span-6 span-12-small">
+            <div class="cushioned">
+                {{#each week.PAGE}}
+                    {{#each this.FIXTURES_RESULTS}}
+                        <h3>{{this.DATE}}</h3>
+                        <ul>
+                            {{#each this.FIXTURES}}
+                                <li class="row">
+                                    <span class="span-5 span-5-small text-right">{{this.HOMETEAM}}</span>
+                                    <span class="span-2 span-2-small text-center">{{this.HOMESCORE}} - {{this.AWAYSCORE}}</span>
+                                    <span class="span-5 span-5-small ">{{this.AWAYTEAM}}</span>
+                                </li>
+                            {{/each}}
+                        </ul>
+                    {{/each}}
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</div>

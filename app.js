@@ -17,9 +17,11 @@ app.use(express.static(__dirname + '/public'));
 var stats = new Statistics();
 stats.getLatestTeam();
 var points = new Points();
+points.calculateAllPlayersWeek();
 
 app.get('/', function(req, res){
-    res.render('home', { week: stats.latestTeam});
+    console.log(points.latestPlayersWeek);
+    res.render('home', { week: stats.latestTeam, playerWeek: points.latestPlayersWeek});
 });
 
 app.get('/update/stats', function(req, res){

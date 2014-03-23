@@ -11,6 +11,10 @@ large-screen = ((column * 12) + (column-gap * 11))px;
 full-width = large-screen + gutter + gutter;
 column-space = column + column-gap;
 
+less-than-small = " (max-width: " + small-screen + ")"
+less-than-medium = " (max-width: " + medium-screen + ")"
+larger-than-small = " (min-width: " + (small-screen + 1) + ")"
+
 //typography
 base-font-size = 16px;
 font = Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -25,6 +29,10 @@ error = #D21717;
 background-dark = #eaeaea;
 background-light = #f4f4f4;
 background-focus = #004ac5;
+bg-blue = rgba(0,35,115,0.7)
+bg-green = rgba(0,50,15,0.7)
+bg-red = rgba(150,0,0,0.7)
+bg-orange = rgba(250,150,0,0.7)
 
 
 //mixins
@@ -65,3 +73,9 @@ filter(style)
   -o-filter: style;
   -ms-filter: style;
   filter: style;
+
+
+middle()
+  display: flex;
+  justify-content: center;
+  align-items: center;

@@ -1,0 +1,59 @@
+
+body .icon-menu{
+  font-size: 32px;
+  text-shadow 0 0 10px #000
+  color #fff
+  position: absolute;
+  top: 12px;
+  right: 22px;
+  padding: 0 22px 2px;
+  border-radius: 5px;
+  &:hover, &:focus, &:active{
+    background bg-orange
+    text-decoration none
+  }
+}
+
+.main-menu{
+  position absolute
+  top 52px
+  right 22px
+  display none
+  li{
+    background bg-orange
+    text-align: right
+    font-weight: 100
+    a {
+      display block
+      font-size 1.25em
+      line-height 2.5em
+      padding: 0 20px 0 40px;
+      color #fff
+      letter-spacing 5px
+      text-shadow 0 0 10px bg-red
+      &:hover{
+        background rgba(0,0,0,0.5)
+      }
+    }
+  }
+}
+:target {
+  .main-menu{
+    display block
+  }
+  .icon-menu{
+    background bg-orange
+  }
+}
+
+
+
+
+@media less-than-small {
+  .header .icon-menu{
+    font-size 24px
+  }
+  .main-menu li a{
+    font-size:1em
+  }
+}
