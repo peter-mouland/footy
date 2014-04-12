@@ -45,6 +45,7 @@ var statistics = function(opts){
 };
 
 statistics.prototype.tableToJson = function(body){
+    var positions = JSON.parse(fs.readFileSync( this.positionsPath ));
     var $ = cheerio.load(body);
     var o = {  mapHeadings:{}, arrHeadings:[], arrStats: [], mapStats : {} };
     var $th = $('.STFFDataTable th');
@@ -67,7 +68,7 @@ statistics.prototype.tableToJson = function(body){
         if ($tr.hasOwnProperty(nodes)) {
             node = $tr[nodes];
             if (nodes !== 'length'){
-                player = {};
+                player = { };
                 for (els in node.children){
                     if (node.children.hasOwnProperty(els) ) {
                         el = node.children[els];
@@ -87,6 +88,12 @@ statistics.prototype.tableToJson = function(body){
     o.arrStats.forEach(function(stats, i){
         if (!stats.Name){ return; }
         o.mapStats[stats.Name] = stats;
+        if (positions[stats.Name]){
+            o.mapStats[stats.Name].pos = positions[stats.Name].pos;
+            o.mapStats[stats.Name].code = positions[stats.Name].code;
+        } else {
+            console.log('Player position not found: ', stats.Name);
+        }
     });
     return o;
 };
@@ -122,6 +129,7 @@ statistics.prototype.getLatestTeam = function(){
     }
     return this.latestTeam;
 };
+
 statistics.prototype.getPlayers = function(week){
     return JSON.parse(fs.readFileSync( this.statsRoot + week + '/players.json'));
 };

@@ -6,23 +6,7 @@
       "change": -4
     },
     {
-      "name": "Terry, John",
-      "change": -3
-    },
-    {
       "name": "Delaney, Damien",
-      "change": -3
-    },
-    {
-      "name": "Dann, Scott",
-      "change": -3
-    },
-    {
-      "name": "Lescott, Joleon",
-      "change": -2
-    },
-    {
-      "name": "Smalling, Chris",
       "change": -2
     },
     {
@@ -34,32 +18,48 @@
       "change": -2
     },
     {
-      "name": "Mariappa, Adrian",
+      "name": "Smalling, Chris",
       "change": -2
     },
     {
-      "name": "Cahill, Gary",
-      "change": -1
+      "name": "Terry, John",
+      "change": -2
     },
     {
-      "name": "Ivanovic, Branislav",
-      "change": -1
+      "name": "Dann, Scott",
+      "change": -2
     },
     {
-      "name": "Cech, Petr",
-      "change": -1
-    },
-    {
-      "name": "Speroni, Julian",
-      "change": -1
-    },
-    {
-      "name": "Azpilicueta, Cesar",
-      "change": -1
+      "name": "Lescott, Joleon",
+      "change": -2
     },
     {
       "name": "Garcia, Javi",
       "change": -1
+    },
+    {
+      "name": "Mariappa, Adrian",
+      "change": -1
+    },
+    {
+      "name": "Hunt, Jack",
+      "change": 0
+    },
+    {
+      "name": "Faye, Abdoulaye",
+      "change": 0
+    },
+    {
+      "name": "Kennedy, Matthew",
+      "change": 0
+    },
+    {
+      "name": "Bennett, Elliott",
+      "change": 0
+    },
+    {
+      "name": "Jakupovic, Eldin",
+      "change": 0
     },
     {
       "name": "Frimpong, Emmanuel",
@@ -70,15 +70,15 @@
       "change": 0
     },
     {
-      "name": "Brady, Robbie",
+      "name": "Etherington, Matthew",
       "change": 0
     },
     {
-      "name": "Sandro",
+      "name": "Luna, Antonio",
       "change": 0
     },
     {
-      "name": "Gervinho",
+      "name": "Romeu, Oriol",
       "change": 0
     },
     {
@@ -86,11 +86,11 @@
       "change": 0
     },
     {
-      "name": "Coleman, Seamus",
+      "name": "Collison, Jack",
       "change": 0
     },
     {
-      "name": "Cuvelier, Florent",
+      "name": "Thorne, George",
       "change": 0
     },
     {
@@ -98,11 +98,11 @@
       "change": 0
     },
     {
-      "name": "Miyaichi, Ryo",
+      "name": "Brady, Robbie",
       "change": 0
     },
     {
-      "name": "Osvaldo, Pablo",
+      "name": "Ibe, Jordon",
       "change": 0
     },
     {
@@ -110,7 +110,7 @@
       "change": 0
     },
     {
-      "name": "Jakupovic, Eldin",
+      "name": "Briggs, Matthew",
       "change": 0
     },
     {
@@ -118,7 +118,7 @@
       "change": 0
     },
     {
-      "name": "Bennett, Elliott",
+      "name": "Borriello, Marco",
       "change": 0
     },
     {
@@ -126,11 +126,11 @@
       "change": 0
     },
     {
-      "name": "Lugano, Diego",
+      "name": "Gervinho",
       "change": 0
     },
     {
-      "name": "Borriello, Marco",
+      "name": "Do Prado, Guly",
       "change": 0
     },
     {
@@ -158,7 +158,7 @@
       "change": 0
     },
     {
-      "name": "Do Prado, Guly",
+      "name": "Tamas, Gabriel",
       "change": 0
     },
     {
@@ -170,7 +170,7 @@
       "change": 0
     },
     {
-      "name": "Karagounis, Giorgos",
+      "name": "Miyaichi, Ryo",
       "change": 0
     },
     {
@@ -178,11 +178,11 @@
       "change": 0
     },
     {
-      "name": "Remy, Loic",
+      "name": "Tremmel, Gerhard",
       "change": 0
     },
     {
-      "name": "Grygera, Zdenek",
+      "name": "Tate, Alan",
       "change": 0
     },
     {
@@ -190,7 +190,7 @@
       "change": 0
     },
     {
-      "name": "Emnes, Marvin",
+      "name": "Karagounis, Giorgos",
       "change": 0
     },
     {
@@ -202,15 +202,15 @@
       "change": 0
     },
     {
-      "name": "Ince, Tom",
+      "name": "McCarthy, Paddy",
       "change": 0
     },
     {
-      "name": "Berbatov, Dimitar",
+      "name": "Grygera, Zdenek",
       "change": 0
     },
     {
-      "name": "Duff, Damien",
+      "name": "Emnes, Marvin",
       "change": 0
     },
     {
@@ -218,15 +218,15 @@
       "change": 0
     },
     {
-      "name": "Kozak, Libor",
+      "name": "Azpilicueta, Cesar",
       "change": 0
     },
     {
-      "name": "Wisdom, Andre",
+      "name": "Berbatov, Dimitar",
       "change": 0
     },
     {
-      "name": "Taylor, Steven",
+      "name": "Lee, Elliot",
       "change": 0
     },
     {
@@ -242,11 +242,11 @@
       "change": 0
     },
     {
-      "name": "Debuchy, Mathieu",
+      "name": "Viviano, Emilianio",
       "change": 0
     },
     {
-      "name": "Mayuka, Emmanuel",
+      "name": "McClean, James",
       "change": 0
     },
     {
@@ -254,11 +254,11 @@
       "change": 0
     },
     {
-      "name": "Buttner, Alexander",
+      "name": "Maicon",
       "change": 0
     },
     {
-      "name": "Dong-Won, Ji",
+      "name": "Ivanovic, Branislav",
       "change": 0
     },
     {
@@ -266,11 +266,11 @@
       "change": 0
     },
     {
-      "name": "Stewart, Cameron",
+      "name": "Mayuka, Emmanuel",
       "change": 0
     },
     {
-      "name": "Alexander, Neil",
+      "name": "Cuvelier, Florent",
       "change": 0
     },
     {
@@ -278,11 +278,11 @@
       "change": 0
     },
     {
-      "name": "Phillips, Kevin",
+      "name": "Cairney, Tom",
       "change": 0
     },
     {
-      "name": "Thomas, Jerome",
+      "name": "Nastasic, Matija",
       "change": 0
     },
     {
@@ -290,11 +290,11 @@
       "change": 0
     },
     {
-      "name": "Moritz, Andre",
+      "name": "Mason, Joe",
       "change": 0
     },
     {
-      "name": "Cabaye, Yohan",
+      "name": "Hutton, Alan",
       "change": 0
     },
     {
@@ -306,11 +306,11 @@
       "change": 0
     },
     {
-      "name": "Cairney, Tom",
+      "name": "Phillips, Kevin",
       "change": 0
     },
     {
-      "name": "Taarabt, Adel",
+      "name": "Gestede, Rudy",
       "change": 0
     },
     {
@@ -318,7 +318,7 @@
       "change": 0
     },
     {
-      "name": "Nugent, Ben",
+      "name": "Moritz, Andre",
       "change": 0
     },
     {
@@ -326,11 +326,11 @@
       "change": 0
     },
     {
-      "name": "Gabbidon, Danny",
+      "name": "Thomas, Jerome",
       "change": 0
     },
     {
-      "name": "Herd, Chris",
+      "name": "Grandin, Elliot",
       "change": 0
     },
     {
@@ -342,7 +342,7 @@
       "change": 0
     },
     {
-      "name": "Monk, Garry",
+      "name": "Ince, Tom",
       "change": 0
     },
     {
@@ -350,15 +350,15 @@
       "change": 0
     },
     {
-      "name": "Eikrem, Magnus",
+      "name": "Spence, Jordan",
       "change": 0
     },
     {
-      "name": "Fryatt, Matty",
+      "name": "Herd, Chris",
       "change": 0
     },
     {
-      "name": "Wilson, Dougie",
+      "name": "David, Chris",
       "change": 0
     },
     {
@@ -370,7 +370,7 @@
       "change": 0
     },
     {
-      "name": "Dempsey, Clint",
+      "name": "Eikrem, Magnus",
       "change": 0
     },
     {
@@ -378,7 +378,7 @@
       "change": 0
     },
     {
-      "name": "Jones, Brad",
+      "name": "Debuchy, Mathieu",
       "change": 0
     },
     {
@@ -390,15 +390,15 @@
       "change": 0
     },
     {
-      "name": "Jagielka, Phil",
+      "name": "Wilson, Dougie",
       "change": 0
     },
     {
-      "name": "Burn, Dan",
+      "name": "Dempsey, Clint",
       "change": 0
     },
     {
-      "name": "Gibson, Darron",
+      "name": "Dong-Won, Ji",
       "change": 0
     },
     {
@@ -410,7 +410,7 @@
       "change": 0
     },
     {
-      "name": "Anderson",
+      "name": "Garrido, Javier",
       "change": 0
     },
     {
@@ -418,15 +418,15 @@
       "change": 0
     },
     {
-      "name": "Butland, Jack",
+      "name": "Burn, Dan",
       "change": 0
     },
     {
-      "name": "Maiga, Modibo",
+      "name": "Gibson, Darron",
       "change": 0
     },
     {
-      "name": "Morrison, Ravel",
+      "name": "Anderson",
       "change": 0
     },
     {
@@ -434,7 +434,7 @@
       "change": 0
     },
     {
-      "name": "Boyata, Dedryck",
+      "name": "McNaughton, Kevin",
       "change": 0
     },
     {
@@ -442,11 +442,11 @@
       "change": 0
     },
     {
-      "name": "Jones, Billy",
+      "name": "Butland, Jack",
       "change": 0
     },
     {
-      "name": "Obertan, Gabriel",
+      "name": "Maynard, Nicky",
       "change": 0
     },
     {
@@ -454,7 +454,7 @@
       "change": 0
     },
     {
-      "name": "Ba, El Hadji",
+      "name": "Osvaldo, Pablo",
       "change": 0
     },
     {
@@ -466,11 +466,11 @@
       "change": 0
     },
     {
-      "name": "Bigirimana, Gael",
+      "name": "Oviedo, Bryan",
       "change": 0
     },
     {
-      "name": "Kennedy, Matthew",
+      "name": "Speroni, Julian",
       "change": 0
     },
     {
@@ -478,7 +478,7 @@
       "change": 0
     },
     {
-      "name": "Varela, Guillermo",
+      "name": "Boyata, Dedryck",
       "change": 0
     },
     {
@@ -486,7 +486,7 @@
       "change": 0
     },
     {
-      "name": "Blake, Darcy",
+      "name": "Jones, Billy",
       "change": 0
     },
     {
@@ -494,7 +494,7 @@
       "change": 0
     },
     {
-      "name": "Kompany, Vincent",
+      "name": "Alexander, Neil",
       "change": 0
     },
     {
@@ -510,7 +510,7 @@
       "change": 0
     },
     {
-      "name": "Bendtner, Nicklas",
+      "name": "Bartley, Kyle",
       "change": 0
     },
     {
@@ -522,15 +522,15 @@
       "change": 0
     },
     {
-      "name": "McNaughton, Kevin",
+      "name": "Bigirimana, Gael",
       "change": 0
     },
     {
-      "name": "Maynard, Nicky",
+      "name": "Taarabt, Adel",
       "change": 0
     },
     {
-      "name": "Reina, Pepe",
+      "name": "Blake, Darcy",
       "change": 0
     },
     {
@@ -538,7 +538,23 @@
       "change": 0
     },
     {
+      "name": "Huth, Robert",
+      "change": 0
+    },
+    {
+      "name": "Bendtner, Nicklas",
+      "change": 0
+    },
+    {
+      "name": "Reina, Pepe",
+      "change": 0
+    },
+    {
       "name": "Aspas, Iago",
+      "change": 0
+    },
+    {
+      "name": "Yacob, Claudio",
       "change": 0
     },
     {
@@ -546,15 +562,23 @@
       "change": 0
     },
     {
-      "name": "Ngog, David",
+      "name": "Cabaye, Yohan",
       "change": 0
     },
     {
-      "name": "Oviedo, Bryan",
+      "name": "McLean, Aaron",
       "change": 0
     },
     {
-      "name": "de Bruyne, Kevin",
+      "name": "Ba, El Hadji",
+      "change": 0
+    },
+    {
+      "name": "Aguero, Sergio",
+      "change": 0
+    },
+    {
+      "name": "Lamela, Erik",
       "change": 0
     },
     {
@@ -566,30 +590,6 @@
       "change": 0
     },
     {
-      "name": "McLean, Aaron",
-      "change": 0
-    },
-    {
-      "name": "van Ginkel, Marco",
-      "change": 0
-    },
-    {
-      "name": "O'Neil, Gary",
-      "change": 0
-    },
-    {
-      "name": "McClean, James",
-      "change": 0
-    },
-    {
-      "name": "Ramires",
-      "change": 0
-    },
-    {
-      "name": "Maicon",
-      "change": 0
-    },
-    {
       "name": "Gayle, Dwight",
       "change": 0
     },
@@ -598,7 +598,7 @@
       "change": 0
     },
     {
-      "name": "Evans, Jonny",
+      "name": "Nugent, Ben",
       "change": 0
     },
     {
@@ -606,11 +606,11 @@
       "change": 0
     },
     {
-      "name": "van Persie, Robin",
+      "name": "Monk, Garry",
       "change": 0
     },
     {
-      "name": "N'Diaye, Alfred",
+      "name": "Jagielka, Phil",
       "change": 0
     },
     {
@@ -618,23 +618,23 @@
       "change": 0
     },
     {
-      "name": "Gnabry, Serge",
+      "name": "Ramires",
       "change": 0
     },
     {
-      "name": "Faye, Abdoulaye",
+      "name": "Friedel, Brad",
       "change": 0
     },
     {
-      "name": "Bale, Gareth",
+      "name": "van Persie, Robin",
       "change": 0
     },
     {
-      "name": "Nastasic, Matija",
+      "name": "Carruthers, Samir",
       "change": 0
     },
     {
-      "name": "Tunnicliffe, Ryan",
+      "name": "Morrison, Ravel",
       "change": 0
     },
     {
@@ -642,7 +642,7 @@
       "change": 0
     },
     {
-      "name": "Lamah, Roland",
+      "name": "N'Diaye, Alfred",
       "change": 0
     },
     {
@@ -662,11 +662,11 @@
       "change": 0
     },
     {
-      "name": "Assaidi, Oussama",
+      "name": "Gnabry, Serge",
       "change": 0
     },
     {
-      "name": "Moxey, Dean",
+      "name": "Hobbs, Jack",
       "change": 0
     },
     {
@@ -678,11 +678,11 @@
       "change": 0
     },
     {
-      "name": "Brunt, Chris",
+      "name": "Fox, David",
       "change": 0
     },
     {
-      "name": "Tremmel, Gerhard",
+      "name": "Maiga, Modibo",
       "change": 0
     },
     {
@@ -690,7 +690,7 @@
       "change": 0
     },
     {
-      "name": "Hobbs, Jack",
+      "name": "Tunnicliffe, Ryan",
       "change": 0
     },
     {
@@ -698,11 +698,11 @@
       "change": 0
     },
     {
-      "name": "Aguero, Sergio",
+      "name": "Walker, Kyle",
       "change": 0
     },
     {
-      "name": "Lamela, Erik",
+      "name": "Harris, Kadeem",
       "change": 0
     },
     {
@@ -710,7 +710,7 @@
       "change": 0
     },
     {
-      "name": "Fer, Leroy",
+      "name": "Lamah, Roland",
       "change": 0
     },
     {
@@ -718,7 +718,7 @@
       "change": 0
     },
     {
-      "name": "Hughes, Aaron",
+      "name": "Assaidi, Oussama",
       "change": 0
     },
     {
@@ -726,19 +726,19 @@
       "change": 0
     },
     {
-      "name": "Shea, Brek",
+      "name": "Good, Curtis",
       "change": 0
     },
     {
-      "name": "Kebe, Jimmy",
+      "name": "Varela, Guillermo",
       "change": 0
     },
     {
-      "name": "Fox, David",
+      "name": "Brunt, Chris",
       "change": 0
     },
     {
-      "name": "Rafael",
+      "name": "Fer, Leroy",
       "change": 0
     },
     {
@@ -750,15 +750,15 @@
       "change": 0
     },
     {
-      "name": "Lee, Tadanari",
+      "name": "Ngog, David",
       "change": 0
     },
     {
-      "name": "Assou-Ekotto, Benoit",
+      "name": "Agustien, Kemy",
       "change": 0
     },
     {
-      "name": "Barnett, Leon",
+      "name": "Hughes, Aaron",
       "change": 0
     },
     {
@@ -770,7 +770,7 @@
       "change": 0
     },
     {
-      "name": "Ferguson, Shane",
+      "name": "van Ginkel, Marco",
       "change": 0
     },
     {
@@ -778,15 +778,15 @@
       "change": 0
     },
     {
-      "name": "Gedo",
+      "name": "Cahill, Gary",
       "change": 0
     },
     {
-      "name": "Diarra, Alou",
+      "name": "O'Neil, Gary",
       "change": 0
     },
     {
-      "name": "Davis, Kelvin",
+      "name": "Lee, Tadanari",
       "change": 0
     },
     {
@@ -798,7 +798,43 @@
       "change": 0
     },
     {
-      "name": "Dawkins, Simon",
+      "name": "Evans, Jonny",
+      "change": 0
+    },
+    {
+      "name": "Barnett, Leon",
+      "change": 0
+    },
+    {
+      "name": "Obertan, Gabriel",
+      "change": 0
+    },
+    {
+      "name": "Gedo",
+      "change": 0
+    },
+    {
+      "name": "Santos, Andre",
+      "change": 0
+    },
+    {
+      "name": "Diarra, Alou",
+      "change": 0
+    },
+    {
+      "name": "Bale, Gareth",
+      "change": 0
+    },
+    {
+      "name": "Moxey, Dean",
+      "change": 0
+    },
+    {
+      "name": "Mitroglou, Kostas",
+      "change": 0
+    },
+    {
+      "name": "Duffy, Shane",
       "change": 0
     },
     {
@@ -806,7 +842,11 @@
       "change": 0
     },
     {
-      "name": "Ibe, Jordon",
+      "name": "Diaby, Abou",
+      "change": 0
+    },
+    {
+      "name": "Ruiz, Bryan",
       "change": 0
     },
     {
@@ -822,31 +862,19 @@
       "change": 0
     },
     {
-      "name": "Kightly, Michael",
+      "name": "Anelka, Nicolas",
       "change": 0
     },
     {
-      "name": "Walker, Kyle",
+      "name": "O'Brien, Joey",
       "change": 0
     },
     {
-      "name": "Mitroglou, Kostas",
+      "name": "Brayford, John",
       "change": 0
     },
     {
-      "name": "Duffy, Shane",
-      "change": 0
-    },
-    {
-      "name": "Hutton, Alan",
-      "change": 0
-    },
-    {
-      "name": "Evans, Corry",
-      "change": 0
-    },
-    {
-      "name": "Ruiz, Bryan",
+      "name": "Stewart, Cameron",
       "change": 0
     },
     {
@@ -854,35 +882,7 @@
       "change": 0
     },
     {
-      "name": "Harris, Kadeem",
-      "change": 0
-    },
-    {
       "name": "Defoe, Jermain",
-      "change": 0
-    },
-    {
-      "name": "Anelka, Nicolas",
-      "change": 0
-    },
-    {
-      "name": "Grandin, Elliot",
-      "change": 0
-    },
-    {
-      "name": "Spence, Jordan",
-      "change": 0
-    },
-    {
-      "name": "Good, Curtis",
-      "change": 0
-    },
-    {
-      "name": "Coates, Sebastian",
-      "change": 0
-    },
-    {
-      "name": "Ameobi, Sammy",
       "change": 0
     },
     {
@@ -894,15 +894,15 @@
       "change": 0
     },
     {
-      "name": "Parker, Scott",
+      "name": "Lugano, Diego",
       "change": 0
     },
     {
-      "name": "Tamas, Gabriel",
+      "name": "Kebe, Jimmy",
       "change": 0
     },
     {
-      "name": "Huth, Robert",
+      "name": "Coates, Sebastian",
       "change": 0
     },
     {
@@ -910,7 +910,7 @@
       "change": 0
     },
     {
-      "name": "Campana, Jose",
+      "name": "Ameobi, Sammy",
       "change": 0
     },
     {
@@ -918,7 +918,35 @@
       "change": 0
     },
     {
-      "name": "Romeu, Oriol",
+      "name": "Parker, Scott",
+      "change": 0
+    },
+    {
+      "name": "Assou-Ekotto, Benoit",
+      "change": 0
+    },
+    {
+      "name": "Remy, Loic",
+      "change": 0
+    },
+    {
+      "name": "Sorensen, Thomas",
+      "change": 0
+    },
+    {
+      "name": "Campana, Jose",
+      "change": 0
+    },
+    {
+      "name": "Ferguson, Shane",
+      "change": 0
+    },
+    {
+      "name": "Robles, Joel",
+      "change": 0
+    },
+    {
+      "name": "Cech, Petr",
       "change": 0
     },
     {
@@ -930,35 +958,7 @@
       "change": 0
     },
     {
-      "name": "Sorensen, Thomas",
-      "change": 0
-    },
-    {
       "name": "Frei, Kerim",
-      "change": 0
-    },
-    {
-      "name": "Brayford, John",
-      "change": 0
-    },
-    {
-      "name": "Robles, Joel",
-      "change": 0
-    },
-    {
-      "name": "Mason, Joe",
-      "change": 0
-    },
-    {
-      "name": "Diaby, Abou",
-      "change": 0
-    },
-    {
-      "name": "Gestede, Rudy",
-      "change": 0
-    },
-    {
-      "name": "Ramage, Peter",
       "change": 0
     },
     {
@@ -966,7 +966,7 @@
       "change": 0
     },
     {
-      "name": "David, Chris",
+      "name": "Duff, Damien",
       "change": 0
     },
     {
@@ -978,11 +978,11 @@
       "change": 0
     },
     {
-      "name": "Hunt, Jack",
+      "name": "Ramage, Peter",
       "change": 0
     },
     {
-      "name": "Diakite, Modibo",
+      "name": "Kozak, Libor",
       "change": 0
     },
     {
@@ -990,7 +990,7 @@
       "change": 0
     },
     {
-      "name": "Turner, Michael",
+      "name": "Wisdom, Andre",
       "change": 0
     },
     {
@@ -1006,47 +1006,47 @@
       "change": 0
     },
     {
-      "name": "Agustien, Kemy",
+      "name": "Taylor, Steven",
       "change": 0
     },
     {
-      "name": "Conway, Craig",
+      "name": "Davis, Kelvin",
       "change": 0
     },
     {
-      "name": "Bartley, Kyle",
+      "name": "de Bruyne, Kevin",
       "change": 0
     },
     {
-      "name": "Briggs, Matthew",
+      "name": "Dawkins, Simon",
       "change": 0
     },
     {
-      "name": "Ward, Joel",
+      "name": "Sandro",
       "change": 0
     },
     {
-      "name": "Santos, Andre",
+      "name": "Kightly, Michael",
       "change": 0
     },
     {
-      "name": "Alonso, Marcos",
+      "name": "Evans, Corry",
       "change": 0
     },
     {
-      "name": "Carruthers, Samir",
+      "name": "Diakite, Modibo",
       "change": 0
     },
     {
-      "name": "Collison, Jack",
+      "name": "Gabbidon, Danny",
       "change": 0
     },
     {
-      "name": "Friedel, Brad",
+      "name": "Fryatt, Matty",
       "change": 0
     },
     {
-      "name": "Thorne, George",
+      "name": "Turner, Michael",
       "change": 0
     },
     {
@@ -1058,7 +1058,7 @@
       "change": 0
     },
     {
-      "name": "O'Brien, Joey",
+      "name": "Conway, Craig",
       "change": 0
     },
     {
@@ -1070,7 +1070,7 @@
       "change": 0
     },
     {
-      "name": "Garrido, Javier",
+      "name": "Jones, Brad",
       "change": 0
     },
     {
@@ -1082,107 +1082,11 @@
       "change": 0
     },
     {
-      "name": "Tate, Alan",
+      "name": "Shea, Brek",
       "change": 0
     },
     {
-      "name": "Etherington, Matthew",
-      "change": 0
-    },
-    {
-      "name": "Luna, Antonio",
-      "change": 0
-    },
-    {
-      "name": "McCarthy, Paddy",
-      "change": 0
-    },
-    {
-      "name": "Lee, Elliot",
-      "change": 0
-    },
-    {
-      "name": "Viviano, Emilianio",
-      "change": 0
-    },
-    {
-      "name": "Yacob, Claudio",
-      "change": 0
-    },
-    {
-      "name": "Diarra, Mahamadou",
-      "change": null
-    },
-    {
-      "name": "Vazquez, Alvaro",
-      "change": 1
-    },
-    {
-      "name": "Mikel, John-Obi",
-      "change": 1
-    },
-    {
-      "name": "Kallstrom, Kim",
-      "change": 1
-    },
-    {
-      "name": "Wilkinson, Andy",
-      "change": 1
-    },
-    {
-      "name": "Larsson, Sebastian",
-      "change": 1
-    },
-    {
-      "name": "Sylla, Yacouba",
-      "change": 1
-    },
-    {
-      "name": "Noone, Craig",
-      "change": 1
-    },
-    {
-      "name": "Nocerino, Antonio",
-      "change": 1
-    },
-    {
-      "name": "El Ahmadi, Karim",
-      "change": 1
-    },
-    {
-      "name": "Toure, Kolo",
-      "change": 1
-    },
-    {
-      "name": "O'Keefe, Stuart",
-      "change": 1
-    },
-    {
-      "name": "Clichy, Gael",
-      "change": 1
-    },
-    {
-      "name": "Cole, Ashley",
-      "change": 1
-    },
-    {
-      "name": "Figueroa, Maynor",
-      "change": 1
-    },
-    {
-      "name": "Nani",
-      "change": 1
-    },
-    {
-      "name": "Walters, Jon",
-      "change": 1
-    },
-    {
-      "name": "Clark, Ciaran",
-      "change": 1
-    },
-    {
-      "name": "Cole, Joe",
+      "name": "Wanyama, Victor",
       "change": 1
     },
     {
@@ -1190,51 +1094,7 @@
       "change": 1
     },
     {
-      "name": "Wanyama, Victor",
-      "change": 1
-    },
-    {
-      "name": "Moses, Victor",
-      "change": 1
-    },
-    {
-      "name": "Muniesa, Marc",
-      "change": 1
-    },
-    {
-      "name": "Ba, Demba",
-      "change": 1
-    },
-    {
-      "name": "Krul, Tim",
-      "change": 1
-    },
-    {
-      "name": "Ramsey, Aaron",
-      "change": 1
-    },
-    {
-      "name": "Cala, Juan",
-      "change": 1
-    },
-    {
-      "name": "Cowie, Don",
-      "change": 1
-    },
-    {
-      "name": "Rodwell, Jack",
-      "change": 1
-    },
-    {
-      "name": "Yobo, Joseph",
-      "change": 1
-    },
-    {
-      "name": "Jenkinson, Carl",
-      "change": 1
-    },
-    {
-      "name": "Guidetti, John",
+      "name": "Becchio, Luciano",
       "change": 1
     },
     {
@@ -1242,11 +1102,47 @@
       "change": 1
     },
     {
-      "name": "Cissokho, Aly",
+      "name": "Moses, Victor",
       "change": 1
     },
     {
-      "name": "Becchio, Luciano",
+      "name": "Noone, Craig",
+      "change": 1
+    },
+    {
+      "name": "Kallstrom, Kim",
+      "change": 1
+    },
+    {
+      "name": "Mikel, John-Obi",
+      "change": 1
+    },
+    {
+      "name": "Toure, Kolo",
+      "change": 1
+    },
+    {
+      "name": "Larsson, Sebastian",
+      "change": 1
+    },
+    {
+      "name": "Cole, Ashley",
+      "change": 1
+    },
+    {
+      "name": "Sylla, Yacouba",
+      "change": 1
+    },
+    {
+      "name": "O'Keefe, Stuart",
+      "change": 1
+    },
+    {
+      "name": "El Ahmadi, Karim",
+      "change": 1
+    },
+    {
+      "name": "Cowie, Don",
       "change": 1
     },
     {
@@ -1254,15 +1150,11 @@
       "change": 1
     },
     {
-      "name": "Bowery, Jordan",
+      "name": "Guidetti, John",
       "change": 1
     },
     {
-      "name": "Amorebieta, Fernando",
-      "change": 1
-    },
-    {
-      "name": "Dawson, Michael",
+      "name": "Buttner, Alexander",
       "change": 1
     },
     {
@@ -1270,35 +1162,47 @@
       "change": 1
     },
     {
-      "name": "Bennett, Joe",
+      "name": "Rodwell, Jack",
       "change": 1
     },
     {
-      "name": "Howard, Tim",
-      "change": 2
+      "name": "Bowery, Jordan",
+      "change": 1
     },
     {
-      "name": "Jarvis, Matt",
-      "change": 2
+      "name": "Nani",
+      "change": 1
     },
     {
-      "name": "Parr, Jonathan",
-      "change": 2
+      "name": "Ramsey, Aaron",
+      "change": 1
     },
     {
-      "name": "Lovren, Dejan",
-      "change": 2
+      "name": "Walters, Jon",
+      "change": 1
     },
     {
-      "name": "Welbeck, Danny",
-      "change": 2
+      "name": "Ba, Demba",
+      "change": 1
     },
     {
-      "name": "Koren, Robert",
-      "change": 2
+      "name": "Muniesa, Marc",
+      "change": 1
     },
     {
-      "name": "Zabaleta, Pablo",
+      "name": "Nocerino, Antonio",
+      "change": 1
+    },
+    {
+      "name": "Vazquez, Alvaro",
+      "change": 1
+    },
+    {
+      "name": "Cole, Joe",
+      "change": 1
+    },
+    {
+      "name": "Clichy, Gael",
       "change": 2
     },
     {
@@ -1306,47 +1210,27 @@
       "change": 2
     },
     {
-      "name": "Dummett, Paul",
-      "change": 2
-    },
-    {
-      "name": "Distin, Sylvain",
-      "change": 2
-    },
-    {
-      "name": "Leiva, Lucas",
-      "change": 2
-    },
-    {
-      "name": "Jones, Phil",
-      "change": 2
-    },
-    {
-      "name": "Lowton, Matt",
-      "change": 2
-    },
-    {
-      "name": "Harper, Steve",
-      "change": 2
-    },
-    {
       "name": "Tonev, Aleksandar",
       "change": 2
     },
     {
-      "name": "Marveaux, Sylvain",
+      "name": "Kompany, Vincent",
       "change": 2
     },
     {
-      "name": "Adam, Charlie",
+      "name": "Cissokho, Aly",
       "change": 2
     },
     {
-      "name": "Armero, Pablo",
+      "name": "Jarvis, Matt",
       "change": 2
     },
     {
-      "name": "Gera, Zoltan",
+      "name": "Yobo, Joseph",
+      "change": 2
+    },
+    {
+      "name": "Parr, Jonathan",
       "change": 2
     },
     {
@@ -1354,15 +1238,11 @@
       "change": 2
     },
     {
-      "name": "Chester, James",
+      "name": "Gutierrez, Jonas",
       "change": 2
     },
     {
-      "name": "Johnson, Roger",
-      "change": 2
-    },
-    {
-      "name": "Hart, Joe",
+      "name": "Welbeck, Danny",
       "change": 2
     },
     {
@@ -1370,11 +1250,15 @@
       "change": 2
     },
     {
-      "name": "Gutierrez, Jonas",
+      "name": "Leiva, Lucas",
       "change": 2
     },
     {
-      "name": "Stones, John",
+      "name": "Marveaux, Sylvain",
+      "change": 2
+    },
+    {
+      "name": "Gera, Zoltan",
       "change": 2
     },
     {
@@ -1382,55 +1266,19 @@
       "change": 2
     },
     {
-      "name": "John, Declan",
-      "change": 3
+      "name": "Bennett, Joe",
+      "change": 2
     },
     {
-      "name": "Canas, Jose",
-      "change": 3
+      "name": "Adam, Charlie",
+      "change": 2
     },
     {
-      "name": "Gosling, Dan",
-      "change": 3
-    },
-    {
-      "name": "Gazzaniga, Paulo",
-      "change": 3
-    },
-    {
-      "name": "Scocco, Ignacio",
-      "change": 3
+      "name": "Koren, Robert",
+      "change": 2
     },
     {
       "name": "Giaccherini, Emanuele",
-      "change": 3
-    },
-    {
-      "name": "Clyne, Nathaniel",
-      "change": 3
-    },
-    {
-      "name": "Dossena, Andrea",
-      "change": 3
-    },
-    {
-      "name": "Cleverley, Tom",
-      "change": 3
-    },
-    {
-      "name": "Gallagher, Sam",
-      "change": 3
-    },
-    {
-      "name": "Sanogo, Yaya",
-      "change": 3
-    },
-    {
-      "name": "Ireland, Stephen",
-      "change": 3
-    },
-    {
-      "name": "Bo-Kyung, Kim",
       "change": 3
     },
     {
@@ -1438,35 +1286,7 @@
       "change": 3
     },
     {
-      "name": "Koscielny, Laurent",
-      "change": 3
-    },
-    {
-      "name": "Anichebe, Victor",
-      "change": 3
-    },
-    {
-      "name": "Monreal, Nacho",
-      "change": 3
-    },
-    {
-      "name": "Bennett, Ryan",
-      "change": 3
-    },
-    {
-      "name": "Vidic, Nemanja",
-      "change": 3
-    },
-    {
-      "name": "Berahino, Saido",
-      "change": 3
-    },
-    {
-      "name": "Townsend, Andros",
-      "change": 3
-    },
-    {
-      "name": "Paulinho",
+      "name": "Scocco, Ignacio",
       "change": 3
     },
     {
@@ -1474,23 +1294,15 @@
       "change": 3
     },
     {
-      "name": "Murray, Glenn",
+      "name": "Gosling, Dan",
       "change": 3
     },
     {
-      "name": "Kacaniklic, Alex",
+      "name": "Ireland, Stephen",
       "change": 3
     },
     {
-      "name": "Chiriches, Vlad",
-      "change": 3
-    },
-    {
-      "name": "Ferdinand, Rio",
-      "change": 3
-    },
-    {
-      "name": "Cuellar, Carlos",
+      "name": "Gallagher, Sam",
       "change": 3
     },
     {
@@ -1498,47 +1310,91 @@
       "change": 3
     },
     {
-      "name": "Chamakh, Marouane",
+      "name": "Cleverley, Tom",
+      "change": 3
+    },
+    {
+      "name": "Murray, Glenn",
+      "change": 3
+    },
+    {
+      "name": "Bo-Kyung, Kim",
+      "change": 3
+    },
+    {
+      "name": "Jenkinson, Carl",
+      "change": 3
+    },
+    {
+      "name": "Wilkinson, Andy",
+      "change": 3
+    },
+    {
+      "name": "Anichebe, Victor",
+      "change": 3
+    },
+    {
+      "name": "Amorebieta, Fernando",
+      "change": 3
+    },
+    {
+      "name": "Johnson, Roger",
+      "change": 3
+    },
+    {
+      "name": "Kacaniklic, Alex",
+      "change": 3
+    },
+    {
+      "name": "Diarra, Mahamadou",
+      "change": 3
+    },
+    {
+      "name": "Townsend, Andros",
+      "change": 3
+    },
+    {
+      "name": "Canas, Jose",
+      "change": 3
+    },
+    {
+      "name": "Coleman, Seamus",
+      "change": 3
+    },
+    {
+      "name": "Sanogo, Yaya",
+      "change": 3
+    },
+    {
+      "name": "Figueroa, Maynor",
+      "change": 3
+    },
+    {
+      "name": "Berahino, Saido",
+      "change": 3
+    },
+    {
+      "name": "Paulinho",
+      "change": 3
+    },
+    {
+      "name": "Zabaleta, Pablo",
       "change": 4
     },
     {
-      "name": "Fonte, Jose",
+      "name": "Clyne, Nathaniel",
       "change": 4
     },
     {
-      "name": "McAuley, Gareth",
+      "name": "Krul, Tim",
       "change": 4
     },
     {
-      "name": "Yanga-Mbiwa, Mapou",
+      "name": "Dawson, Michael",
       "change": 4
     },
     {
-      "name": "Sakho, Mamadou",
-      "change": 4
-    },
-    {
-      "name": "Valencia, Antonio",
-      "change": 4
-    },
-    {
-      "name": "Sagbo, Yannick",
-      "change": 4
-    },
-    {
-      "name": "Ridgewell, Liam",
-      "change": 4
-    },
-    {
-      "name": "Martin, Russell",
-      "change": 4
-    },
-    {
-      "name": "Schneiderlin, Morgan",
-      "change": 4
-    },
-    {
-      "name": "Wickham, Connor",
+      "name": "Vidic, Nemanja",
       "change": 4
     },
     {
@@ -1546,75 +1402,7 @@
       "change": 4
     },
     {
-      "name": "Haidara, Massadio",
-      "change": 4
-    },
-    {
-      "name": "Kolarov, Aleksandar",
-      "change": 4
-    },
-    {
-      "name": "Santon, Davide",
-      "change": 4
-    },
-    {
-      "name": "Reid, Winston",
-      "change": 4
-    },
-    {
-      "name": "Collins, James",
-      "change": 4
-    },
-    {
-      "name": "Agger, Daniel",
-      "change": 4
-    },
-    {
-      "name": "Fabio",
-      "change": 4
-    },
-    {
-      "name": "Shaw, Luke",
-      "change": 4
-    },
-    {
-      "name": "Reid, Steven",
-      "change": 4
-    },
-    {
-      "name": "de Gea, David",
-      "change": 4
-    },
-    {
-      "name": "Wilson, Marc",
-      "change": 4
-    },
-    {
-      "name": "Shawcross, Ryan",
-      "change": 4
-    },
-    {
-      "name": "Bassong, Sebastien",
-      "change": 4
-    },
-    {
-      "name": "Foster, Ben",
-      "change": 4
-    },
-    {
-      "name": "Boruc, Artur",
-      "change": 4
-    },
-    {
-      "name": "Ruddy, John",
-      "change": 4
-    },
-    {
-      "name": "Olsson, Martin",
-      "change": 4
-    },
-    {
-      "name": "Baker, Nathan",
+      "name": "Chiriches, Vlad",
       "change": 4
     },
     {
@@ -1622,39 +1410,39 @@
       "change": 4
     },
     {
-      "name": "Begovic, Asmir",
+      "name": "Wickham, Connor",
       "change": 4
     },
     {
-      "name": "Ramirez, Gaston",
+      "name": "Hart, Joe",
+      "change": 4
+    },
+    {
+      "name": "Valencia, Antonio",
+      "change": 4
+    },
+    {
+      "name": "Rafael",
+      "change": 4
+    },
+    {
+      "name": "Chamakh, Marouane",
+      "change": 4
+    },
+    {
+      "name": "Schneiderlin, Morgan",
+      "change": 4
+    },
+    {
+      "name": "Sagbo, Yannick",
+      "change": 4
+    },
+    {
+      "name": "Chester, James",
       "change": 5
     },
     {
-      "name": "Bellamy, Craig",
-      "change": 5
-    },
-    {
-      "name": "Bacuna, Leandro",
-      "change": 5
-    },
-    {
-      "name": "Davies, Curtis",
-      "change": 5
-    },
-    {
-      "name": "Zaha, Wilfried",
-      "change": 5
-    },
-    {
-      "name": "Gardner, Craig",
-      "change": 5
-    },
-    {
-      "name": "Hooper, Gary",
-      "change": 5
-    },
-    {
-      "name": "Davies, Ben",
+      "name": "Distin, Sylvain",
       "change": 5
     },
     {
@@ -1662,31 +1450,83 @@
       "change": 5
     },
     {
-      "name": "Evra, Patrice",
-      "change": 6
+      "name": "Hooper, Gary",
+      "change": 5
     },
     {
-      "name": "Altidore, Jozy",
-      "change": 6
+      "name": "Kolarov, Aleksandar",
+      "change": 5
     },
     {
-      "name": "Gunnarsson, Aron",
-      "change": 6
+      "name": "Clark, Ciaran",
+      "change": 5
     },
     {
-      "name": "Taylor, Andrew",
-      "change": 6
+      "name": "Bellamy, Craig",
+      "change": 5
+    },
+    {
+      "name": "Zaha, Wilfried",
+      "change": 5
+    },
+    {
+      "name": "Armero, Pablo",
+      "change": 5
+    },
+    {
+      "name": "Harper, Steve",
+      "change": 5
+    },
+    {
+      "name": "Cuellar, Carlos",
+      "change": 5
+    },
+    {
+      "name": "Dossena, Andrea",
+      "change": 5
+    },
+    {
+      "name": "Sakho, Mamadou",
+      "change": 5
+    },
+    {
+      "name": "Gardner, Craig",
+      "change": 5
+    },
+    {
+      "name": "Howard, Tim",
+      "change": 5
+    },
+    {
+      "name": "Ramirez, Gaston",
+      "change": 5
+    },
+    {
+      "name": "Bacuna, Leandro",
+      "change": 5
+    },
+    {
+      "name": "Stones, John",
+      "change": 5
+    },
+    {
+      "name": "Rodallega, Hugo",
+      "change": 5
+    },
+    {
+      "name": "Lowton, Matt",
+      "change": 5
     },
     {
       "name": "van Wolfswinkel, Ricky",
       "change": 6
     },
     {
-      "name": "Kvist, William",
+      "name": "Collins, James",
       "change": 6
     },
     {
-      "name": "Elliot, Rob",
+      "name": "Ferdinand, Rio",
       "change": 6
     },
     {
@@ -1694,23 +1534,19 @@
       "change": 6
     },
     {
-      "name": "Bruce, Alex",
+      "name": "Altidore, Jozy",
       "change": 6
     },
     {
-      "name": "Albrighton, Marc",
+      "name": "Monreal, Nacho",
       "change": 6
     },
     {
-      "name": "Vertonghen, Jan",
+      "name": "Dummett, Paul",
       "change": 6
     },
     {
-      "name": "Holtby, Lewis",
-      "change": 6
-    },
-    {
-      "name": "Dawson, Craig",
+      "name": "Bennett, Ryan",
       "change": 6
     },
     {
@@ -1718,91 +1554,31 @@
       "change": 6
     },
     {
-      "name": "Taylor, Neil",
+      "name": "Albrighton, Marc",
       "change": 6
     },
     {
-      "name": "Jones, Kenwyne",
+      "name": "Holtby, Lewis",
+      "change": 6
+    },
+    {
+      "name": "Kvist, William",
+      "change": 6
+    },
+    {
+      "name": "Gunnarsson, Aron",
+      "change": 6
+    },
+    {
+      "name": "Jones, Phil",
+      "change": 6
+    },
+    {
+      "name": "Gazzaniga, Paulo",
       "change": 7
     },
     {
-      "name": "Turner, Ben",
-      "change": 7
-    },
-    {
-      "name": "Hernandez, Pablo",
-      "change": 7
-    },
-    {
-      "name": "Woodrow, Cauley",
-      "change": 7
-    },
-    {
-      "name": "Vergini, Santiago",
-      "change": 7
-    },
-    {
-      "name": "Chico",
-      "change": 7
-    },
-    {
-      "name": "Luiz, David",
-      "change": 7
-    },
-    {
-      "name": "Pieters, Erik",
-      "change": 7
-    },
-    {
-      "name": "Coloccini, Fabricio",
-      "change": 7
-    },
-    {
-      "name": "Ward-Prowse, James",
-      "change": 7
-    },
-    {
-      "name": "Chambers, Calum",
-      "change": 7
-    },
-    {
-      "name": "Gibbs, Kieran",
-      "change": 7
-    },
-    {
-      "name": "Carrick, Michael",
-      "change": 7
-    },
-    {
-      "name": "Riise, John-Arne",
-      "change": 7
-    },
-    {
-      "name": "Howson, Jonny",
-      "change": 7
-    },
-    {
-      "name": "Bertrand, Ryan",
-      "change": 7
-    },
-    {
-      "name": "Jerome, Cameron",
-      "change": 7
-    },
-    {
-      "name": "Mignolet, Simon",
-      "change": 7
-    },
-    {
-      "name": "Vorm, Michel",
-      "change": 7
-    },
-    {
-      "name": "Kasami, Pajtim",
-      "change": 7
-    },
-    {
-      "name": "Williamson, Mike",
+      "name": "Koscielny, Laurent",
       "change": 7
     },
     {
@@ -1810,27 +1586,95 @@
       "change": 7
     },
     {
-      "name": "Riether, Sascha",
+      "name": "Ward-Prowse, James",
       "change": 7
+    },
+    {
+      "name": "Cala, Juan",
+      "change": 7
+    },
+    {
+      "name": "Jerome, Cameron",
+      "change": 7
+    },
+    {
+      "name": "Reid, Winston",
+      "change": 7
+    },
+    {
+      "name": "Taylor, Neil",
+      "change": 7
+    },
+    {
+      "name": "Woodrow, Cauley",
+      "change": 7
+    },
+    {
+      "name": "Carrick, Michael",
+      "change": 7
+    },
+    {
+      "name": "Yanga-Mbiwa, Mapou",
+      "change": 7
+    },
+    {
+      "name": "Chambers, Calum",
+      "change": 7
+    },
+    {
+      "name": "Howson, Jonny",
+      "change": 7
+    },
+    {
+      "name": "Eto'o, Samuel",
+      "change": 7
+    },
+    {
+      "name": "Bruce, Alex",
+      "change": 7
+    },
+    {
+      "name": "John, Declan",
+      "change": 7
+    },
+    {
+      "name": "Luiz, David",
+      "change": 7
+    },
+    {
+      "name": "Boruc, Artur",
+      "change": 7
+    },
+    {
+      "name": "Jones, Kenwyne",
+      "change": 7
+    },
+    {
+      "name": "Hernandez, Pablo",
+      "change": 7
+    },
+    {
+      "name": "Kasami, Pajtim",
+      "change": 7
+    },
+    {
+      "name": "Bassong, Sebastien",
+      "change": 8
+    },
+    {
+      "name": "Martin, Russell",
+      "change": 8
+    },
+    {
+      "name": "Olsson, Martin",
+      "change": 8
     },
     {
       "name": "Ox-Chamberlain, Alex",
       "change": 8
     },
     {
-      "name": "Milner, James",
-      "change": 8
-    },
-    {
-      "name": "Rangel, Angel",
-      "change": 8
-    },
-    {
-      "name": "Adrian",
-      "change": 8
-    },
-    {
-      "name": "Bardsley, Phil",
+      "name": "Begovic, Asmir",
       "change": 8
     },
     {
@@ -1838,7 +1682,7 @@
       "change": 8
     },
     {
-      "name": "Rosicky, Tomas",
+      "name": "Shawcross, Ryan",
       "change": 8
     },
     {
@@ -1846,23 +1690,51 @@
       "change": 8
     },
     {
+      "name": "Bifouma, Thievy",
+      "change": 8
+    },
+    {
+      "name": "Benteke, Christian",
+      "change": 8
+    },
+    {
+      "name": "de Gea, David",
+      "change": 8
+    },
+    {
+      "name": "Milner, James",
+      "change": 8
+    },
+    {
+      "name": "Wilson, Marc",
+      "change": 8
+    },
+    {
+      "name": "Ruddy, John",
+      "change": 8
+    },
+    {
+      "name": "Agger, Daniel",
+      "change": 8
+    },
+    {
       "name": "Sterling, Raheem",
       "change": 8
     },
     {
-      "name": "McCartney, George",
-      "change": 9
+      "name": "Holt, Grant",
+      "change": 8
     },
     {
-      "name": "Morrison, James",
-      "change": 9
+      "name": "Rosicky, Tomas",
+      "change": 8
     },
     {
-      "name": "Whelan, Glenn",
-      "change": 9
+      "name": "Davies, Curtis",
+      "change": 8
     },
     {
-      "name": "Hangeland, Brede",
+      "name": "Jedinak, Mile",
       "change": 9
     },
     {
@@ -1870,15 +1742,11 @@
       "change": 9
     },
     {
-      "name": "Delph, Fabian",
+      "name": "Vertonghen, Jan",
       "change": 9
     },
     {
-      "name": "Stockdale, David",
-      "change": 9
-    },
-    {
-      "name": "Lloris, Hugo",
+      "name": "Sissoko, Moussa",
       "change": 9
     },
     {
@@ -1886,15 +1754,63 @@
       "change": 9
     },
     {
+      "name": "Ben Arfa, Hatem",
+      "change": 9
+    },
+    {
+      "name": "Januzaj, Adnan",
+      "change": 9
+    },
+    {
+      "name": "Foster, Ben",
+      "change": 9
+    },
+    {
+      "name": "Whelan, Glenn",
+      "change": 9
+    },
+    {
+      "name": "Delph, Fabian",
+      "change": 9
+    },
+    {
+      "name": "Ridgewell, Liam",
+      "change": 9
+    },
+    {
+      "name": "T'phile-Catherine, Kevin",
+      "change": 9
+    },
+    {
+      "name": "Borini, Fabio",
+      "change": 9
+    },
+    {
       "name": "Fletcher, Darren",
       "change": 9
     },
     {
-      "name": "O'Shea, John",
+      "name": "Lovren, Dejan",
       "change": 9
     },
     {
-      "name": "Jedinak, Mile",
+      "name": "Sessegnon, Stephane",
+      "change": 9
+    },
+    {
+      "name": "Boyd, George",
+      "change": 9
+    },
+    {
+      "name": "Willian",
+      "change": 9
+    },
+    {
+      "name": "Reid, Steven",
+      "change": 9
+    },
+    {
+      "name": "Negredo, Alvaro",
       "change": 9
     },
     {
@@ -1906,19 +1822,11 @@
       "change": 9
     },
     {
-      "name": "Sissoko, Moussa",
+      "name": "McAuley, Gareth",
       "change": 9
     },
     {
-      "name": "Sessegnon, Stephane",
-      "change": 9
-    },
-    {
-      "name": "Negredo, Alvaro",
-      "change": 9
-    },
-    {
-      "name": "Marshall, David",
+      "name": "Jovetic, Stevan",
       "change": 9
     },
     {
@@ -1926,11 +1834,7 @@
       "change": 9
     },
     {
-      "name": "Ben Arfa, Hatem",
-      "change": 9
-    },
-    {
-      "name": "Vlaar, Ron",
+      "name": "Alonso, Marcos",
       "change": 9
     },
     {
@@ -1938,67 +1842,19 @@
       "change": 9
     },
     {
-      "name": "Guzan, Brad",
+      "name": "Morrison, James",
       "change": 9
     },
     {
-      "name": "Rose, Danny",
+      "name": "Evra, Patrice",
       "change": 9
-    },
-    {
-      "name": "Naughton, Kyle",
-      "change": 9
-    },
-    {
-      "name": "Borini, Fabio",
-      "change": 9
-    },
-    {
-      "name": "Heitinga, Johnny",
-      "change": 9
-    },
-    {
-      "name": "T'phile-Catherine, Kevin",
-      "change": 9
-    },
-    {
-      "name": "Medel, Gary",
-      "change": 10
-    },
-    {
-      "name": "Taylor, Matthew",
-      "change": 10
-    },
-    {
-      "name": "Bridcutt, Liam",
-      "change": 10
-    },
-    {
-      "name": "Livermore, Jake",
-      "change": 10
     },
     {
       "name": "de Jong, Luuk",
       "change": 10
     },
     {
-      "name": "Barry, Gareth",
-      "change": 10
-    },
-    {
-      "name": "Meyler, David",
-      "change": 10
-    },
-    {
-      "name": "Kaboul, Younes",
-      "change": 10
-    },
-    {
-      "name": "Arteta, Mikel",
-      "change": 10
-    },
-    {
-      "name": "Johnson, Glen",
+      "name": "Ward, Joel",
       "change": 10
     },
     {
@@ -2010,7 +1866,7 @@
       "change": 10
     },
     {
-      "name": "Vermaelen, Thomas",
+      "name": "Meyler, David",
       "change": 10
     },
     {
@@ -2018,11 +1874,15 @@
       "change": 10
     },
     {
-      "name": "Tiote, Cheick",
+      "name": "Kane, Harry",
       "change": 10
     },
     {
-      "name": "Tomkins, James",
+      "name": "Arteta, Mikel",
+      "change": 10
+    },
+    {
+      "name": "Bridcutt, Liam",
       "change": 10
     },
     {
@@ -2030,47 +1890,75 @@
       "change": 10
     },
     {
+      "name": "Livermore, Jake",
+      "change": 10
+    },
+    {
+      "name": "Tiote, Cheick",
+      "change": 10
+    },
+    {
+      "name": "Baker, Nathan",
+      "change": 10
+    },
+    {
+      "name": "Barry, Gareth",
+      "change": 10
+    },
+    {
+      "name": "Davies, Ben",
+      "change": 10
+    },
+    {
+      "name": "Taylor, Matthew",
+      "change": 10
+    },
+    {
+      "name": "Medel, Gary",
+      "change": 10
+    },
+    {
+      "name": "Pieters, Erik",
+      "change": 11
+    },
+    {
+      "name": "Adebayor, Emmanuel",
+      "change": 11
+    },
+    {
+      "name": "Tettey, Alexander",
+      "change": 11
+    },
+    {
       "name": "Shelvey, Jonjo",
       "change": 11
     },
     {
-      "name": "Rodallega, Hugo",
+      "name": "Dawson, Craig",
       "change": 11
     },
     {
-      "name": "Szczesny, Wojciech",
-      "change": 12
+      "name": "Santon, Davide",
+      "change": 11
     },
     {
-      "name": "Sagna, Bacary",
-      "change": 12
+      "name": "Dejagah, Ashkan",
+      "change": 11
     },
     {
-      "name": "McCarthy, James",
-      "change": 12
+      "name": "Shaw, Luke",
+      "change": 11
     },
     {
-      "name": "Elmohamady, Ahmed",
-      "change": 12
+      "name": "Daehli, Mats",
+      "change": 11
     },
     {
-      "name": "Cazorla, Santi",
-      "change": 12
+      "name": "Fonte, Jose",
+      "change": 11
     },
     {
-      "name": "Downing, Stewart",
-      "change": 12
-    },
-    {
-      "name": "Arnautovic, Marko",
-      "change": 12
-    },
-    {
-      "name": "Huddlestone, Tom",
-      "change": 12
-    },
-    {
-      "name": "Chadli, Nacer",
+      "name": "Fabio",
       "change": 12
     },
     {
@@ -2078,23 +1966,15 @@
       "change": 12
     },
     {
-      "name": "Demichelis, Martin",
+      "name": "Cazorla, Santi",
       "change": 12
     },
     {
-      "name": "Mannone, Vito",
+      "name": "McCarthy, James",
       "change": 12
     },
     {
-      "name": "Elmander, Johan",
-      "change": 12
-    },
-    {
-      "name": "Young, Ashley",
-      "change": 12
-    },
-    {
-      "name": "Brown, Wes",
+      "name": "Downing, Stewart",
       "change": 12
     },
     {
@@ -2102,7 +1982,59 @@
       "change": 12
     },
     {
-      "name": "Mertesacker, Per",
+      "name": "Elmohamady, Ahmed",
+      "change": 12
+    },
+    {
+      "name": "McCartney, George",
+      "change": 12
+    },
+    {
+      "name": "Arnautovic, Marko",
+      "change": 12
+    },
+    {
+      "name": "Demichelis, Martin",
+      "change": 12
+    },
+    {
+      "name": "Taylor, Andrew",
+      "change": 12
+    },
+    {
+      "name": "Mignolet, Simon",
+      "change": 12
+    },
+    {
+      "name": "Rosenior, Liam",
+      "change": 12
+    },
+    {
+      "name": "Haidara, Massadio",
+      "change": 12
+    },
+    {
+      "name": "Cattermole, Lee",
+      "change": 12
+    },
+    {
+      "name": "Lampard, Frank",
+      "change": 12
+    },
+    {
+      "name": "Chadli, Nacer",
+      "change": 12
+    },
+    {
+      "name": "Elmander, Johan",
+      "change": 12
+    },
+    {
+      "name": "Gibbs, Kieran",
+      "change": 12
+    },
+    {
+      "name": "Young, Ashley",
       "change": 12
     },
     {
@@ -2110,23 +2042,15 @@
       "change": 12
     },
     {
+      "name": "Huddlestone, Tom",
+      "change": 12
+    },
+    {
       "name": "Mulumbu, Youssouf",
       "change": 12
     },
     {
-      "name": "Rosenior, Liam",
-      "change": 13
-    },
-    {
-      "name": "Baines, Leighton",
-      "change": 13
-    },
-    {
-      "name": "Eto'o, Samuel",
-      "change": 13
-    },
-    {
-      "name": "Flanagan, Jon",
+      "name": "Chico",
       "change": 13
     },
     {
@@ -2134,15 +2058,19 @@
       "change": 13
     },
     {
-      "name": "Navas, Jesus",
+      "name": "Dorrans, Graham",
       "change": 13
     },
     {
-      "name": "Willian",
+      "name": "Hazard, Eden",
       "change": 13
     },
     {
-      "name": "Boyd, George",
+      "name": "Turner, Ben",
+      "change": 13
+    },
+    {
+      "name": "Westwood, Ashley",
       "change": 13
     },
     {
@@ -2150,19 +2078,23 @@
       "change": 13
     },
     {
-      "name": "Bifouma, Thievy",
+      "name": "Vorm, Michel",
+      "change": 13
+    },
+    {
+      "name": "Navas, Jesus",
+      "change": 13
+    },
+    {
+      "name": "Snodgrass, Robert",
+      "change": 13
+    },
+    {
+      "name": "Naismith, Steven",
       "change": 14
     },
     {
-      "name": "Benteke, Christian",
-      "change": 14
-    },
-    {
-      "name": "Cameron, Geoff",
-      "change": 14
-    },
-    {
-      "name": "Holt, Grant",
+      "name": "Baines, Leighton",
       "change": 14
     },
     {
@@ -2170,63 +2102,159 @@
       "change": 14
     },
     {
-      "name": "Daehli, Mats",
+      "name": "Adrian",
+      "change": 14
+    },
+    {
+      "name": "Osman, Leon",
+      "change": 14
+    },
+    {
+      "name": "Rangel, Angel",
+      "change": 14
+    },
+    {
+      "name": "Cameron, Geoff",
+      "change": 14
+    },
+    {
+      "name": "Fernandinho",
+      "change": 14
+    },
+    {
+      "name": "Elliot, Rob",
+      "change": 14
+    },
+    {
+      "name": "Flamini, Mathieu",
+      "change": 14
+    },
+    {
+      "name": "Odemwingie, Peter",
       "change": 15
     },
     {
-      "name": "Dejagah, Ashkan",
+      "name": "O'Shea, John",
       "change": 15
     },
     {
-      "name": "Jovetic, Stevan",
+      "name": "Nzonzi, Steven",
       "change": 15
     },
     {
-      "name": "Januzaj, Adnan",
+      "name": "Sigurdsson, Gylfi",
       "change": 15
     },
     {
-      "name": "Tettey, Alexander",
+      "name": "Riise, John-Arne",
       "change": 15
+    },
+    {
+      "name": "Richardson, Kieran",
+      "change": 15
+    },
+    {
+      "name": "Johnson, Glen",
+      "change": 15
+    },
+    {
+      "name": "Oscar",
+      "change": 16
+    },
+    {
+      "name": "Rose, Danny",
+      "change": 16
+    },
+    {
+      "name": "Naughton, Kyle",
+      "change": 16
+    },
+    {
+      "name": "Crouch, Peter",
+      "change": 16
+    },
+    {
+      "name": "Sung-Yueng, Ki",
+      "change": 16
+    },
+    {
+      "name": "Riether, Sascha",
+      "change": 16
+    },
+    {
+      "name": "Campbell, Fraizer",
+      "change": 16
+    },
+    {
+      "name": "Ledley, Joe",
+      "change": 16
     },
     {
       "name": "Kagawa, Shinji",
       "change": 16
     },
     {
-      "name": "Kane, Harry",
+      "name": "Tomkins, James",
       "change": 16
     },
     {
-      "name": "Cattermole, Lee",
+      "name": "Giroud, Olivier",
       "change": 16
     },
     {
-      "name": "Lampard, Frank",
+      "name": "Long, Shane",
       "change": 16
     },
     {
-      "name": "Westwood, Ashley",
+      "name": "Lloris, Hugo",
+      "change": 16
+    },
+    {
+      "name": "Cisse, Papiss",
+      "change": 16
+    },
+    {
+      "name": "Vergini, Santiago",
+      "change": 16
+    },
+    {
+      "name": "Flanagan, Jon",
       "change": 17
     },
     {
-      "name": "Williams, Ashley",
+      "name": "Hernandez, Javier",
       "change": 17
     },
     {
-      "name": "Dorrans, Graham",
+      "name": "Johnson, Adam",
       "change": 17
     },
     {
-      "name": "Hazard, Eden",
+      "name": "Bertrand, Ryan",
       "change": 17
     },
     {
-      "name": "Snodgrass, Robert",
+      "name": "Kaboul, Younes",
       "change": 17
     },
     {
-      "name": "Flamini, Mathieu",
+      "name": "Coloccini, Fabricio",
+      "change": 18
+    },
+    {
+      "name": "Routledge, Wayne",
+      "change": 18
+    },
+    {
+      "name": "Stockdale, David",
+      "change": 18
+    },
+    {
+      "name": "Williamson, Mike",
+      "change": 18
+    },
+    {
+      "name": "Heitinga, Johnny",
       "change": 18
     },
     {
@@ -2234,230 +2262,202 @@
       "change": 18
     },
     {
-      "name": "Fernandinho",
+      "name": "Hangeland, Brede",
       "change": 18
-    },
-    {
-      "name": "Osman, Leon",
-      "change": 18
-    },
-    {
-      "name": "Nzonzi, Steven",
-      "change": 19
-    },
-    {
-      "name": "Caulker, Steven",
-      "change": 19
-    },
-    {
-      "name": "Richardson, Kieran",
-      "change": 19
-    },
-    {
-      "name": "Ledley, Joe",
-      "change": 20
-    },
-    {
-      "name": "Sung-Yueng, Ki",
-      "change": 20
-    },
-    {
-      "name": "Johnson, Adam",
-      "change": 21
-    },
-    {
-      "name": "Routledge, Wayne",
-      "change": 22
-    },
-    {
-      "name": "Giroud, Olivier",
-      "change": 22
     },
     {
       "name": "Schurrle, Andre",
-      "change": 22
-    },
-    {
-      "name": "Cisse, Papiss",
-      "change": 22
-    },
-    {
-      "name": "Long, Shane",
-      "change": 22
-    },
-    {
-      "name": "Crouch, Peter",
-      "change": 22
-    },
-    {
-      "name": "Campbell, Fraizer",
-      "change": 22
-    },
-    {
-      "name": "Sigurdsson, Gylfi",
-      "change": 23
-    },
-    {
-      "name": "Adebayor, Emmanuel",
-      "change": 23
-    },
-    {
-      "name": "Oscar",
-      "change": 24
-    },
-    {
-      "name": "Diame, Mohamed",
-      "change": 25
-    },
-    {
-      "name": "Jelavic, Nikica",
-      "change": 25
-    },
-    {
-      "name": "Demel, Guy",
-      "change": 25
-    },
-    {
-      "name": "Henderson, Jordan",
-      "change": 25
-    },
-    {
-      "name": "Carroll, Andy",
-      "change": 25
-    },
-    {
-      "name": "Silva, David",
-      "change": 26
-    },
-    {
-      "name": "Noble, Mark",
-      "change": 26
-    },
-    {
-      "name": "Podolski, Lukas",
-      "change": 26
+      "change": 18
     },
     {
       "name": "Amalfitano, Morgan",
-      "change": 26
-    },
-    {
-      "name": "Naismith, Steven",
-      "change": 26
-    },
-    {
-      "name": "Odemwingie, Peter",
-      "change": 27
+      "change": 18
     },
     {
       "name": "Puncheon, Jason",
-      "change": 27
+      "change": 19
     },
     {
-      "name": "Skrtel, Martin",
-      "change": 28
+      "name": "Guzan, Brad",
+      "change": 19
+    },
+    {
+      "name": "Bardsley, Phil",
+      "change": 19
+    },
+    {
+      "name": "Carroll, Andy",
+      "change": 19
+    },
+    {
+      "name": "Vlaar, Ron",
+      "change": 19
+    },
+    {
+      "name": "Vermaelen, Thomas",
+      "change": 19
+    },
+    {
+      "name": "Jelavic, Nikica",
+      "change": 19
     },
     {
       "name": "Salah, Mohamed",
-      "change": 28
+      "change": 20
     },
     {
-      "name": "Coutinho, Philippe",
-      "change": 28
-    },
-    {
-      "name": "Hernandez, Javier",
-      "change": 29
-    },
-    {
-      "name": "de Guzman, Jonathan",
-      "change": 30
-    },
-    {
-      "name": "Nasri, Samir",
-      "change": 31
-    },
-    {
-      "name": "Lallana, Adam",
-      "change": 32
-    },
-    {
-      "name": "Bony, Wilfried",
-      "change": 33
-    },
-    {
-      "name": "Barkley, Ross",
-      "change": 33
-    },
-    {
-      "name": "Sturridge, Daniel",
-      "change": 35
-    },
-    {
-      "name": "Lambert, Rickie",
-      "change": 35
+      "name": "Podolski, Lukas",
+      "change": 20
     },
     {
       "name": "Rodriguez, Jay",
-      "change": 39
+      "change": 21
     },
     {
-      "name": "Gerrard, Steven",
-      "change": 40
+      "name": "Henderson, Jordan",
+      "change": 21
     },
     {
-      "name": "Mutch, Jordon",
-      "change": 42
+      "name": "Marshall, David",
+      "change": 21
     },
     {
-      "name": "Dzeko, Edin",
-      "change": 45
+      "name": "Williams, Ashley",
+      "change": 21
     },
     {
-      "name": "Eriksen, Christian",
-      "change": 48
+      "name": "Bony, Wilfried",
+      "change": 21
     },
     {
-      "name": "Mata, Juan",
-      "change": 48
+      "name": "Diame, Mohamed",
+      "change": 21
     },
     {
-      "name": "Lukaku, Romelu",
-      "change": 48
+      "name": "Silva, David",
+      "change": 22
+    },
+    {
+      "name": "Noble, Mark",
+      "change": 22
+    },
+    {
+      "name": "de Guzman, Jonathan",
+      "change": 22
+    },
+    {
+      "name": "Sturridge, Daniel",
+      "change": 23
+    },
+    {
+      "name": "Brown, Wes",
+      "change": 23
+    },
+    {
+      "name": "Lambert, Rickie",
+      "change": 23
+    },
+    {
+      "name": "Mannone, Vito",
+      "change": 23
+    },
+    {
+      "name": "Szczesny, Wojciech",
+      "change": 24
+    },
+    {
+      "name": "Coutinho, Philippe",
+      "change": 24
+    },
+    {
+      "name": "Lallana, Adam",
+      "change": 24
+    },
+    {
+      "name": "Sagna, Bacary",
+      "change": 24
+    },
+    {
+      "name": "Mertesacker, Per",
+      "change": 24
     },
     {
       "name": "Rooney, Wayne",
-      "change": 49
+      "change": 25
+    },
+    {
+      "name": "Barkley, Ross",
+      "change": 25
+    },
+    {
+      "name": "Nasri, Samir",
+      "change": 27
+    },
+    {
+      "name": "Dzeko, Edin",
+      "change": 27
+    },
+    {
+      "name": "Gerrard, Steven",
+      "change": 28
+    },
+    {
+      "name": "Demel, Guy",
+      "change": 29
+    },
+    {
+      "name": "Caulker, Steven",
+      "change": 29
+    },
+    {
+      "name": "Skrtel, Martin",
+      "change": 29
+    },
+    {
+      "name": "Lukaku, Romelu",
+      "change": 30
+    },
+    {
+      "name": "Mutch, Jordon",
+      "change": 30
     },
     {
       "name": "Suarez, Luis",
-      "change": 55
+      "change": 31
+    },
+    {
+      "name": "Eriksen, Christian",
+      "change": 36
+    },
+    {
+      "name": "Mata, Juan",
+      "change": 36
     },
     {
       "name": "Toure, Yaya",
-      "change": 58
+      "change": 38
     }
   ],
   "winners": [
     {
       "name": "Toure, Yaya",
-      "change": 58
+      "change": 38
     },
     {
-      "name": "Suarez, Luis",
-      "change": 55
-    },
-    {
-      "name": "Rooney, Wayne",
-      "change": 49
-    },
-    {
-      "name": "Lukaku, Romelu",
-      "change": 48
+      "name": "Eriksen, Christian",
+      "change": 36
     },
     {
       "name": "Mata, Juan",
-      "change": 48
+      "change": 36
+    },
+    {
+      "name": "Suarez, Luis",
+      "change": 31
+    },
+    {
+      "name": "Mutch, Jordon",
+      "change": 30
     }
   ],
   "losers": [
@@ -2466,19 +2466,19 @@
       "change": -4
     },
     {
-      "name": "Terry, John",
-      "change": -3
-    },
-    {
       "name": "Delaney, Damien",
-      "change": -3
+      "change": -2
     },
     {
-      "name": "Dann, Scott",
-      "change": -3
+      "name": "Lindegaard, Anders",
+      "change": -2
     },
     {
-      "name": "Lescott, Joleon",
+      "name": "Olsson, Jonas",
+      "change": -2
+    },
+    {
+      "name": "Smalling, Chris",
       "change": -2
     }
   ]

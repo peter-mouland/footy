@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="847e769a-6d7f-47cb-9a70-acb93f137703" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/fpl/186.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/fpl/635.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/player-positions.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/32/players.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/33/players.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/34/players.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/35/players.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/32/points.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/33/points.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/34/points.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/35/points.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/31/teams.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/32/teams.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/33/teams.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stats/34/teams.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/pages/banner.styl" afterPath="$PROJECT_DIR$/src/css/pages/banner.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/core/grid.styl" afterPath="$PROJECT_DIR$/src/css/core/grid.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stats/latest-team.json" afterPath="$PROJECT_DIR$/public/stats/latest-team.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/points-spec.js" afterPath="$PROJECT_DIR$/test/points-spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stats/player-positions.json" afterPath="$PROJECT_DIR$/public/stats/player-positions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stats/35/players.json" afterPath="$PROJECT_DIR$/public/stats/35/players.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/points.js" afterPath="$PROJECT_DIR$/controllers/points.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stats/35/points.json" afterPath="$PROJECT_DIR$/public/stats/35/points.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/statistics.js" afterPath="$PROJECT_DIR$/controllers/statistics.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -89,21 +71,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="statistics.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="statistics.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/statistics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08515535" vertical-offset="1876" max-vertical-offset="2745">
-              <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+            <state vertical-scroll-proportion="-22.461538" vertical-offset="826" max-vertical-offset="2865">
+              <caret line="94" column="51" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="players.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stats/35/players.json">
+      <file leaf-file-name="player-positions.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/stats/player-positions.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.02" vertical-offset="252479" max-vertical-offset="311250">
-              <caret line="16842" column="16" selection-start-line="16842" selection-start-column="16" selection-end-line="16842" selection-end-column="16" />
+            <state vertical-scroll-proportion="41.64" vertical-offset="54147" max-vertical-offset="55005">
+              <caret line="3471" column="18" selection-start-line="3471" selection-start-column="18" selection-end-line="3471" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="points.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/points.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10055866" vertical-offset="0" max-vertical-offset="2385">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="points.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/stats/35/points.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1526.875" vertical-offset="0" max-vertical-offset="37350">
+              <caret line="2443" column="18" selection-start-line="2443" selection-start-column="18" selection-end-line="2443" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -135,17 +137,17 @@
             <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1860">
               <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
-                <marker date="1397301412000" expanded="false" signature="464:479" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="910:925" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="1361:1376" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="1808:1823" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="2253:2268" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="2699:2714" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="3239:3254" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="3686:3701" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="4225:4240" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="4772:4787" placeholder="..." />
-                <marker date="1397301412000" expanded="false" signature="5218:5233" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="464:479" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="910:925" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="1361:1376" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="1808:1823" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="2253:2268" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="2699:2714" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="3239:3254" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="3686:3701" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="4225:4240" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="4772:4787" placeholder="..." />
+                <marker date="1397312820000" expanded="false" signature="5218:5233" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -154,7 +156,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
               <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding />
             </state>
@@ -241,23 +243,23 @@
         <option value="$PROJECT_DIR$/src/css/core/grid.styl" />
         <option value="$PROJECT_DIR$/src/css/pages/banner.styl" />
         <option value="$PROJECT_DIR$/test/points-spec.js" />
-        <option value="$PROJECT_DIR$/controllers/points.js" />
         <option value="$PROJECT_DIR$/public/stats/fpl/186.json" />
         <option value="$PROJECT_DIR$/public/stats/fpl/635.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/stats/latest-team.json" />
-        <option value="$PROJECT_DIR$/public/stats/35/points.json" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/stats/player-positions.csv" />
         <option value="$PROJECT_DIR$/public/stats/player-positions.json" />
         <option value="$PROJECT_DIR$/controllers/statistics.js" />
+        <option value="$PROJECT_DIR$/public/stats/35/points.json" />
+        <option value="$PROJECT_DIR$/controllers/points.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="47" />
     <option name="y" value="22" />
-    <option name="width" value="811" />
+    <option name="width" value="872" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -663,7 +665,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="47" y="22" width="811" height="1028" extended-state="0" />
+    <frame x="47" y="22" width="872" height="1028" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -675,12 +677,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25030828" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23279816" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -709,7 +711,8 @@
     <MESSAGE value="fix points json" />
     <MESSAGE value="fix tests" />
     <MESSAGE value="tweak the look for the stats into tiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweak the look for the stats into tiles" />
+    <MESSAGE value="update pointing system + add player positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pointing system + add player positions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -988,30 +991,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92178774" vertical-offset="0" max-vertical-offset="2400">
-          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stats/latest-team.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1860">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
-            <marker date="1397301412000" expanded="false" signature="464:479" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="910:925" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="1361:1376" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="1808:1823" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="2253:2268" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="2699:2714" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="3239:3254" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="3686:3701" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="4225:4240" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="4772:4787" placeholder="..." />
-            <marker date="1397301412000" expanded="false" signature="5218:5233" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="464:479" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="910:925" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="1361:1376" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="1808:1823" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="2253:2268" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="2699:2714" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="3239:3254" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="3686:3701" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="4225:4240" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="4772:4787" placeholder="..." />
+            <marker date="1397312820000" expanded="false" signature="5218:5233" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1039,14 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stats/35/points.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16855204" vertical-offset="316" max-vertical-offset="37350">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stats/32/teams.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
@@ -1062,14 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33936653" vertical-offset="0" max-vertical-offset="884">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stats/35/players.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.02" vertical-offset="252479" max-vertical-offset="311250">
-          <caret line="16842" column="16" selection-start-line="16842" selection-start-column="16" selection-end-line="16842" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1100,16 +1079,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stats/player-positions.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-50.838234" vertical-offset="54121" max-vertical-offset="55005">
-          <caret line="612" column="1" selection-start-line="612" selection-start-column="1" selection-end-line="612" selection-end-column="1" />
+        <state vertical-scroll-proportion="41.64" vertical-offset="54147" max-vertical-offset="55005">
+          <caret line="3471" column="18" selection-start-line="3471" selection-start-column="18" selection-end-line="3471" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stats/35/players.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20927602" vertical-offset="3175" max-vertical-offset="329520">
+          <caret line="224" column="16" selection-start-line="224" selection-start-column="16" selection-end-line="224" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/statistics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08515535" vertical-offset="1876" max-vertical-offset="2745">
-          <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+        <state vertical-scroll-proportion="-22.461538" vertical-offset="826" max-vertical-offset="2865">
+          <caret line="94" column="51" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stats/35/points.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1526.875" vertical-offset="0" max-vertical-offset="37350">
+          <caret line="2443" column="18" selection-start-line="2443" selection-start-column="18" selection-end-line="2443" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/points.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10055866" vertical-offset="0" max-vertical-offset="2385">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
           <folding />
         </state>
       </provider>
