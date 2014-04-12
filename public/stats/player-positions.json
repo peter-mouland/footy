@@ -1,0 +1,3662 @@
+{
+  "Adam, Charlie": {
+    "pos": "CM",
+    "Code": "101",
+    "Name": "Adam, Charlie",
+    "Club": "STO"
+  },
+  "Adebayor, Emmanuel": {
+    "pos": "FWD",
+    "Code": "102",
+    "Name": "Adebayor, Emmanuel",
+    "Club": "TOT"
+  },
+  "Adrian": {
+    "pos": "GK",
+    "Code": "103",
+    "Name": "Adrian",
+    "Club": "WHM"
+  },
+  "Agbonlahor, Gabriel": {
+    "pos": "FWD",
+    "Code": "104",
+    "Name": "Agbonlahor, Gabriel",
+    "Club": "AVL"
+  },
+  "Agger, Daniel": {
+    "pos": "CB",
+    "Code": "105",
+    "Name": "Agger, Daniel",
+    "Club": "LIV"
+  },
+  "Aguero, Sergio": {
+    "pos": "FWD",
+    "Code": "106",
+    "Name": "Aguero, Sergio",
+    "Club": "MCY"
+  },
+  "Agustien, Kemy": {
+    "pos": "CM",
+    "Code": "107",
+    "Name": "Agustien, Kemy",
+    "Club": "SWA"
+  },
+  "Alberto, Luis": {
+    "pos": "FWD",
+    "Code": "108",
+    "Name": "Alberto, Luis",
+    "Club": "LIV"
+  },
+  "Albrighton, Marc": {
+    "pos": "WM",
+    "Code": "109",
+    "Name": "Albrighton, Marc",
+    "Club": "AVL"
+  },
+  "Alcaraz, Antolin": {
+    "pos": "CB",
+    "Code": "110",
+    "Name": "Alcaraz, Antolin",
+    "Club": "EVE"
+  },
+  "Alexander, Neil": {
+    "pos": "GK",
+    "Code": "110.5",
+    "Name": "Alexander, Neil",
+    "Club": "CRY"
+  },
+  "Allen, Joe": {
+    "pos": "CM",
+    "Code": "111",
+    "Name": "Allen, Joe",
+    "Club": "LIV"
+  },
+  "Alonso, Marcos": {
+    "pos": "FB",
+    "Code": "111.5",
+    "Name": "Alonso, Marcos",
+    "Club": "SUN"
+  },
+  "Altidore, Jozy": {
+    "pos": "FWD",
+    "Code": "112",
+    "Name": "Altidore, Jozy",
+    "Club": "SUN"
+  },
+  "Aluko, Sone": {
+    "pos": "WM",
+    "Code": "113",
+    "Name": "Aluko, Sone",
+    "Club": "HUL"
+  },
+  "Amalfitano, Morgan": {
+    "pos": "WM",
+    "Code": "113.5",
+    "Name": "Amalfitano, Morgan",
+    "Club": "WBA"
+  },
+  "Amalfitano, Romain": {
+    "pos": "CM",
+    "Code": "114",
+    "Name": "Amalfitano, Romain",
+    "Club": "NEW"
+  },
+  "Amat, Jordi": {
+    "pos": "CB",
+    "Code": "115",
+    "Name": "Amat, Jordi",
+    "Club": "SWA"
+  },
+  "Ameobi, Sammy": {
+    "pos": "FWD",
+    "Code": "116",
+    "Name": "Ameobi, Sammy",
+    "Club": "NEW"
+  },
+  "Ameobi, Shola": {
+    "pos": "FWD",
+    "Code": "117",
+    "Name": "Ameobi, Shola",
+    "Club": "NEW"
+  },
+  "Amondarain, Maximiliano": {
+    "pos": "FB",
+    "Code": "117.5",
+    "Name": "Amondarain, Maximiliano",
+    "Club": "CAR"
+  },
+  "Amorebieta, Fernando": {
+    "pos": "CB",
+    "Code": "118",
+    "Name": "Amorebieta, Fernando",
+    "Club": "FUL"
+  },
+  "Anderson": {
+    "pos": "CM",
+    "Code": "119",
+    "Name": "Anderson",
+    "Club": "MUN"
+  },
+  "Anelka, Nicolas": {
+    "pos": "FWD",
+    "Code": "120",
+    "Name": "Anelka, Nicolas",
+    "Club": "WBA"
+  },
+  "Anichebe, Victor": {
+    "pos": "FWD",
+    "Code": "121",
+    "Name": "Anichebe, Victor",
+    "Club": "EVE"
+  },
+  "Anita, Vurnon": {
+    "pos": "CM",
+    "Code": "122",
+    "Name": "Anita, Vurnon",
+    "Club": "NEW"
+  },
+  "Armero, Pablo": {
+    "pos": "FB",
+    "Code": "122.1",
+    "Name": "Armero, Pablo",
+    "Club": "WHM"
+  },
+  "Arnautovic, Marko": {
+    "pos": "WM",
+    "Code": "122.5",
+    "Name": "Arnautovic, Marko",
+    "Club": "STO"
+  },
+  "Arteta, Mikel": {
+    "pos": "CM",
+    "Code": "123",
+    "Name": "Arteta, Mikel",
+    "Club": "ARS"
+  },
+  "Aspas, Iago": {
+    "pos": "FWD",
+    "Code": "124",
+    "Name": "Aspas, Iago",
+    "Club": "LIV"
+  },
+  "Assaidi, Oussama": {
+    "pos": "WM",
+    "Code": "125",
+    "Name": "Assaidi, Oussama",
+    "Club": "STO"
+  },
+  "Assou-Ekotto, Benoit": {
+    "pos": "FB",
+    "Code": "126",
+    "Name": "Assou-Ekotto, Benoit",
+    "Club": "TOT"
+  },
+  "Azpilicueta, Cesar": {
+    "pos": "FB",
+    "Code": "127",
+    "Name": "Azpilicueta, Cesar",
+    "Club": "CHE"
+  },
+  "Ba, Demba": {
+    "pos": "FWD",
+    "Code": "128",
+    "Name": "Ba, Demba",
+    "Club": "CHE"
+  },
+  "Ba, El Hadji": {
+    "pos": "CM",
+    "Code": "129",
+    "Name": "Ba, El Hadji",
+    "Club": "SUN"
+  },
+  "Bacuna, Leandro": {
+    "pos": "WM",
+    "Code": "130",
+    "Name": "Bacuna, Leandro",
+    "Club": "AVL"
+  },
+  "Baines, Leighton": {
+    "pos": "FB",
+    "Code": "131",
+    "Name": "Baines, Leighton",
+    "Club": "EVE"
+  },
+  "Baker, Nathan": {
+    "pos": "CB",
+    "Code": "132",
+    "Name": "Baker, Nathan",
+    "Club": "AVL"
+  },
+  "Bale, Gareth": {
+    "pos": "WM",
+    "Code": "133",
+    "Name": "Bale, Gareth",
+    "Club": "TOT"
+  },
+  "Bannan, Barry": {
+    "pos": "CM",
+    "Code": "134",
+    "Name": "Bannan, Barry",
+    "Club": "AVL"
+  },
+  "Bardsley, Phil": {
+    "pos": "FB",
+    "Code": "135",
+    "Name": "Bardsley, Phil",
+    "Club": "SUN"
+  },
+  "Barkley, Ross": {
+    "pos": "CM",
+    "Code": "136",
+    "Name": "Barkley, Ross",
+    "Club": "EVE"
+  },
+  "Barnett, Leon": {
+    "pos": "CB",
+    "Code": "137",
+    "Name": "Barnett, Leon",
+    "Club": "NOR"
+  },
+  "Barry, Gareth": {
+    "pos": "CM",
+    "Code": "138",
+    "Name": "Barry, Gareth",
+    "Club": "MCY"
+  },
+  "Bartley, Kyle": {
+    "pos": "CB",
+    "Code": "138.5",
+    "Name": "Bartley, Kyle",
+    "Club": "SWA"
+  },
+  "Bassong, Sebastien": {
+    "pos": "CB",
+    "Code": "139",
+    "Name": "Bassong, Sebastien",
+    "Club": "NOR"
+  },
+  "Becchio, Luciano": {
+    "pos": "FWD",
+    "Code": "140",
+    "Name": "Becchio, Luciano",
+    "Club": "NOR"
+  },
+  "Begovic, Asmir": {
+    "pos": "GK",
+    "Code": "141",
+    "Name": "Begovic, Asmir",
+    "Club": "STO"
+  },
+  "Bellamy, Craig": {
+    "pos": "FWD",
+    "Code": "142",
+    "Name": "Bellamy, Craig",
+    "Club": "CAR"
+  },
+  "Ben Arfa, Hatem": {
+    "pos": "WM",
+    "Code": "143",
+    "Name": "Ben Arfa, Hatem",
+    "Club": "NEW"
+  },
+  "Bendtner, Nicklas": {
+    "pos": "FWD",
+    "Code": "144",
+    "Name": "Bendtner, Nicklas",
+    "Club": "ARS"
+  },
+  "Bennett, Elliott": {
+    "pos": "WM",
+    "Code": "145",
+    "Name": "Bennett, Elliott",
+    "Club": "NOR"
+  },
+  "Bennett, Joe": {
+    "pos": "FB",
+    "Code": "146",
+    "Name": "Bennett, Joe",
+    "Club": "AVL"
+  },
+  "Bennett, Ryan": {
+    "pos": "FB",
+    "Code": "147",
+    "Name": "Bennett, Ryan",
+    "Club": "NOR"
+  },
+  "Bent, Darren": {
+    "pos": "FWD",
+    "Code": "148",
+    "Name": "Bent, Darren",
+    "Club": "FUL"
+  },
+  "Bentaleb, Nabil": {
+    "pos": "CM",
+    "Code": "148.5",
+    "Name": "Bentaleb, Nabil",
+    "Club": "TOT"
+  },
+  "Benteke, Christian": {
+    "pos": "FWD",
+    "Code": "149",
+    "Name": "Benteke, Christian",
+    "Club": "AVL"
+  },
+  "Berahino, Saido": {
+    "pos": "FWD",
+    "Code": "149.5",
+    "Name": "Berahino, Saido",
+    "Club": "WBA"
+  },
+  "Berbatov, Dimitar": {
+    "pos": "FWD",
+    "Code": "150",
+    "Name": "Berbatov, Dimitar",
+    "Club": "FUL"
+  },
+  "Berget, Jo Inge": {
+    "pos": "FWD",
+    "Code": "150.1",
+    "Name": "Berget, Jo Inge",
+    "Club": "CAR"
+  },
+  "Bertrand, Ryan": {
+    "pos": "FB",
+    "Code": "151",
+    "Name": "Bertrand, Ryan",
+    "Club": "AST"
+  },
+  "Bifouma, Thievy": {
+    "pos": "FWD",
+    "Code": "151.1",
+    "Name": "Bifouma, Thievy",
+    "Club": "WBA"
+  },
+  "Bigirimana, Gael": {
+    "pos": "CM",
+    "Code": "152",
+    "Name": "Bigirimana, Gael",
+    "Club": "NEW"
+  },
+  "Blake, Darcy": {
+    "pos": "CM",
+    "Code": "153",
+    "Name": "Blake, Darcy",
+    "Club": "CRY"
+  },
+  "Bo-Kyung, Kim": {
+    "pos": "WM",
+    "Code": "154",
+    "Name": "Bo-Kyung, Kim",
+    "Club": "CAR"
+  },
+  "Boateng, Derek": {
+    "pos": "CM",
+    "Code": "155",
+    "Name": "Boateng, Derek",
+    "Club": "FUL"
+  },
+  "Bolasie, Yala": {
+    "pos": "WM",
+    "Code": "156",
+    "Name": "Bolasie, Yala",
+    "Club": "CRY"
+  },
+  "Bony, Wilfried": {
+    "pos": "FWD",
+    "Code": "157",
+    "Name": "Bony, Wilfried",
+    "Club": "SWA"
+  },
+  "Borini, Fabio": {
+    "pos": "FWD",
+    "Code": "158",
+    "Name": "Borini, Fabio",
+    "Club": "LIV"
+  },
+  "Borriello, Marco": {
+    "pos": "FWD",
+    "Code": "158.1",
+    "Name": "Borriello, Marco",
+    "Club": "WHM"
+  },
+  "Boruc, Artur": {
+    "pos": "GK",
+    "Code": "159",
+    "Name": "Boruc, Artur",
+    "Club": "SOT"
+  },
+  "Bowery, Jordan": {
+    "pos": "FB",
+    "Code": "160",
+    "Name": "Bowery, Jordan",
+    "Club": "AVL"
+  },
+  "Boyata, Dedryck": {
+    "pos": "FB",
+    "Code": "160.5",
+    "Name": "Boyata, Dedryck",
+    "Club": "MCY"
+  },
+  "Boyd, George": {
+    "pos": "WM",
+    "Code": "161",
+    "Name": "Boyd, George",
+    "Club": "HUL"
+  },
+  "Brady, Robbie": {
+    "pos": "FWD",
+    "Code": "162",
+    "Name": "Brady, Robbie",
+    "Club": "HUL"
+  },
+  "Brayford, John": {
+    "pos": "CB",
+    "Code": "163",
+    "Name": "Brayford, John",
+    "Club": "CAR"
+  },
+  "Bridcutt, Liam": {
+    "pos": "CM",
+    "Code": "163.1",
+    "Name": "Bridcutt, Liam",
+    "Club": "SUN"
+  },
+  "Briggs, Matthew": {
+    "pos": "FB",
+    "Code": "164",
+    "Name": "Briggs, Matthew",
+    "Club": "FUL"
+  },
+  "Britton, Leon": {
+    "pos": "CM",
+    "Code": "165",
+    "Name": "Britton, Leon",
+    "Club": "SWA"
+  },
+  "Brown, Wes": {
+    "pos": "CB",
+    "Code": "166",
+    "Name": "Brown, Wes",
+    "Club": "SUN"
+  },
+  "Bruce, Alex": {
+    "pos": "CB",
+    "Code": "167",
+    "Name": "Bruce, Alex",
+    "Club": "HUL"
+  },
+  "Brunt, Chris": {
+    "pos": "WM",
+    "Code": "168",
+    "Name": "Brunt, Chris",
+    "Club": "WBA"
+  },
+  "Bunn, Mark": {
+    "pos": "GK",
+    "Code": "169",
+    "Name": "Bunn, Mark",
+    "Club": "NOR"
+  },
+  "Burn, Dan": {
+    "pos": "CB",
+    "Code": "169.1",
+    "Name": "Burn, Dan",
+    "Club": "FUL"
+  },
+  "Butland, Jack": {
+    "pos": "GK",
+    "Code": "170",
+    "Name": "Butland, Jack",
+    "Club": "STO"
+  },
+  "Butterfield, Jacob": {
+    "pos": "CM",
+    "Code": "171",
+    "Name": "Butterfield, Jacob",
+    "Club": "NOR"
+  },
+  "Buttner, Alexander": {
+    "pos": "FB",
+    "Code": "172",
+    "Name": "Buttner, Alexander",
+    "Club": "MUN"
+  },
+  "Cabaye, Yohan": {
+    "pos": "CM",
+    "Code": "173",
+    "Name": "Cabaye, Yohan",
+    "Club": "NEW"
+  },
+  "Cabral": {
+    "pos": "CM",
+    "Code": "174",
+    "Name": "Cabral",
+    "Club": "SUN"
+  },
+  "Cahill, Gary": {
+    "pos": "CB",
+    "Code": "175",
+    "Name": "Cahill, Gary",
+    "Club": "CHE"
+  },
+  "Cairney, Tom": {
+    "pos": "CM",
+    "Code": "176",
+    "Name": "Cairney, Tom",
+    "Club": "HUL"
+  },
+  "Cala, Juan": {
+    "pos": "CB",
+    "Code": "176.1",
+    "Name": "Cala, Juan",
+    "Club": "CAR"
+  },
+  "Cameron, Geoff": {
+    "pos": "FB",
+    "Code": "177",
+    "Name": "Cameron, Geoff",
+    "Club": "STO"
+  },
+  "Camp, Lee": {
+    "pos": "GK",
+    "Code": "177.5",
+    "Name": "Camp, Lee",
+    "Club": "WBA"
+  },
+  "Campana, Jose": {
+    "pos": "WM",
+    "Code": "178",
+    "Name": "Campana, Jose",
+    "Club": "CRY"
+  },
+  "Campbell, Fraizer": {
+    "pos": "FWD",
+    "Code": "179",
+    "Name": "Campbell, Fraizer",
+    "Club": "CAR"
+  },
+  "Canas, Jose": {
+    "pos": "CM",
+    "Code": "180",
+    "Name": "Canas, Jose",
+    "Club": "SWA"
+  },
+  "Capoue, Etienne": {
+    "pos": "CM",
+    "Code": "180.5",
+    "Name": "Capoue, Etienne",
+    "Club": "TOT"
+  },
+  "Carrick, Michael": {
+    "pos": "CM",
+    "Code": "181",
+    "Name": "Carrick, Michael",
+    "Club": "MUN"
+  },
+  "Carroll, Andy": {
+    "pos": "FWD",
+    "Code": "182",
+    "Name": "Carroll, Andy",
+    "Club": "WHM"
+  },
+  "Carruthers, Samir": {
+    "pos": "WM",
+    "Code": "183",
+    "Name": "Carruthers, Samir",
+    "Club": "AVL"
+  },
+  "Cattermole, Lee": {
+    "pos": "CM",
+    "Code": "184",
+    "Name": "Cattermole, Lee",
+    "Club": "SUN"
+  },
+  "Caulker, Steven": {
+    "pos": "CB",
+    "Code": "185",
+    "Name": "Caulker, Steven",
+    "Club": "CAR"
+  },
+  "Cazorla, Santi": {
+    "pos": "CM",
+    "Code": "186",
+    "Name": "Cazorla, Santi",
+    "Club": "ARS"
+  },
+  "Cech, Petr": {
+    "pos": "GK",
+    "Code": "187",
+    "Name": "Cech, Petr",
+    "Club": "CHE"
+  },
+  "Celustka, Ondrej": {
+    "pos": "FB",
+    "Code": "187.5",
+    "Name": "Celustka, Ondrej",
+    "Club": "SUN"
+  },
+  "Chadli, Nacer": {
+    "pos": "WM",
+    "Code": "188",
+    "Name": "Chadli, Nacer",
+    "Club": "TOT"
+  },
+  "Chamakh, Marouane": {
+    "pos": "FWD",
+    "Code": "189",
+    "Name": "Chamakh, Marouane",
+    "Club": "CRY"
+  },
+  "Chambers, Calum": {
+    "pos": "WM",
+    "Code": "190",
+    "Name": "Chambers, Calum",
+    "Club": "SOT"
+  },
+  "Chaplow, Richard": {
+    "pos": "CM",
+    "Code": "191",
+    "Name": "Chaplow, Richard",
+    "Club": "SOT"
+  },
+  "Chester, James": {
+    "pos": "CB",
+    "Code": "192",
+    "Name": "Chester, James",
+    "Club": "HUL"
+  },
+  "Chico": {
+    "pos": "CB",
+    "Code": "193",
+    "Name": "Chico",
+    "Club": "SWA"
+  },
+  "Chiriches, Vlad": {
+    "pos": "CB",
+    "Code": "193.5",
+    "Name": "Chiriches, Vlad",
+    "Club": "TOT"
+  },
+  "Cisse, Papiss": {
+    "pos": "FWD",
+    "Code": "194",
+    "Name": "Cisse, Papiss",
+    "Club": "NEW"
+  },
+  "Cissokho, Aly": {
+    "pos": "FB",
+    "Code": "194.5",
+    "Name": "Cissokho, Aly",
+    "Club": "LIV"
+  },
+  "Clark, Ciaran": {
+    "pos": "CB",
+    "Code": "195",
+    "Name": "Clark, Ciaran",
+    "Club": "AVL"
+  },
+  "Cleverley, Tom": {
+    "pos": "CM",
+    "Code": "196",
+    "Name": "Cleverley, Tom",
+    "Club": "MUN"
+  },
+  "Clichy, Gael": {
+    "pos": "FB",
+    "Code": "197",
+    "Name": "Clichy, Gael",
+    "Club": "MCY"
+  },
+  "Clyne, Nathaniel": {
+    "pos": "FB",
+    "Code": "198",
+    "Name": "Clyne, Nathaniel",
+    "Club": "SOT"
+  },
+  "Coates, Sebastian": {
+    "pos": "CB",
+    "Code": "199",
+    "Name": "Coates, Sebastian",
+    "Club": "LIV"
+  },
+  "Colback, Jack": {
+    "pos": "CM",
+    "Code": "200",
+    "Name": "Colback, Jack",
+    "Club": "SUN"
+  },
+  "Cole, Ashley": {
+    "pos": "FB",
+    "Code": "201",
+    "Name": "Cole, Ashley",
+    "Club": "CHE"
+  },
+  "Cole, Carlton": {
+    "pos": "FWD",
+    "Code": "201.5",
+    "Name": "Cole, Carlton",
+    "Club": "WHM"
+  },
+  "Cole, Joe": {
+    "pos": "WM",
+    "Code": "202",
+    "Name": "Cole, Joe",
+    "Club": "WHM"
+  },
+  "Cole, Larnell": {
+    "pos": "FB",
+    "Code": "202.1",
+    "Name": "Cole, Larnell",
+    "Club": "FUL"
+  },
+  "Coleman, Seamus": {
+    "pos": "FB",
+    "Code": "203",
+    "Name": "Coleman, Seamus",
+    "Club": "EVE"
+  },
+  "Collins, James": {
+    "pos": "CB",
+    "Code": "204",
+    "Name": "Collins, James",
+    "Club": "WHM"
+  },
+  "Collison, Jack": {
+    "pos": "CM",
+    "Code": "205",
+    "Name": "Collison, Jack",
+    "Club": "WHM"
+  },
+  "Coloccini, Fabricio": {
+    "pos": "CB",
+    "Code": "206",
+    "Name": "Coloccini, Fabricio",
+    "Club": "NEW"
+  },
+  "Connolly, Matthew": {
+    "pos": "CB",
+    "Code": "207",
+    "Name": "Connolly, Matthew",
+    "Club": "CAR"
+  },
+  "Conway, Craig": {
+    "pos": "WM",
+    "Code": "208",
+    "Name": "Conway, Craig",
+    "Club": "CAR"
+  },
+  "Coquelin, Francis": {
+    "pos": "CM",
+    "Code": "209",
+    "Name": "Coquelin, Francis",
+    "Club": "ARS"
+  },
+  "Cork, Jack": {
+    "pos": "CM",
+    "Code": "210",
+    "Name": "Cork, Jack",
+    "Club": "SOT"
+  },
+  "Cornelius, Andreas": {
+    "pos": "FWD",
+    "Code": "211",
+    "Name": "Cornelius, Andreas",
+    "Club": "CAR"
+  },
+  "Coutinho, Philippe": {
+    "pos": "CM",
+    "Code": "212",
+    "Name": "Coutinho, Philippe",
+    "Club": "LIV"
+  },
+  "Cowie, Don": {
+    "pos": "CM",
+    "Code": "213",
+    "Name": "Cowie, Don",
+    "Club": "CAR"
+  },
+  "Crouch, Peter": {
+    "pos": "FWD",
+    "Code": "214",
+    "Name": "Crouch, Peter",
+    "Club": "STO"
+  },
+  "Cuellar, Carlos": {
+    "pos": "CB",
+    "Code": "215",
+    "Name": "Cuellar, Carlos",
+    "Club": "SUN"
+  },
+  "Cuvelier, Florent": {
+    "pos": "CM",
+    "Code": "216",
+    "Name": "Cuvelier, Florent",
+    "Club": "STO"
+  },
+  "Daehli, Mats": {
+    "pos": "WM",
+    "Code": "216.5",
+    "Name": "Daehli, Mats",
+    "Club": "CAR"
+  },
+  "Dann, Scott": {
+    "pos": "CB",
+    "Code": "216.6",
+    "Name": "Dann, Scott",
+    "Club": "CRY"
+  },
+  "David, Chris": {
+    "pos": "CM",
+    "Code": "217",
+    "Name": "David, Chris",
+    "Club": "FUL"
+  },
+  "Davies, Ben": {
+    "pos": "FB",
+    "Code": "218",
+    "Name": "Davies, Ben",
+    "Club": "SWA"
+  },
+  "Davies, Curtis": {
+    "pos": "CB",
+    "Code": "219",
+    "Name": "Davies, Curtis",
+    "Club": "HUL"
+  },
+  "Davis, Kelvin": {
+    "pos": "GK",
+    "Code": "220",
+    "Name": "Davis, Kelvin",
+    "Club": "SOT"
+  },
+  "Davis, Steven": {
+    "pos": "CM",
+    "Code": "221",
+    "Name": "Davis, Steven",
+    "Club": "SOT"
+  },
+  "Dawkins, Simon": {
+    "pos": "FWD",
+    "Code": "222",
+    "Name": "Dawkins, Simon",
+    "Club": "TOT"
+  },
+  "Dawson, Craig": {
+    "pos": "CB",
+    "Code": "223",
+    "Name": "Dawson, Craig",
+    "Club": "WBA"
+  },
+  "Dawson, Michael": {
+    "pos": "CB",
+    "Code": "224",
+    "Name": "Dawson, Michael",
+    "Club": "TOT"
+  },
+  "de Bruyne, Kevin": {
+    "pos": "WM",
+    "Code": "225",
+    "Name": "de Bruyne, Kevin",
+    "Club": "CHE"
+  },
+  "de Gea, David": {
+    "pos": "GK",
+    "Code": "226",
+    "Name": "de Gea, David",
+    "Club": "MUN"
+  },
+  "de Guzman, Jonathan": {
+    "pos": "CM",
+    "Code": "227",
+    "Name": "de Guzman, Jonathan",
+    "Club": "SWA"
+  },
+  "de Jong, Luuk": {
+    "pos": "FWD",
+    "Code": "227.1",
+    "Name": "de Jong, Luuk",
+    "Club": "NEW"
+  },
+  "De Ridder, Steve": {
+    "pos": "WM",
+    "Code": "228",
+    "Name": "De Ridder, Steve",
+    "Club": "SOT"
+  },
+  "Debuchy, Mathieu": {
+    "pos": "FB",
+    "Code": "229",
+    "Name": "Debuchy, Mathieu",
+    "Club": "NEW"
+  },
+  "Defoe, Jermain": {
+    "pos": "FWD",
+    "Code": "230",
+    "Name": "Defoe, Jermain",
+    "Club": "TOT"
+  },
+  "Dejagah, Ashkan": {
+    "pos": "WM",
+    "Code": "231",
+    "Name": "Dejagah, Ashkan",
+    "Club": "FUL"
+  },
+  "Delaney, Damien": {
+    "pos": "CB",
+    "Code": "232",
+    "Name": "Delaney, Damien",
+    "Club": "CRY"
+  },
+  "Delfouneso, Nathan": {
+    "pos": "FWD",
+    "Code": "233",
+    "Name": "Delfouneso, Nathan",
+    "Club": "AVL"
+  },
+  "Delph, Fabian": {
+    "pos": "CM",
+    "Code": "234",
+    "Name": "Delph, Fabian",
+    "Club": "AVL"
+  },
+  "Dembele, Mousa": {
+    "pos": "CM",
+    "Code": "235",
+    "Name": "Dembele, Mousa",
+    "Club": "TOT"
+  },
+  "Demel, Guy": {
+    "pos": "FB",
+    "Code": "236",
+    "Name": "Demel, Guy",
+    "Club": "WHM"
+  },
+  "Demichelis, Martin": {
+    "pos": "CB",
+    "Code": "236.5",
+    "Name": "Demichelis, Martin",
+    "Club": "MCY"
+  },
+  "Dempsey, Clint": {
+    "pos": "WM",
+    "Code": "237",
+    "Name": "Dempsey, Clint",
+    "Club": "FUL"
+  },
+  "Deulofeu, Gerard": {
+    "pos": "WM",
+    "Code": "238",
+    "Name": "Deulofeu, Gerard",
+    "Club": "EVE"
+  },
+  "Diaby, Abou": {
+    "pos": "CM",
+    "Code": "239",
+    "Name": "Diaby, Abou",
+    "Club": "ARS"
+  },
+  "Diakite, Modibo": {
+    "pos": "CB",
+    "Code": "240",
+    "Name": "Diakite, Modibo",
+    "Club": "SUN"
+  },
+  "Diame, Mohamed": {
+    "pos": "CM",
+    "Code": "241",
+    "Name": "Diame, Mohamed",
+    "Club": "WHM"
+  },
+  "Diarra, Alou": {
+    "pos": "CM",
+    "Code": "242",
+    "Name": "Diarra, Alou",
+    "Club": "WHM"
+  },
+  "Diarra, Mahamadou": {
+    "pos": "CM",
+    "Code": "242.1",
+    "Name": "Diarra, Mahamadou",
+    "Club": "FUL"
+  },
+  "Dikgacoi, Kagisho": {
+    "pos": "CM",
+    "Code": "243",
+    "Name": "Dikgacoi, Kagisho",
+    "Club": "CRY"
+  },
+  "Distin, Sylvain": {
+    "pos": "CB",
+    "Code": "244",
+    "Name": "Distin, Sylvain",
+    "Club": "EVE"
+  },
+  "Do Prado, Guly": {
+    "pos": "FWD",
+    "Code": "245",
+    "Name": "Do Prado, Guly",
+    "Club": "SOT"
+  },
+  "Dobbie, Stephen": {
+    "pos": "FWD",
+    "Code": "246",
+    "Name": "Dobbie, Stephen",
+    "Club": "CRY"
+  },
+  "Dong-Won, Ji": {
+    "pos": "FWD",
+    "Code": "246.5",
+    "Name": "Dong-Won, Ji",
+    "Club": "SUN"
+  },
+  "Dorrans, Graham": {
+    "pos": "WM",
+    "Code": "247",
+    "Name": "Dorrans, Graham",
+    "Club": "WBA"
+  },
+  "Dossena, Andrea": {
+    "pos": "FB",
+    "Code": "247.5",
+    "Name": "Dossena, Andrea",
+    "Club": "SUN"
+  },
+  "Downing, Stewart": {
+    "pos": "WM",
+    "Code": "248",
+    "Name": "Downing, Stewart",
+    "Club": "WHM"
+  },
+  "Dudgeon, Joe": {
+    "pos": "FB",
+    "Code": "249",
+    "Name": "Dudgeon, Joe",
+    "Club": "HUL"
+  },
+  "Duff, Damien": {
+    "pos": "WM",
+    "Code": "250",
+    "Name": "Duff, Damien",
+    "Club": "FUL"
+  },
+  "Duffy, Shane": {
+    "pos": "CB",
+    "Code": "251",
+    "Name": "Duffy, Shane",
+    "Club": "EVE"
+  },
+  "Dummett, Paul": {
+    "pos": "CB",
+    "Code": "251.5",
+    "Name": "Dummett, Paul",
+    "Club": "NEW"
+  },
+  "Dyer, Nathan": {
+    "pos": "WM",
+    "Code": "252",
+    "Name": "Dyer, Nathan",
+    "Club": "SWA"
+  },
+  "Dzeko, Edin": {
+    "pos": "FWD",
+    "Code": "253",
+    "Name": "Dzeko, Edin",
+    "Club": "MCY"
+  },
+  "Eikrem, Magnus": {
+    "pos": "CM",
+    "Code": "253.5",
+    "Name": "Eikrem, Magnus",
+    "Club": "CAR"
+  },
+  "El Ahmadi, Karim": {
+    "pos": "WM",
+    "Code": "254",
+    "Name": "El Ahmadi, Karim",
+    "Club": "AVL"
+  },
+  "Elliot, Robert": {
+    "pos": "GK",
+    "Code": "255",
+    "Name": "Elliot, Robert",
+    "Club": "NEW"
+  },
+  "Elmander, Johan": {
+    "pos": "FWD",
+    "Code": "255.5",
+    "Name": "Elmander, Johan",
+    "Club": "NOR"
+  },
+  "Elmohamady, Ahmed": {
+    "pos": "WM",
+    "Code": "256",
+    "Name": "Elmohamady, Ahmed",
+    "Club": "HUL"
+  },
+  "Emnes, Marvin": {
+    "pos": "FWD",
+    "Code": "256.1",
+    "Name": "Emnes, Marvin",
+    "Club": "SWA"
+  },
+  "Enrique, Jose": {
+    "pos": "FB",
+    "Code": "257",
+    "Name": "Enrique, Jose",
+    "Club": "LIV"
+  },
+  "Eriksen, Christian": {
+    "pos": "CM",
+    "Code": "257.5",
+    "Name": "Eriksen, Christian",
+    "Club": "TOT"
+  },
+  "Essien, Michael": {
+    "pos": "CM",
+    "Code": "258",
+    "Name": "Essien, Michael",
+    "Club": "CHE"
+  },
+  "Etherington, Matthew": {
+    "pos": "WM",
+    "Code": "259",
+    "Name": "Etherington, Matthew",
+    "Club": "STO"
+  },
+  "Eto'o, Samuel": {
+    "pos": "FWD",
+    "Code": "259.5",
+    "Name": "Eto'o, Samuel",
+    "Club": "CHE"
+  },
+  "Evans, Corry": {
+    "pos": "CM",
+    "Code": "260",
+    "Name": "Evans, Corry",
+    "Club": "HUL"
+  },
+  "Evans, Jonny": {
+    "pos": "CB",
+    "Code": "261",
+    "Name": "Evans, Jonny",
+    "Club": "MUN"
+  },
+  "Evra, Patrice": {
+    "pos": "FB",
+    "Code": "262",
+    "Name": "Evra, Patrice",
+    "Club": "MUN"
+  },
+  "Fabio": {
+    "pos": "FB",
+    "Code": "263",
+    "Name": "Fabio",
+    "Club": "CAR"
+  },
+  "Faye, Abdoulaye": {
+    "pos": "CB",
+    "Code": "264",
+    "Name": "Faye, Abdoulaye",
+    "Club": "HUL"
+  },
+  "Fellaini, Marouane": {
+    "pos": "CM",
+    "Code": "265",
+    "Name": "Fellaini, Marouane",
+    "Club": "MUN"
+  },
+  "Fer, Leroy": {
+    "pos": "CM",
+    "Code": "266",
+    "Name": "Fer, Leroy",
+    "Club": "NOR"
+  },
+  "Ferdinand, Rio": {
+    "pos": "CB",
+    "Code": "267",
+    "Name": "Ferdinand, Rio",
+    "Club": "MUN"
+  },
+  "Ferguson, Shane": {
+    "pos": "WM",
+    "Code": "268",
+    "Name": "Ferguson, Shane",
+    "Club": "NEW"
+  },
+  "Fernandinho": {
+    "pos": "CM",
+    "Code": "269",
+    "Name": "Fernandinho",
+    "Club": "MCY"
+  },
+  "Figueroa, Maynor": {
+    "pos": "FB",
+    "Code": "270",
+    "Name": "Figueroa, Maynor",
+    "Club": "HUL"
+  },
+  "Flamini, Mathieu": {
+    "pos": "CM",
+    "Code": "270.6",
+    "Name": "Flamini, Mathieu",
+    "Club": "ARS"
+  },
+  "Flanagan, Jon": {
+    "pos": "FB",
+    "Code": "270.7",
+    "Name": "Flanagan, Jon",
+    "Club": "LIV"
+  },
+  "Fletcher, Darren": {
+    "pos": "CM",
+    "Code": "271",
+    "Name": "Fletcher, Darren",
+    "Club": "MUN"
+  },
+  "Fletcher, Steven": {
+    "pos": "FWD",
+    "Code": "272",
+    "Name": "Fletcher, Steven",
+    "Club": "SUN"
+  },
+  "Fonte, Jose": {
+    "pos": "CB",
+    "Code": "273",
+    "Name": "Fonte, Jose",
+    "Club": "SOT"
+  },
+  "Forren, Vegard": {
+    "pos": "CB",
+    "Code": "274",
+    "Name": "Forren, Vegard",
+    "Club": "SOT"
+  },
+  "Foster, Ben": {
+    "pos": "GK",
+    "Code": "275",
+    "Name": "Foster, Ben",
+    "Club": "WBA"
+  },
+  "Fox, Danny": {
+    "pos": "FB",
+    "Code": "276",
+    "Name": "Fox, Danny",
+    "Club": "SOT"
+  },
+  "Fox, David": {
+    "pos": "CM",
+    "Code": "277",
+    "Name": "Fox, David",
+    "Club": "NOR"
+  },
+  "Frei, Kerim": {
+    "pos": "WM",
+    "Code": "278",
+    "Name": "Frei, Kerim",
+    "Club": "FUL"
+  },
+  "Friedel, Brad": {
+    "pos": "GK",
+    "Code": "279",
+    "Name": "Friedel, Brad",
+    "Club": "TOT"
+  },
+  "Frimpong, Emmanuel": {
+    "pos": "CM",
+    "Code": "280",
+    "Name": "Frimpong, Emmanuel",
+    "Club": "ARS"
+  },
+  "Fryatt, Matty": {
+    "pos": "FWD",
+    "Code": "281",
+    "Name": "Fryatt, Matty",
+    "Club": "HUL"
+  },
+  "Fryers, Zeki": {
+    "pos": "FB",
+    "Code": "281.5",
+    "Name": "Fryers, Zeki",
+    "Club": "TOT"
+  },
+  "Gabbidon, Danny": {
+    "pos": "CB",
+    "Code": "282",
+    "Name": "Gabbidon, Danny",
+    "Club": "CRY"
+  },
+  "Gallagher, Sam": {
+    "pos": "CM",
+    "Code": "282.5",
+    "Name": "Gallagher, Sam",
+    "Club": "SOT"
+  },
+  "Garcia, Javi": {
+    "pos": "CM",
+    "Code": "283",
+    "Name": "Garcia, Javi",
+    "Club": "MCY"
+  },
+  "Gardner, Craig": {
+    "pos": "CM",
+    "Code": "284",
+    "Name": "Gardner, Craig",
+    "Club": "SUN"
+  },
+  "Gardner, Gary": {
+    "pos": "CM",
+    "Code": "285",
+    "Name": "Gardner, Gary",
+    "Club": "AVL"
+  },
+  "Garrido, Javier": {
+    "pos": "FB",
+    "Code": "286",
+    "Name": "Garrido, Javier",
+    "Club": "NOR"
+  },
+  "Garvan, Owen": {
+    "pos": "CM",
+    "Code": "287",
+    "Name": "Garvan, Owen",
+    "Club": "CRY"
+  },
+  "Gayle, Dwight": {
+    "pos": "FWD",
+    "Code": "288",
+    "Name": "Gayle, Dwight",
+    "Club": "CRY"
+  },
+  "Gazzaniga, Paulo": {
+    "pos": "GK",
+    "Code": "288.1",
+    "Name": "Gazzaniga, Paulo",
+    "Club": "SOT"
+  },
+  "Gedo": {
+    "pos": "FWD",
+    "Code": "288.5",
+    "Name": "Gedo",
+    "Club": "HUL"
+  },
+  "Gera, Zoltan": {
+    "pos": "CM",
+    "Code": "288.6",
+    "Name": "Gera, Zoltan",
+    "Club": "WBA"
+  },
+  "Gerrard, Steven": {
+    "pos": "CM",
+    "Code": "289",
+    "Name": "Gerrard, Steven",
+    "Club": "LIV"
+  },
+  "Gervinho": {
+    "pos": "FWD",
+    "Code": "290",
+    "Name": "Gervinho",
+    "Club": "ARS"
+  },
+  "Gestede, Rudy": {
+    "pos": "FWD",
+    "Code": "291",
+    "Name": "Gestede, Rudy",
+    "Club": "CAR"
+  },
+  "Giaccherini, Emanuele": {
+    "pos": "CM",
+    "Code": "292",
+    "Name": "Giaccherini, Emanuele",
+    "Club": "SUN"
+  },
+  "Gibbs, Kieron": {
+    "pos": "FB",
+    "Code": "293",
+    "Name": "Gibbs, Kieron",
+    "Club": "ARS"
+  },
+  "Gibson, Darron": {
+    "pos": "CM",
+    "Code": "294",
+    "Name": "Gibson, Darron",
+    "Club": "EVE"
+  },
+  "Giggs, Ryan": {
+    "pos": "CM",
+    "Code": "295",
+    "Name": "Giggs, Ryan",
+    "Club": "MUN"
+  },
+  "Giroud, Olivier": {
+    "pos": "FWD",
+    "Code": "296",
+    "Name": "Giroud, Olivier",
+    "Club": "ARS"
+  },
+  "Given, Shay": {
+    "pos": "GK",
+    "Code": "297",
+    "Name": "Given, Shay",
+    "Club": "AVL"
+  },
+  "Gnabry, Serge": {
+    "pos": "WM",
+    "Code": "298",
+    "Name": "Gnabry, Serge",
+    "Club": "ARS"
+  },
+  "Good, Curtis": {
+    "pos": "CB",
+    "Code": "299",
+    "Name": "Good, Curtis",
+    "Club": "NEW"
+  },
+  "Gosling, Dan": {
+    "pos": "CM",
+    "Code": "300",
+    "Name": "Gosling, Dan",
+    "Club": "NEW"
+  },
+  "Gouffran, Yoan": {
+    "pos": "FWD",
+    "Code": "301",
+    "Name": "Gouffran, Yoan",
+    "Club": "NEW"
+  },
+  "Graham, Danny": {
+    "pos": "FWD",
+    "Code": "302",
+    "Name": "Graham, Danny",
+    "Club": "HUL"
+  },
+  "Grandin, Elliot": {
+    "pos": "WM",
+    "Code": "302.5",
+    "Name": "Grandin, Elliot",
+    "Club": "CRY"
+  },
+  "Grygera, Zdenek": {
+    "pos": "FB",
+    "Code": "303",
+    "Name": "Grygera, Zdenek",
+    "Club": "FUL"
+  },
+  "Guedioura, Adlene": {
+    "pos": "CM",
+    "Code": "303.5",
+    "Name": "Guedioura, Adlene",
+    "Club": "CRY"
+  },
+  "Guidetti, John": {
+    "pos": "FWD",
+    "Code": "303.6",
+    "Name": "Guidetti, John",
+    "Club": "STO"
+  },
+  "Gunnarsson, Aron": {
+    "pos": "CM",
+    "Code": "304",
+    "Name": "Gunnarsson, Aron",
+    "Club": "CAR"
+  },
+  "Gutierrez, Jonas": {
+    "pos": "WM",
+    "Code": "305",
+    "Name": "Gutierrez, Jonas",
+    "Club": "NEW"
+  },
+  "Guzan, Brad": {
+    "pos": "GK",
+    "Code": "306",
+    "Name": "Guzan, Brad",
+    "Club": "AVL"
+  },
+  "Haidara, Massadio": {
+    "pos": "FB",
+    "Code": "307",
+    "Name": "Haidara, Massadio",
+    "Club": "NEW"
+  },
+  "Hangeland, Brede": {
+    "pos": "CB",
+    "Code": "308",
+    "Name": "Hangeland, Brede",
+    "Club": "FUL"
+  },
+  "Harper, Steve": {
+    "pos": "GK",
+    "Code": "308.5",
+    "Name": "Harper, Steve",
+    "Club": "HUL"
+  },
+  "Harris, Kadeem": {
+    "pos": "WM",
+    "Code": "309",
+    "Name": "Harris, Kadeem",
+    "Club": "CAR"
+  },
+  "Hart, Joe": {
+    "pos": "GK",
+    "Code": "310",
+    "Name": "Hart, Joe",
+    "Club": "MCY"
+  },
+  "Hazard, Eden": {
+    "pos": "WM",
+    "Code": "311",
+    "Name": "Hazard, Eden",
+    "Club": "CHE"
+  },
+  "Heitinga, Johnny": {
+    "pos": "CB",
+    "Code": "312",
+    "Name": "Heitinga, Johnny",
+    "Club": "EVE"
+  },
+  "Helenius, Nicklas": {
+    "pos": "FWD",
+    "Code": "313",
+    "Name": "Helenius, Nicklas",
+    "Club": "AVL"
+  },
+  "Henderson, Jordan": {
+    "pos": "WM",
+    "Code": "314",
+    "Name": "Henderson, Jordan",
+    "Club": "LIV"
+  },
+  "Hennessey, Wayne": {
+    "pos": "GK",
+    "Code": "314.1",
+    "Name": "Hennessey, Wayne",
+    "Club": "CRY"
+  },
+  "Henriquez, Angelo": {
+    "pos": "FWD",
+    "Code": "315",
+    "Name": "Henriquez, Angelo",
+    "Club": "MUN"
+  },
+  "Herd, Chris": {
+    "pos": "FB",
+    "Code": "316",
+    "Name": "Herd, Chris",
+    "Club": "AVL"
+  },
+  "Hernandez, Javier": {
+    "pos": "FWD",
+    "Code": "317",
+    "Name": "Hernandez, Javier",
+    "Club": "MUN"
+  },
+  "Hernandez, Pablo": {
+    "pos": "WM",
+    "Code": "318",
+    "Name": "Hernandez, Pablo",
+    "Club": "SWA"
+  },
+  "Hibbert, Tony": {
+    "pos": "FB",
+    "Code": "319",
+    "Name": "Hibbert, Tony",
+    "Club": "EVE"
+  },
+  "Hobbs, Jack": {
+    "pos": "CB",
+    "Code": "320",
+    "Name": "Hobbs, Jack",
+    "Club": "HUL"
+  },
+  "Holt, Grant": {
+    "pos": "FWD",
+    "Code": "321",
+    "Name": "Holt, Grant",
+    "Club": "AVL"
+  },
+  "Holtby, Lewis": {
+    "pos": "CM",
+    "Code": "322",
+    "Name": "Holtby, Lewis",
+    "Club": "FUL"
+  },
+  "Hooiveld, Jos": {
+    "pos": "CB",
+    "Code": "323",
+    "Name": "Hooiveld, Jos",
+    "Club": "SOT"
+  },
+  "Hoolahan, Wesley": {
+    "pos": "CM",
+    "Code": "324",
+    "Name": "Hoolahan, Wesley",
+    "Club": "NOR"
+  },
+  "Hooper, Gary": {
+    "pos": "FWD",
+    "Code": "325",
+    "Name": "Hooper, Gary",
+    "Club": "NOR"
+  },
+  "Howard, Tim": {
+    "pos": "GK",
+    "Code": "326",
+    "Name": "Howard, Tim",
+    "Club": "EVE"
+  },
+  "Howson, Jonny": {
+    "pos": "CM",
+    "Code": "327",
+    "Name": "Howson, Jonny",
+    "Club": "NOR"
+  },
+  "Huddlestone, Tom": {
+    "pos": "CM",
+    "Code": "328",
+    "Name": "Huddlestone, Tom",
+    "Club": "HUL"
+  },
+  "Hudson, Mark": {
+    "pos": "CB",
+    "Code": "329",
+    "Name": "Hudson, Mark",
+    "Club": "CAR"
+  },
+  "Hughes, Aaron": {
+    "pos": "CB",
+    "Code": "330",
+    "Name": "Hughes, Aaron",
+    "Club": "FUL"
+  },
+  "Hunt, Jack": {
+    "pos": "CB",
+    "Code": "330.5",
+    "Name": "Hunt, Jack",
+    "Club": "CRY"
+  },
+  "Huth, Robert": {
+    "pos": "CB",
+    "Code": "331",
+    "Name": "Huth, Robert",
+    "Club": "STO"
+  },
+  "Hutton, Alan": {
+    "pos": "FB",
+    "Code": "332",
+    "Name": "Hutton, Alan",
+    "Club": "AVL"
+  },
+  "Ibe, Jordon": {
+    "pos": "WM",
+    "Code": "333",
+    "Name": "Ibe, Jordon",
+    "Club": "LIV"
+  },
+  "Ilori, Tiago": {
+    "pos": "CB",
+    "Code": "333.5",
+    "Name": "Ilori, Tiago",
+    "Club": "LIV"
+  },
+  "Ince, Tom": {
+    "pos": "WM",
+    "Code": "333.6",
+    "Name": "Ince, Tom",
+    "Club": "CRY"
+  },
+  "Ireland, Stephen": {
+    "pos": "CM",
+    "Code": "334",
+    "Name": "Ireland, Stephen",
+    "Club": "STO"
+  },
+  "Isgrove, Lloyd": {
+    "pos": "WM",
+    "Code": "335",
+    "Name": "Isgrove, Lloyd",
+    "Club": "SOT"
+  },
+  "Ivanovic, Branislav": {
+    "pos": "FB",
+    "Code": "336",
+    "Name": "Ivanovic, Branislav",
+    "Club": "CHE"
+  },
+  "Jaaskelainen, Jussi": {
+    "pos": "GK",
+    "Code": "337",
+    "Name": "Jaaskelainen, Jussi",
+    "Club": "WHM"
+  },
+  "Jagielka, Phil": {
+    "pos": "CB",
+    "Code": "338",
+    "Name": "Jagielka, Phil",
+    "Club": "EVE"
+  },
+  "Jakupovic, Eldin": {
+    "pos": "GK",
+    "Code": "339",
+    "Name": "Jakupovic, Eldin",
+    "Club": "HUL"
+  },
+  "Januzaj, Adnan": {
+    "pos": "FWD",
+    "Code": "339.5",
+    "Name": "Januzaj, Adnan",
+    "Club": "MUN"
+  },
+  "Jarvis, Matt": {
+    "pos": "WM",
+    "Code": "340",
+    "Name": "Jarvis, Matt",
+    "Club": "WHM"
+  },
+  "Jedinak, Mile": {
+    "pos": "CM",
+    "Code": "341",
+    "Name": "Jedinak, Mile",
+    "Club": "CRY"
+  },
+  "Jelavic, Nikica": {
+    "pos": "FWD",
+    "Code": "342",
+    "Name": "Jelavic, Nikica",
+    "Club": "HUL"
+  },
+  "Jenkinson, Carl": {
+    "pos": "FB",
+    "Code": "343",
+    "Name": "Jenkinson, Carl",
+    "Club": "ARS"
+  },
+  "Jerome, Cameron": {
+    "pos": "FWD",
+    "Code": "344",
+    "Name": "Jerome, Cameron",
+    "Club": "STO"
+  },
+  "John, Declan": {
+    "pos": "CB",
+    "Code": "344.5",
+    "Name": "John, Declan",
+    "Club": "CAR"
+  },
+  "Johnson, Adam": {
+    "pos": "WM",
+    "Code": "345",
+    "Name": "Johnson, Adam",
+    "Club": "SUN"
+  },
+  "Johnson, Bradley": {
+    "pos": "CM",
+    "Code": "346",
+    "Name": "Johnson, Bradley",
+    "Club": "NOR"
+  },
+  "Johnson, Glen": {
+    "pos": "FB",
+    "Code": "347",
+    "Name": "Johnson, Glen",
+    "Club": "LIV"
+  },
+  "Johnson, Roger": {
+    "pos": "CB",
+    "Code": "347.5",
+    "Name": "Johnson, Roger",
+    "Club": "WHM"
+  },
+  "Jones, Billy": {
+    "pos": "FB",
+    "Code": "348",
+    "Name": "Jones, Billy",
+    "Club": "WBA"
+  },
+  "Jones, Brad": {
+    "pos": "GK",
+    "Code": "349",
+    "Name": "Jones, Brad",
+    "Club": "LIV"
+  },
+  "Jones, Kenwyne": {
+    "pos": "FWD",
+    "Code": "350",
+    "Name": "Jones, Kenwyne",
+    "Club": "CAR"
+  },
+  "Jones, Phil": {
+    "pos": "CB",
+    "Code": "351",
+    "Name": "Jones, Phil",
+    "Club": "MUN"
+  },
+  "Jovetic, Stevan": {
+    "pos": "FWD",
+    "Code": "352",
+    "Name": "Jovetic, Stevan",
+    "Club": "MCY"
+  },
+  "Kaboul, Younes": {
+    "pos": "CB",
+    "Code": "353",
+    "Name": "Kaboul, Younes",
+    "Club": "TOT"
+  },
+  "Kacaniklic, Alex": {
+    "pos": "WM",
+    "Code": "354",
+    "Name": "Kacaniklic, Alex",
+    "Club": "FUL"
+  },
+  "Kagawa, Shinji": {
+    "pos": "CM",
+    "Code": "355",
+    "Name": "Kagawa, Shinji",
+    "Club": "MUN"
+  },
+  "Kallstrom, Kim": {
+    "pos": "CM",
+    "Code": "355.1",
+    "Name": "Kallstrom, Kim",
+    "Club": "ARS"
+  },
+  "Kane, Harry": {
+    "pos": "FWD",
+    "Code": "356",
+    "Name": "Kane, Harry",
+    "Club": "TOT"
+  },
+  "Karagounis, Giorgos": {
+    "pos": "CM",
+    "Code": "356.5",
+    "Name": "Karagounis, Giorgos",
+    "Club": "FUL"
+  },
+  "Kasami, Pajtim": {
+    "pos": "CM",
+    "Code": "357",
+    "Name": "Kasami, Pajtim",
+    "Club": "FUL"
+  },
+  "Kebe, Jimmy": {
+    "pos": "WM",
+    "Code": "357.5",
+    "Name": "Kebe, Jimmy",
+    "Club": "CRY"
+  },
+  "Kelly, Martin": {
+    "pos": "FB",
+    "Code": "358",
+    "Name": "Kelly, Martin",
+    "Club": "LIV"
+  },
+  "Kennedy, Matthew": {
+    "pos": "WM",
+    "Code": "359",
+    "Name": "Kennedy, Matthew",
+    "Club": "EVE"
+  },
+  "Kightly, Michael": {
+    "pos": "WM",
+    "Code": "360",
+    "Name": "Kightly, Michael",
+    "Club": "STO"
+  },
+  "Kolarov, Aleksandar": {
+    "pos": "FB",
+    "Code": "361",
+    "Name": "Kolarov, Aleksandar",
+    "Club": "MCY"
+  },
+  "Kompany, Vincent": {
+    "pos": "CB",
+    "Code": "362",
+    "Name": "Kompany, Vincent",
+    "Club": "MCY"
+  },
+  "Kone, Arouna": {
+    "pos": "FWD",
+    "Code": "363",
+    "Name": "Kone, Arouna",
+    "Club": "EVE"
+  },
+  "Koren, Robert": {
+    "pos": "CM",
+    "Code": "364",
+    "Name": "Koren, Robert",
+    "Club": "HUL"
+  },
+  "Koscielny, Laurent": {
+    "pos": "CB",
+    "Code": "365",
+    "Name": "Koscielny, Laurent",
+    "Club": "ARS"
+  },
+  "Kozak, Libor": {
+    "pos": "FWD",
+    "Code": "365.5",
+    "Name": "Kozak, Libor",
+    "Club": "AVL"
+  },
+  "Krul, Tim": {
+    "pos": "GK",
+    "Code": "366",
+    "Name": "Krul, Tim",
+    "Club": "NEW"
+  },
+  "Kvist, William": {
+    "pos": "CM",
+    "Code": "366.1",
+    "Name": "Kvist, William",
+    "Club": "FUL"
+  },
+  "Lallana, Adam": {
+    "pos": "WM",
+    "Code": "367",
+    "Name": "Lallana, Adam",
+    "Club": "SOT"
+  },
+  "Lamah, Roland": {
+    "pos": "WM",
+    "Code": "368",
+    "Name": "Lamah, Roland",
+    "Club": "SWA"
+  },
+  "Lambert, Rickie": {
+    "pos": "FWD",
+    "Code": "369",
+    "Name": "Lambert, Rickie",
+    "Club": "SOT"
+  },
+  "Lamela, Erik": {
+    "pos": "WM",
+    "Code": "369.5",
+    "Name": "Lamela, Erik",
+    "Club": "TOT"
+  },
+  "Lampard, Frank": {
+    "pos": "CM",
+    "Code": "370",
+    "Name": "Lampard, Frank",
+    "Club": "CHE"
+  },
+  "Larsson, Sebastian": {
+    "pos": "CM",
+    "Code": "371",
+    "Name": "Larsson, Sebastian",
+    "Club": "SUN"
+  },
+  "Ledley, Joe": {
+    "pos": "CM",
+    "Code": "371.1",
+    "Name": "Ledley, Joe",
+    "Club": "CRY"
+  },
+  "Lee, Elliot": {
+    "pos": "FWD",
+    "Code": "371.5",
+    "Name": "Lee, Elliot",
+    "Club": "WHM"
+  },
+  "Lee, Tadanari": {
+    "pos": "FWD",
+    "Code": "372",
+    "Name": "Lee, Tadanari",
+    "Club": "SOT"
+  },
+  "Leiva, Lucas": {
+    "pos": "CM",
+    "Code": "373",
+    "Name": "Leiva, Lucas",
+    "Club": "LIV"
+  },
+  "Lennon, Aaron": {
+    "pos": "WM",
+    "Code": "374",
+    "Name": "Lennon, Aaron",
+    "Club": "TOT"
+  },
+  "Lescott, Joleon": {
+    "pos": "CB",
+    "Code": "375",
+    "Name": "Lescott, Joleon",
+    "Club": "MCY"
+  },
+  "Lewis, Joe": {
+    "pos": "GK",
+    "Code": "376",
+    "Name": "Lewis, Joe",
+    "Club": "CAR"
+  },
+  "Lindegaard, Anders": {
+    "pos": "GK",
+    "Code": "377",
+    "Name": "Lindegaard, Anders",
+    "Club": "MUN"
+  },
+  "Lingard, Jesse": {
+    "pos": "CM",
+    "Code": "377.1",
+    "Name": "Lingard, Jesse",
+    "Club": "MUN"
+  },
+  "Livermore, Jake": {
+    "pos": "CM",
+    "Code": "378",
+    "Name": "Livermore, Jake",
+    "Club": "TOT"
+  },
+  "Lloris, Hugo": {
+    "pos": "GK",
+    "Code": "379",
+    "Name": "Lloris, Hugo",
+    "Club": "TOT"
+  },
+  "Long, Shane": {
+    "pos": "FWD",
+    "Code": "380",
+    "Name": "Long, Shane",
+    "Club": "HUL"
+  },
+  "Lopes, Marcos": {
+    "pos": "CM",
+    "Code": "380.1",
+    "Name": "Lopes, Marcos",
+    "Club": "MCY"
+  },
+  "Lovren, Dejan": {
+    "pos": "CB",
+    "Code": "381",
+    "Name": "Lovren, Dejan",
+    "Club": "SOT"
+  },
+  "Lowton, Matt": {
+    "pos": "FB",
+    "Code": "382",
+    "Name": "Lowton, Matt",
+    "Club": "AVL"
+  },
+  "Lugano, Diego": {
+    "pos": "CB",
+    "Code": "383",
+    "Name": "Lugano, Diego",
+    "Club": "WBA"
+  },
+  "Luiz, David": {
+    "pos": "CB",
+    "Code": "384",
+    "Name": "Luiz, David",
+    "Club": "CHE"
+  },
+  "Lukaku, Romelu": {
+    "pos": "FWD",
+    "Code": "385",
+    "Name": "Lukaku, Romelu",
+    "Club": "EVE"
+  },
+  "Luna, Antonio": {
+    "pos": "FB",
+    "Code": "386",
+    "Name": "Luna, Antonio",
+    "Club": "AVL"
+  },
+  "M'rg Karlsson, David": {
+    "pos": "FWD",
+    "Code": "387",
+    "Name": "M'rg Karlsson, David",
+    "Club": "SUN"
+  },
+  "Maicon": {
+    "pos": "FB",
+    "Code": "388",
+    "Name": "Maicon",
+    "Club": "MCY"
+  },
+  "Maiga, Modibo": {
+    "pos": "FWD",
+    "Code": "389",
+    "Name": "Maiga, Modibo",
+    "Club": "WHM"
+  },
+  "Mannone, Vito": {
+    "pos": "GK",
+    "Code": "390",
+    "Name": "Mannone, Vito",
+    "Club": "SUN"
+  },
+  "Mariappa, Adrian": {
+    "pos": "CB",
+    "Code": "390.1",
+    "Name": "Mariappa, Adrian",
+    "Club": "CRY"
+  },
+  "Marin, Marko": {
+    "pos": "WM",
+    "Code": "391",
+    "Name": "Marin, Marko",
+    "Club": "CHE"
+  },
+  "Marshall, David": {
+    "pos": "GK",
+    "Code": "392",
+    "Name": "Marshall, David",
+    "Club": "CAR"
+  },
+  "Martin, Russell": {
+    "pos": "FB",
+    "Code": "393",
+    "Name": "Martin, Russell",
+    "Club": "NOR"
+  },
+  "Marveaux, Sylvain": {
+    "pos": "WM",
+    "Code": "394",
+    "Name": "Marveaux, Sylvain",
+    "Club": "NEW"
+  },
+  "Mason, Joe": {
+    "pos": "FWD",
+    "Code": "395",
+    "Name": "Mason, Joe",
+    "Club": "CAR"
+  },
+  "Mata, Juan": {
+    "pos": "WM",
+    "Code": "396",
+    "Name": "Mata, Juan",
+    "Club": "MUN"
+  },
+  "Matic, Nemanja": {
+    "pos": "CM",
+    "Code": "396.1",
+    "Name": "Matic, Nemanja",
+    "Club": "CHE"
+  },
+  "Mavrias, Charis": {
+    "pos": "WM",
+    "Code": "396.5",
+    "Name": "Mavrias, Charis",
+    "Club": "SUN"
+  },
+  "Maynard, Nicky": {
+    "pos": "FWD",
+    "Code": "397",
+    "Name": "Maynard, Nicky",
+    "Club": "CAR"
+  },
+  "Mayuka, Emmanuel": {
+    "pos": "FWD",
+    "Code": "398",
+    "Name": "Mayuka, Emmanuel",
+    "Club": "SOT"
+  },
+  "McAuley, Gareth": {
+    "pos": "CB",
+    "Code": "399",
+    "Name": "McAuley, Gareth",
+    "Club": "WBA"
+  },
+  "McCarthy, James": {
+    "pos": "CM",
+    "Code": "399.5",
+    "Name": "McCarthy, James",
+    "Club": "EVE"
+  },
+  "McCarthy, Paddy": {
+    "pos": "CB",
+    "Code": "400",
+    "Name": "McCarthy, Paddy",
+    "Club": "CRY"
+  },
+  "McCartney, George": {
+    "pos": "FB",
+    "Code": "401",
+    "Name": "McCartney, George",
+    "Club": "WHM"
+  },
+  "McClean, James": {
+    "pos": "WM",
+    "Code": "402",
+    "Name": "McClean, James",
+    "Club": "SUN"
+  },
+  "McGeady, Aiden": {
+    "pos": "WM",
+    "Code": "402.5",
+    "Name": "McGeady, Aiden",
+    "Club": "EVE"
+  },
+  "McGregor, Allan": {
+    "pos": "GK",
+    "Code": "403",
+    "Name": "McGregor, Allan",
+    "Club": "HUL"
+  },
+  "McLean, Aaron": {
+    "pos": "FWD",
+    "Code": "404",
+    "Name": "McLean, Aaron",
+    "Club": "HUL"
+  },
+  "McNaughton, Kevin": {
+    "pos": "FB",
+    "Code": "405",
+    "Name": "McNaughton, Kevin",
+    "Club": "CAR"
+  },
+  "McShane, Paul": {
+    "pos": "CB",
+    "Code": "406",
+    "Name": "McShane, Paul",
+    "Club": "HUL"
+  },
+  "Medel, Gary": {
+    "pos": "CM",
+    "Code": "406.5",
+    "Name": "Medel, Gary",
+    "Club": "CAR"
+  },
+  "Mertesacker, Per": {
+    "pos": "CB",
+    "Code": "407",
+    "Name": "Mertesacker, Per",
+    "Club": "ARS"
+  },
+  "Meyler, David": {
+    "pos": "CM",
+    "Code": "408",
+    "Name": "Meyler, David",
+    "Club": "HUL"
+  },
+  "Michu": {
+    "pos": "CM",
+    "Code": "409",
+    "Name": "Michu",
+    "Club": "SWA"
+  },
+  "Mignolet, Simon": {
+    "pos": "GK",
+    "Code": "410",
+    "Name": "Mignolet, Simon",
+    "Club": "LIV"
+  },
+  "Mikel, Jon-Obi": {
+    "pos": "CM",
+    "Code": "411",
+    "Name": "Mikel, Jon-Obi",
+    "Club": "CHE"
+  },
+  "Milner, James": {
+    "pos": "WM",
+    "Code": "412",
+    "Name": "Milner, James",
+    "Club": "MCY"
+  },
+  "Miquel, Ignasi": {
+    "pos": "CB",
+    "Code": "413",
+    "Name": "Miquel, Ignasi",
+    "Club": "ARS"
+  },
+  "Mirallas, Kevin": {
+    "pos": "WM",
+    "Code": "414",
+    "Name": "Mirallas, Kevin",
+    "Club": "EVE"
+  },
+  "Mitroglou, Kostas": {
+    "pos": "FWD",
+    "Code": "414.1",
+    "Name": "Mitroglou, Kostas",
+    "Club": "FUL"
+  },
+  "Miyaichi, Ryo": {
+    "pos": "WM",
+    "Code": "415",
+    "Name": "Miyaichi, Ryo",
+    "Club": "ARS"
+  },
+  "Monk, Garry": {
+    "pos": "CB",
+    "Code": "416",
+    "Name": "Monk, Garry",
+    "Club": "SWA"
+  },
+  "Monreal, Nacho": {
+    "pos": "FB",
+    "Code": "417",
+    "Name": "Monreal, Nacho",
+    "Club": "ARS"
+  },
+  "Moore, Luke": {
+    "pos": "FWD",
+    "Code": "418",
+    "Name": "Moore, Luke",
+    "Club": "SWA"
+  },
+  "Moritz, Andre": {
+    "pos": "CM",
+    "Code": "419",
+    "Name": "Moritz, Andre",
+    "Club": "CRY"
+  },
+  "Morrison, James": {
+    "pos": "CM",
+    "Code": "420",
+    "Name": "Morrison, James",
+    "Club": "WBA"
+  },
+  "Morrison, Ravel": {
+    "pos": "WM",
+    "Code": "421",
+    "Name": "Morrison, Ravel",
+    "Club": "WHM"
+  },
+  "Moses, Victor": {
+    "pos": "WM",
+    "Code": "422",
+    "Name": "Moses, Victor",
+    "Club": "LIV"
+  },
+  "Moxey, Dean": {
+    "pos": "FB",
+    "Code": "423",
+    "Name": "Moxey, Dean",
+    "Club": "CRY"
+  },
+  "Mulumbu, Youssouf": {
+    "pos": "CM",
+    "Code": "424",
+    "Name": "Mulumbu, Youssouf",
+    "Club": "WBA"
+  },
+  "Muniesa, Marc": {
+    "pos": "CB",
+    "Code": "425",
+    "Name": "Muniesa, Marc",
+    "Club": "STO"
+  },
+  "Murphy, Josh": {
+    "pos": "FWD",
+    "Code": "425.1",
+    "Name": "Murphy, Josh",
+    "Club": "NOR"
+  },
+  "Murray, Glenn": {
+    "pos": "FWD",
+    "Code": "426",
+    "Name": "Murray, Glenn",
+    "Club": "CRY"
+  },
+  "Mutch, Jordon": {
+    "pos": "CM",
+    "Code": "427",
+    "Name": "Mutch, Jordon",
+    "Club": "CAR"
+  },
+  "Myhill, Boaz": {
+    "pos": "GK",
+    "Code": "428",
+    "Name": "Myhill, Boaz",
+    "Club": "WBA"
+  },
+  "N'Diaye, Alfred": {
+    "pos": "CM",
+    "Code": "429",
+    "Name": "N'Diaye, Alfred",
+    "Club": "SUN"
+  },
+  "N'Zogbia, Charles": {
+    "pos": "WM",
+    "Code": "430",
+    "Name": "N'Zogbia, Charles",
+    "Club": "AVL"
+  },
+  "Naismith, Steven": {
+    "pos": "FWD",
+    "Code": "431",
+    "Name": "Naismith, Steven",
+    "Club": "EVE"
+  },
+  "Nani": {
+    "pos": "WM",
+    "Code": "432",
+    "Name": "Nani",
+    "Club": "MUN"
+  },
+  "Nasri, Samir": {
+    "pos": "WM",
+    "Code": "433",
+    "Name": "Nasri, Samir",
+    "Club": "MCY"
+  },
+  "Nastasic, Matija": {
+    "pos": "CB",
+    "Code": "434",
+    "Name": "Nastasic, Matija",
+    "Club": "MCY"
+  },
+  "Naughton, Kyle": {
+    "pos": "FB",
+    "Code": "435",
+    "Name": "Naughton, Kyle",
+    "Club": "TOT"
+  },
+  "Navas, Jesus": {
+    "pos": "WM",
+    "Code": "436",
+    "Name": "Navas, Jesus",
+    "Club": "MCY"
+  },
+  "Negredo, Alvaro": {
+    "pos": "FWD",
+    "Code": "437",
+    "Name": "Negredo, Alvaro",
+    "Club": "MCY"
+  },
+  "Ness, Jamie": {
+    "pos": "CM",
+    "Code": "438",
+    "Name": "Ness, Jamie",
+    "Club": "STO"
+  },
+  "Ngog, David": {
+    "pos": "FWD",
+    "Code": "438.1",
+    "Name": "Ngog, David",
+    "Club": "SWA"
+  },
+  "Noble, Mark": {
+    "pos": "CM",
+    "Code": "439",
+    "Name": "Noble, Mark",
+    "Club": "WHM"
+  },
+  "Nocerino, Antonio": {
+    "pos": "CM",
+    "Code": "439.1",
+    "Name": "Nocerino, Antonio",
+    "Club": "WHM"
+  },
+  "Nolan, Kevin": {
+    "pos": "CM",
+    "Code": "440",
+    "Name": "Nolan, Kevin",
+    "Club": "WHM"
+  },
+  "Noone, Craig": {
+    "pos": "WM",
+    "Code": "441",
+    "Name": "Noone, Craig",
+    "Club": "CAR"
+  },
+  "Nugent, Ben": {
+    "pos": "CB",
+    "Code": "442",
+    "Name": "Nugent, Ben",
+    "Club": "CAR"
+  },
+  "Nzonzi, Steven": {
+    "pos": "CM",
+    "Code": "443",
+    "Name": "Nzonzi, Steven",
+    "Club": "STO"
+  },
+  "O'Brien, Joey": {
+    "pos": "FB",
+    "Code": "444",
+    "Name": "O'Brien, Joey",
+    "Club": "WHM"
+  },
+  "O'Keefe, Stuart": {
+    "pos": "CM",
+    "Code": "445",
+    "Name": "O'Keefe, Stuart",
+    "Club": "CRY"
+  },
+  "O'Neil, Gary": {
+    "pos": "CM",
+    "Code": "446",
+    "Name": "O'Neil, Gary",
+    "Club": "WHM"
+  },
+  "O'Shea, John": {
+    "pos": "CB",
+    "Code": "447",
+    "Name": "O'Shea, John",
+    "Club": "SUN"
+  },
+  "Obertan, Gabriel": {
+    "pos": "WM",
+    "Code": "448",
+    "Name": "Obertan, Gabriel",
+    "Club": "NEW"
+  },
+  "Odemwingie, Peter": {
+    "pos": "FWD",
+    "Code": "449",
+    "Name": "Odemwingie, Peter",
+    "Club": "STO"
+  },
+  "Okore, Jores": {
+    "pos": "CB",
+    "Code": "450",
+    "Name": "Okore, Jores",
+    "Club": "AVL"
+  },
+  "Olsson, Jonas": {
+    "pos": "CB",
+    "Code": "451",
+    "Name": "Olsson, Jonas",
+    "Club": "WBA"
+  },
+  "Olsson, Martin": {
+    "pos": "FB",
+    "Code": "452",
+    "Name": "Olsson, Martin",
+    "Club": "NOR"
+  },
+  "Oscar": {
+    "pos": "CM",
+    "Code": "453",
+    "Name": "Oscar",
+    "Club": "CHE"
+  },
+  "Osman, Leon": {
+    "pos": "CM",
+    "Code": "454",
+    "Name": "Osman, Leon",
+    "Club": "EVE"
+  },
+  "Osvaldo, Pablo": {
+    "pos": "FWD",
+    "Code": "454.5",
+    "Name": "Osvaldo, Pablo",
+    "Club": "SOT"
+  },
+  "Oviedo, Bryan": {
+    "pos": "WM",
+    "Code": "455",
+    "Name": "Oviedo, Bryan",
+    "Club": "EVE"
+  },
+  "Ox-Chamberlain, Alex": {
+    "pos": "WM",
+    "Code": "456",
+    "Name": "Ox-Chamberlain, Alex",
+    "Club": "ARS"
+  },
+  "Ozil, Mesut": {
+    "pos": "CM",
+    "Code": "456.5",
+    "Name": "Ozil, Mesut",
+    "Club": "ARS"
+  },
+  "Palacios, Wilson": {
+    "pos": "CM",
+    "Code": "457",
+    "Name": "Palacios, Wilson",
+    "Club": "STO"
+  },
+  "Pantilimon, Costel": {
+    "pos": "GK",
+    "Code": "458",
+    "Name": "Pantilimon, Costel",
+    "Club": "MCY"
+  },
+  "Parker, Scott": {
+    "pos": "CM",
+    "Code": "459",
+    "Name": "Parker, Scott",
+    "Club": "FUL"
+  },
+  "Parr, Jonathan": {
+    "pos": "FB",
+    "Code": "460",
+    "Name": "Parr, Jonathan",
+    "Club": "CRY"
+  },
+  "Paulinho": {
+    "pos": "CM",
+    "Code": "461",
+    "Name": "Paulinho",
+    "Club": "TOT"
+  },
+  "Pennant, Jermaine": {
+    "pos": "WM",
+    "Code": "462",
+    "Name": "Pennant, Jermaine",
+    "Club": "STO"
+  },
+  "Perch, James": {
+    "pos": "CM",
+    "Code": "463",
+    "Name": "Perch, James",
+    "Club": "NEW"
+  },
+  "Petric, Mladen": {
+    "pos": "FWD",
+    "Code": "463.5",
+    "Name": "Petric, Mladen",
+    "Club": "WHM"
+  },
+  "Phillips, Kevin": {
+    "pos": "FWD",
+    "Code": "464",
+    "Name": "Phillips, Kevin",
+    "Club": "CRY"
+  },
+  "Pienaar, Steven": {
+    "pos": "WM",
+    "Code": "465",
+    "Name": "Pienaar, Steven",
+    "Club": "EVE"
+  },
+  "Pieters, Erik": {
+    "pos": "FB",
+    "Code": "466",
+    "Name": "Pieters, Erik",
+    "Club": "STO"
+  },
+  "Pilkington, Anthony": {
+    "pos": "WM",
+    "Code": "467",
+    "Name": "Pilkington, Anthony",
+    "Club": "NOR"
+  },
+  "Podolski, Lukas": {
+    "pos": "FWD",
+    "Code": "468",
+    "Name": "Podolski, Lukas",
+    "Club": "ARS"
+  },
+  "Popov, Goran": {
+    "pos": "FB",
+    "Code": "469",
+    "Name": "Popov, Goran",
+    "Club": "WBA"
+  },
+  "Powell, Nick": {
+    "pos": "CM",
+    "Code": "470",
+    "Name": "Powell, Nick",
+    "Club": "MUN"
+  },
+  "Pozuelo, Alejandro": {
+    "pos": "CM",
+    "Code": "471",
+    "Name": "Pozuelo, Alejandro",
+    "Club": "SWA"
+  },
+  "Proschwitz, Nick": {
+    "pos": "FWD",
+    "Code": "472",
+    "Name": "Proschwitz, Nick",
+    "Club": "HUL"
+  },
+  "Puncheon, Jason": {
+    "pos": "WM",
+    "Code": "473",
+    "Name": "Puncheon, Jason",
+    "Club": "SOT"
+  },
+  "Quinn, Stephen": {
+    "pos": "WM",
+    "Code": "474",
+    "Name": "Quinn, Stephen",
+    "Club": "HUL"
+  },
+  "Rafael": {
+    "pos": "FB",
+    "Code": "475",
+    "Name": "Rafael",
+    "Club": "MUN"
+  },
+  "Ramage, Peter": {
+    "pos": "CB",
+    "Code": "476",
+    "Name": "Ramage, Peter",
+    "Club": "CRY"
+  },
+  "Ramires": {
+    "pos": "CM",
+    "Code": "477",
+    "Name": "Ramires",
+    "Club": "CHE"
+  },
+  "Ramirez, Gaston": {
+    "pos": "WM",
+    "Code": "478",
+    "Name": "Ramirez, Gaston",
+    "Club": "SOT"
+  },
+  "Ramsey, Aaron": {
+    "pos": "CM",
+    "Code": "479",
+    "Name": "Ramsey, Aaron",
+    "Club": "ARS"
+  },
+  "Rangel, Angel": {
+    "pos": "FB",
+    "Code": "480",
+    "Name": "Rangel, Angel",
+    "Club": "SWA"
+  },
+  "Rat, Razvan": {
+    "pos": "FB",
+    "Code": "481",
+    "Name": "Rat, Razvan",
+    "Club": "WHM"
+  },
+  "Razak, Abdul": {
+    "pos": "CM",
+    "Code": "481.1",
+    "Name": "Razak, Abdul",
+    "Club": "WHM"
+  },
+  "Redmond, Nathan": {
+    "pos": "WM",
+    "Code": "482",
+    "Name": "Redmond, Nathan",
+    "Club": "NOR"
+  },
+  "Reid, Steven": {
+    "pos": "WM",
+    "Code": "483",
+    "Name": "Reid, Steven",
+    "Club": "WBA"
+  },
+  "Reid, Winston": {
+    "pos": "CB",
+    "Code": "484",
+    "Name": "Reid, Winston",
+    "Club": "WHM"
+  },
+  "Reina, Pepe": {
+    "pos": "GK",
+    "Code": "485",
+    "Name": "Reina, Pepe",
+    "Club": "LIV"
+  },
+  "Remy, Loic": {
+    "pos": "FWD",
+    "Code": "486",
+    "Name": "Remy, Loic",
+    "Club": "NEW"
+  },
+  "Richards, Ashley": {
+    "pos": "WM",
+    "Code": "487",
+    "Name": "Richards, Ashley",
+    "Club": "SWA"
+  },
+  "Richards, Micah": {
+    "pos": "FB",
+    "Code": "488",
+    "Name": "Richards, Micah",
+    "Club": "MCY"
+  },
+  "Richardson, Kieran": {
+    "pos": "WM",
+    "Code": "489",
+    "Name": "Richardson, Kieran",
+    "Club": "FUL"
+  },
+  "Ridgewell, Liam": {
+    "pos": "FB",
+    "Code": "490",
+    "Name": "Ridgewell, Liam",
+    "Club": "WBA"
+  },
+  "Riether, Sascha": {
+    "pos": "FB",
+    "Code": "491",
+    "Name": "Riether, Sascha",
+    "Club": "FUL"
+  },
+  "Riise, John-Arne": {
+    "pos": "FB",
+    "Code": "492",
+    "Name": "Riise, John-Arne",
+    "Club": "FUL"
+  },
+  "Roberge, Valentin": {
+    "pos": "CB",
+    "Code": "493",
+    "Name": "Roberge, Valentin",
+    "Club": "SUN"
+  },
+  "Robles, Joel": {
+    "pos": "GK",
+    "Code": "494",
+    "Name": "Robles, Joel",
+    "Club": "EVE"
+  },
+  "Rodallega, Hugo": {
+    "pos": "FWD",
+    "Code": "495",
+    "Name": "Rodallega, Hugo",
+    "Club": "FUL"
+  },
+  "Rodriguez, Jay": {
+    "pos": "FWD",
+    "Code": "496",
+    "Name": "Rodriguez, Jay",
+    "Club": "SOT"
+  },
+  "Rodwell, Jack": {
+    "pos": "CM",
+    "Code": "497",
+    "Name": "Rodwell, Jack",
+    "Club": "MCY"
+  },
+  "Romeu, Oriol": {
+    "pos": "CM",
+    "Code": "498",
+    "Name": "Romeu, Oriol",
+    "Club": "CHE"
+  },
+  "Rooney, Wayne": {
+    "pos": "FWD",
+    "Code": "499",
+    "Name": "Rooney, Wayne",
+    "Club": "MUN"
+  },
+  "Rose, Danny": {
+    "pos": "FB",
+    "Code": "500",
+    "Name": "Rose, Danny",
+    "Club": "TOT"
+  },
+  "Rosenberg, Markus": {
+    "pos": "FWD",
+    "Code": "501",
+    "Name": "Rosenberg, Markus",
+    "Club": "WBA"
+  },
+  "Rosenior, Liam": {
+    "pos": "FB",
+    "Code": "502",
+    "Name": "Rosenior, Liam",
+    "Club": "HUL"
+  },
+  "Rosicky, Tomas": {
+    "pos": "CM",
+    "Code": "503",
+    "Name": "Rosicky, Tomas",
+    "Club": "ARS"
+  },
+  "Routledge, Wayne": {
+    "pos": "WM",
+    "Code": "504",
+    "Name": "Routledge, Wayne",
+    "Club": "SWA"
+  },
+  "Ruddy, John": {
+    "pos": "GK",
+    "Code": "505",
+    "Name": "Ruddy, John",
+    "Club": "NOR"
+  },
+  "Ruiz, Bryan": {
+    "pos": "FWD",
+    "Code": "506",
+    "Name": "Ruiz, Bryan",
+    "Club": "FUL"
+  },
+  "Sagbo, Yannick": {
+    "pos": "FWD",
+    "Code": "507",
+    "Name": "Sagbo, Yannick",
+    "Club": "HUL"
+  },
+  "Sagna, Bacary": {
+    "pos": "FB",
+    "Code": "508",
+    "Name": "Sagna, Bacary",
+    "Club": "ARS"
+  },
+  "Sakho, Mamadou": {
+    "pos": "CB",
+    "Code": "508.5",
+    "Name": "Sakho, Mamadou",
+    "Club": "LIV"
+  },
+  "Salah, Mohamed": {
+    "pos": "WM",
+    "Code": "508.6",
+    "Name": "Salah, Mohamed",
+    "Club": "CHE"
+  },
+  "Sandro": {
+    "pos": "CM",
+    "Code": "509",
+    "Name": "Sandro",
+    "Club": "TOT"
+  },
+  "Sanogo, Yaya": {
+    "pos": "FWD",
+    "Code": "510",
+    "Name": "Sanogo, Yaya",
+    "Club": "ARS"
+  },
+  "Santon, Davide": {
+    "pos": "FB",
+    "Code": "511",
+    "Name": "Santon, Davide",
+    "Club": "NEW"
+  },
+  "Santos, Andre": {
+    "pos": "FB",
+    "Code": "512",
+    "Name": "Santos, Andre",
+    "Club": "ARS"
+  },
+  "Schneiderlin, Morgan": {
+    "pos": "CM",
+    "Code": "513",
+    "Name": "Schneiderlin, Morgan",
+    "Club": "SOT"
+  },
+  "Schurrle, Andre": {
+    "pos": "WM",
+    "Code": "514",
+    "Name": "Schurrle, Andre",
+    "Club": "CHE"
+  },
+  "Schwarzer, Mark": {
+    "pos": "GK",
+    "Code": "515",
+    "Name": "Schwarzer, Mark",
+    "Club": "CHE"
+  },
+  "Scocco, Ignacio": {
+    "pos": "FWD",
+    "Code": "515.1",
+    "Name": "Scocco, Ignacio",
+    "Club": "SUN"
+  },
+  "Senderos, Philippe": {
+    "pos": "CB",
+    "Code": "516",
+    "Name": "Senderos, Philippe",
+    "Club": "FUL"
+  },
+  "Sessegnon, Stephane": {
+    "pos": "CM",
+    "Code": "517",
+    "Name": "Sessegnon, Stephane",
+    "Club": "WBA"
+  },
+  "Shaw, Luke": {
+    "pos": "FB",
+    "Code": "518",
+    "Name": "Shaw, Luke",
+    "Club": "SOT"
+  },
+  "Shawcross, Ryan": {
+    "pos": "CB",
+    "Code": "519",
+    "Name": "Shawcross, Ryan",
+    "Club": "STO"
+  },
+  "Shea, Brek": {
+    "pos": "WM",
+    "Code": "520",
+    "Name": "Shea, Brek",
+    "Club": "STO"
+  },
+  "Shelvey, Jonjo": {
+    "pos": "CM",
+    "Code": "521",
+    "Name": "Shelvey, Jonjo",
+    "Club": "SWA"
+  },
+  "Shotton, Ryan": {
+    "pos": "FB",
+    "Code": "522",
+    "Name": "Shotton, Ryan",
+    "Club": "STO"
+  },
+  "Sidwell, Steve": {
+    "pos": "CM",
+    "Code": "523",
+    "Name": "Sidwell, Steve",
+    "Club": "FUL"
+  },
+  "Sigurdsson, Gylfi": {
+    "pos": "CM",
+    "Code": "524",
+    "Name": "Sigurdsson, Gylfi",
+    "Club": "TOT"
+  },
+  "Silva, David": {
+    "pos": "WM",
+    "Code": "525",
+    "Name": "Silva, David",
+    "Club": "MCY"
+  },
+  "Sinclair, Scott": {
+    "pos": "WM",
+    "Code": "526",
+    "Name": "Sinclair, Scott",
+    "Club": "WBA"
+  },
+  "Sissoko, Moussa": {
+    "pos": "CM",
+    "Code": "527",
+    "Name": "Sissoko, Moussa",
+    "Club": "NEW"
+  },
+  "Skrtel, Martin": {
+    "pos": "CB",
+    "Code": "528",
+    "Name": "Skrtel, Martin",
+    "Club": "LIV"
+  },
+  "Smalling, Chris": {
+    "pos": "FB",
+    "Code": "529",
+    "Name": "Smalling, Chris",
+    "Club": "MUN"
+  },
+  "Smith, Brad": {
+    "pos": "CM",
+    "Code": "529.1",
+    "Name": "Smith, Brad",
+    "Club": "LIV"
+  },
+  "Snodgrass, Robert": {
+    "pos": "WM",
+    "Code": "530",
+    "Name": "Snodgrass, Robert",
+    "Club": "NOR"
+  },
+  "Soldado, Roberto": {
+    "pos": "FWD",
+    "Code": "531",
+    "Name": "Soldado, Roberto",
+    "Club": "TOT"
+  },
+  "Sorensen, Thomas": {
+    "pos": "GK",
+    "Code": "532",
+    "Name": "Sorensen, Thomas",
+    "Club": "STO"
+  },
+  "Spence, Jordan": {
+    "pos": "FB",
+    "Code": "533",
+    "Name": "Spence, Jordan",
+    "Club": "WHM"
+  },
+  "Speroni, Julian": {
+    "pos": "GK",
+    "Code": "534",
+    "Name": "Speroni, Julian",
+    "Club": "CRY"
+  },
+  "Stekelenburg, Maarten": {
+    "pos": "GK",
+    "Code": "535",
+    "Name": "Stekelenburg, Maarten",
+    "Club": "FUL"
+  },
+  "Sterling, Raheem": {
+    "pos": "WM",
+    "Code": "536",
+    "Name": "Sterling, Raheem",
+    "Club": "LIV"
+  },
+  "Stevens, Enda": {
+    "pos": "FB",
+    "Code": "537",
+    "Name": "Stevens, Enda",
+    "Club": "AVL"
+  },
+  "Stewart, Cameron": {
+    "pos": "WM",
+    "Code": "538",
+    "Name": "Stewart, Cameron",
+    "Club": "HUL"
+  },
+  "Stockdale, David": {
+    "pos": "GK",
+    "Code": "538.5",
+    "Name": "Stockdale, David",
+    "Club": "FUL"
+  },
+  "Stones, John": {
+    "pos": "FB",
+    "Code": "539",
+    "Name": "Stones, John",
+    "Club": "EVE"
+  },
+  "Sturridge, Daniel": {
+    "pos": "FWD",
+    "Code": "540",
+    "Name": "Sturridge, Daniel",
+    "Club": "LIV"
+  },
+  "Suarez, Luis": {
+    "pos": "FWD",
+    "Code": "541",
+    "Name": "Suarez, Luis",
+    "Club": "LIV"
+  },
+  "Sung-Yueng, Ki": {
+    "pos": "WM",
+    "Code": "542",
+    "Name": "Sung-Yueng, Ki",
+    "Club": "SUN"
+  },
+  "Surman, Andrew": {
+    "pos": "CM",
+    "Code": "543",
+    "Name": "Surman, Andrew",
+    "Club": "NOR"
+  },
+  "Suso": {
+    "pos": "WM",
+    "Code": "544",
+    "Name": "Suso",
+    "Club": "LIV"
+  },
+  "Sylla, Yacouba": {
+    "pos": "CM",
+    "Code": "545",
+    "Name": "Sylla, Yacouba",
+    "Club": "AVL"
+  },
+  "Szczesny, Wojciech": {
+    "pos": "GK",
+    "Code": "546",
+    "Name": "Szczesny, Wojciech",
+    "Club": "ARS"
+  },
+  "T'phile-Catherine, Kevin": {
+    "pos": "FWD",
+    "Code": "546.5",
+    "Name": "T'phile-Catherine, Kevin",
+    "Club": "CAR"
+  },
+  "Taarabt, Adel": {
+    "pos": "WM",
+    "Code": "547",
+    "Name": "Taarabt, Adel",
+    "Club": "FUL"
+  },
+  "Tamas, Gabriel": {
+    "pos": "CB",
+    "Code": "548",
+    "Name": "Tamas, Gabriel",
+    "Club": "WBA"
+  },
+  "Tate, Alan": {
+    "pos": "FB",
+    "Code": "549",
+    "Name": "Tate, Alan",
+    "Club": "SWA"
+  },
+  "Tavernier, James": {
+    "pos": "CB",
+    "Code": "550",
+    "Name": "Tavernier, James",
+    "Club": "NEW"
+  },
+  "Taylor, Andrew": {
+    "pos": "FB",
+    "Code": "551",
+    "Name": "Taylor, Andrew",
+    "Club": "CAR"
+  },
+  "Taylor, Matthew": {
+    "pos": "WM",
+    "Code": "552",
+    "Name": "Taylor, Matthew",
+    "Club": "WHM"
+  },
+  "Taylor, Neil": {
+    "pos": "FB",
+    "Code": "553",
+    "Name": "Taylor, Neil",
+    "Club": "SWA"
+  },
+  "Taylor, Ryan": {
+    "pos": "FB",
+    "Code": "554",
+    "Name": "Taylor, Ryan",
+    "Club": "NEW"
+  },
+  "Taylor, Steven": {
+    "pos": "CB",
+    "Code": "555",
+    "Name": "Taylor, Steven",
+    "Club": "NEW"
+  },
+  "Terry, John": {
+    "pos": "CB",
+    "Code": "556",
+    "Name": "Terry, John",
+    "Club": "CHE"
+  },
+  "Tettey, Alexander": {
+    "pos": "CM",
+    "Code": "557",
+    "Name": "Tettey, Alexander",
+    "Club": "NOR"
+  },
+  "Thomas, Jerome": {
+    "pos": "WM",
+    "Code": "558",
+    "Name": "Thomas, Jerome",
+    "Club": "CRY"
+  },
+  "Thorne, George": {
+    "pos": "CM",
+    "Code": "559",
+    "Name": "Thorne, George",
+    "Club": "WBA"
+  },
+  "Tiendalli, Dwight": {
+    "pos": "FB",
+    "Code": "560",
+    "Name": "Tiendalli, Dwight",
+    "Club": "SWA"
+  },
+  "Tiote, Cheick": {
+    "pos": "CM",
+    "Code": "561",
+    "Name": "Tiote, Cheick",
+    "Club": "NEW"
+  },
+  "Tomkins, James": {
+    "pos": "CB",
+    "Code": "562",
+    "Name": "Tomkins, James",
+    "Club": "WHM"
+  },
+  "Tonev, Aleksandar": {
+    "pos": "WM",
+    "Code": "563",
+    "Name": "Tonev, Aleksandar",
+    "Club": "AVL"
+  },
+  "Torres, Fernando": {
+    "pos": "FWD",
+    "Code": "564",
+    "Name": "Torres, Fernando",
+    "Club": "CHE"
+  },
+  "Toure, Kolo": {
+    "pos": "CB",
+    "Code": "565",
+    "Name": "Toure, Kolo",
+    "Club": "LIV"
+  },
+  "Toure, Yaya": {
+    "pos": "CM",
+    "Code": "566",
+    "Name": "Toure, Yaya",
+    "Club": "MCY"
+  },
+  "Townsend, Andros": {
+    "pos": "WM",
+    "Code": "567",
+    "Name": "Townsend, Andros",
+    "Club": "TOT"
+  },
+  "Townsend, Conor": {
+    "pos": "CM",
+    "Code": "567.05",
+    "Name": "Townsend, Conor",
+    "Club": "HUL"
+  },
+  "Traore, Lacina": {
+    "pos": "FWD",
+    "Code": "567.1",
+    "Name": "Traore, Lacina",
+    "Club": "EVE"
+  },
+  "Tremmel, Gerhard": {
+    "pos": "GK",
+    "Code": "569",
+    "Name": "Tremmel, Gerhard",
+    "Club": "SWA"
+  },
+  "Tunnicliffe, Ryan": {
+    "pos": "CB",
+    "Code": "569.1",
+    "Name": "Tunnicliffe, Ryan",
+    "Club": "FUL"
+  },
+  "Turner, Ben": {
+    "pos": "CB",
+    "Code": "570",
+    "Name": "Turner, Ben",
+    "Club": "CAR"
+  },
+  "Turner, Michael": {
+    "pos": "CB",
+    "Code": "571",
+    "Name": "Turner, Michael",
+    "Club": "NOR"
+  },
+  "Ustari, Oscar": {
+    "pos": "GK",
+    "Code": "571.1",
+    "Name": "Ustari, Oscar",
+    "Club": "SUN"
+  },
+  "Valencia, Antonio": {
+    "pos": "WM",
+    "Code": "572",
+    "Name": "Valencia, Antonio",
+    "Club": "MUN"
+  },
+  "van Ginkel, Marco": {
+    "pos": "CM",
+    "Code": "573",
+    "Name": "van Ginkel, Marco",
+    "Club": "CHE"
+  },
+  "van Persie, Robin": {
+    "pos": "FWD",
+    "Code": "574",
+    "Name": "van Persie, Robin",
+    "Club": "MUN"
+  },
+  "van Wolfswinkel, Ricky": {
+    "pos": "FWD",
+    "Code": "575",
+    "Name": "van Wolfswinkel, Ricky",
+    "Club": "NOR"
+  },
+  "Varela, Guillermo": {
+    "pos": "FB",
+    "Code": "576",
+    "Name": "Varela, Guillermo",
+    "Club": "MUN"
+  },
+  "Vaughan, David": {
+    "pos": "WM",
+    "Code": "577",
+    "Name": "Vaughan, David",
+    "Club": "SUN"
+  },
+  "Vaz Te, Ricardo": {
+    "pos": "FWD",
+    "Code": "578",
+    "Name": "Vaz Te, Ricardo",
+    "Club": "WHM"
+  },
+  "Vazquez, Alvaro": {
+    "pos": "FWD",
+    "Code": "578.5",
+    "Name": "Vazquez, Alvaro",
+    "Club": "SWA"
+  },
+  "Vellios, Apostolos": {
+    "pos": "FWD",
+    "Code": "579",
+    "Name": "Vellios, Apostolos",
+    "Club": "EVE"
+  },
+  "Vergini, Santiago": {
+    "pos": "CB",
+    "Code": "579.1",
+    "Name": "Vergini, Santiago",
+    "Club": "SUN"
+  },
+  "Vermaelen, Thomas": {
+    "pos": "CB",
+    "Code": "580",
+    "Name": "Vermaelen, Thomas",
+    "Club": "ARS"
+  },
+  "Vertonghen, Jan": {
+    "pos": "CB",
+    "Code": "581",
+    "Name": "Vertonghen, Jan",
+    "Club": "TOT"
+  },
+  "Vidic, Nemanja": {
+    "pos": "CB",
+    "Code": "582",
+    "Name": "Vidic, Nemanja",
+    "Club": "MUN"
+  },
+  "Viviano, Emilianio": {
+    "pos": "GK",
+    "Code": "582.5",
+    "Name": "Viviano, Emilianio",
+    "Club": "ARS"
+  },
+  "Vlaar, Ron": {
+    "pos": "CB",
+    "Code": "583",
+    "Name": "Vlaar, Ron",
+    "Club": "AVL"
+  },
+  "Vorm, Michel": {
+    "pos": "GK",
+    "Code": "584",
+    "Name": "Vorm, Michel",
+    "Club": "SWA"
+  },
+  "Vuckic, Haris": {
+    "pos": "CM",
+    "Code": "585",
+    "Name": "Vuckic, Haris",
+    "Club": "NEW"
+  },
+  "Vydra, Matej": {
+    "pos": "FWD",
+    "Code": "585.5",
+    "Name": "Vydra, Matej",
+    "Club": "WBA"
+  },
+  "Walcott, Theo": {
+    "pos": "FWD",
+    "Code": "586",
+    "Name": "Walcott, Theo",
+    "Club": "ARS"
+  },
+  "Walker, Kyle": {
+    "pos": "FB",
+    "Code": "587",
+    "Name": "Walker, Kyle",
+    "Club": "TOT"
+  },
+  "Walters, Jonathan": {
+    "pos": "FWD",
+    "Code": "588",
+    "Name": "Walters, Jonathan",
+    "Club": "STO"
+  },
+  "Wanyama, Victor": {
+    "pos": "CM",
+    "Code": "589",
+    "Name": "Wanyama, Victor",
+    "Club": "SOT"
+  },
+  "Ward, Joel": {
+    "pos": "CM",
+    "Code": "590",
+    "Name": "Ward, Joel",
+    "Club": "CRY"
+  },
+  "Ward-Prowse, Jamie": {
+    "pos": "FB",
+    "Code": "591",
+    "Name": "Ward-Prowse, Jamie",
+    "Club": "SOT"
+  },
+  "Weimann, Andreas": {
+    "pos": "FWD",
+    "Code": "592",
+    "Name": "Weimann, Andreas",
+    "Club": "AVL"
+  },
+  "Welbeck, Danny": {
+    "pos": "FWD",
+    "Code": "593",
+    "Name": "Welbeck, Danny",
+    "Club": "MUN"
+  },
+  "Westwood, Ashley": {
+    "pos": "CM",
+    "Code": "594",
+    "Name": "Westwood, Ashley",
+    "Club": "AVL"
+  },
+  "Westwood, Keiren": {
+    "pos": "GK",
+    "Code": "595",
+    "Name": "Westwood, Keiren",
+    "Club": "SUN"
+  },
+  "Whelan, Glenn": {
+    "pos": "CM",
+    "Code": "596",
+    "Name": "Whelan, Glenn",
+    "Club": "STO"
+  },
+  "Whitehead, Danny": {
+    "pos": "CM",
+    "Code": "597",
+    "Name": "Whitehead, Danny",
+    "Club": "WHM"
+  },
+  "Whittaker, Steven": {
+    "pos": "FB",
+    "Code": "598",
+    "Name": "Whittaker, Steven",
+    "Club": "NOR"
+  },
+  "Whittingham, Peter": {
+    "pos": "CM",
+    "Code": "599",
+    "Name": "Whittingham, Peter",
+    "Club": "CAR"
+  },
+  "Wickham, Connor": {
+    "pos": "FWD",
+    "Code": "600",
+    "Name": "Wickham, Connor",
+    "Club": "SUN"
+  },
+  "Wilbraham, Aaron": {
+    "pos": "FWD",
+    "Code": "601",
+    "Name": "Wilbraham, Aaron",
+    "Club": "CRY"
+  },
+  "Wilkinson, Andy": {
+    "pos": "FB",
+    "Code": "602",
+    "Name": "Wilkinson, Andy",
+    "Club": "STO"
+  },
+  "Williams, Ashley": {
+    "pos": "CB",
+    "Code": "603",
+    "Name": "Williams, Ashley",
+    "Club": "SWA"
+  },
+  "Williams, Jonathan": {
+    "pos": "WM",
+    "Code": "604",
+    "Name": "Williams, Jonathan",
+    "Club": "CRY"
+  },
+  "Williamson, Mike": {
+    "pos": "CB",
+    "Code": "605",
+    "Name": "Williamson, Mike",
+    "Club": "NEW"
+  },
+  "Willian": {
+    "pos": "CM",
+    "Code": "605.5",
+    "Name": "Willian",
+    "Club": "CHE"
+  },
+  "Wilshere, Jack": {
+    "pos": "CM",
+    "Code": "606",
+    "Name": "Wilshere, Jack",
+    "Club": "ARS"
+  },
+  "Wilson, Dougie": {
+    "pos": "CM",
+    "Code": "607",
+    "Name": "Wilson, Dougie",
+    "Club": "HUL"
+  },
+  "Wilson, Marc": {
+    "pos": "FB",
+    "Code": "608",
+    "Name": "Wilson, Marc",
+    "Club": "STO"
+  },
+  "Wisdom, Andre": {
+    "pos": "FB",
+    "Code": "609",
+    "Name": "Wisdom, Andre",
+    "Club": "LIV"
+  },
+  "Woodrow, Cauley": {
+    "pos": "CM",
+    "Code": "609.1",
+    "Name": "Woodrow, Cauley",
+    "Club": "FUL"
+  },
+  "Yacob, Claudio": {
+    "pos": "CM",
+    "Code": "610",
+    "Name": "Yacob, Claudio",
+    "Club": "WBA"
+  },
+  "Yanga-Mbiwa, Mapou": {
+    "pos": "CB",
+    "Code": "611",
+    "Name": "Yanga-Mbiwa, Mapou",
+    "Club": "NEW"
+  },
+  "Yobo, Joseph": {
+    "pos": "CB",
+    "Code": "611.1",
+    "Name": "Yobo, Joseph",
+    "Club": "NOR"
+  },
+  "Yoshida, Maya": {
+    "pos": "CB",
+    "Code": "612",
+    "Name": "Yoshida, Maya",
+    "Club": "SOT"
+  },
+  "Young, Ashley": {
+    "pos": "WM",
+    "Code": "613",
+    "Name": "Young, Ashley",
+    "Club": "MUN"
+  },
+  "Zabaleta, Pablo": {
+    "pos": "FB",
+    "Code": "614",
+    "Name": "Zabaleta, Pablo",
+    "Club": "MCY"
+  },
+  "Zaha, Wilfried": {
+    "pos": "WM",
+    "Code": "615",
+    "Name": "Zaha, Wilfried",
+    "Club": "CAR"
+  },
+  "Zverotic, Elsad": {
+    "pos": "FB",
+    "Code": "616",
+    "Name": "Zverotic, Elsad",
+    "Club": "FUL"
+  }
+}

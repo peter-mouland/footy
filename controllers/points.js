@@ -60,10 +60,15 @@ points.prototype.calculateLosers = function(points){
 points.prototype.calculatePlayer = function(oldStats, newPlayerStats){
     if (!oldStats || !newPlayerStats){ return; }
     var oldPlayerStats = this.previous(oldStats, newPlayerStats);
-    var pointsForGoals = this.forGoals(oldPlayerStats['Gls'], newPlayerStats['Gls']);
-    var pointsForYellowCards = this.forYellowCards(oldPlayerStats['YC'], newPlayerStats['YC']);
-    var pointsForRedCards = this.forRedCards(oldPlayerStats['RC'], newPlayerStats['RC']);
-    return pointsForGoals + pointsForYellowCards + pointsForRedCards;
+    var forGoals = this.forGoals(oldPlayerStats['Gls'], newPlayerStats['Gls']);
+    var forYellowCards = this.forYellowCards(oldPlayerStats['YC'], newPlayerStats['YC']);
+    var forRedCards = this.forRedCards(oldPlayerStats['RC'], newPlayerStats['RC']);
+    var forStarting = this.forStarting(oldPlayerStats['SXI'], newPlayerStats['SXI']);
+    var forSub = this.forSub(oldPlayerStats['Sub'], newPlayerStats['Sub']);
+    var forAssists = this.forAssists(oldPlayerStats['Ass'], newPlayerStats['Ass']);
+    var forCleanSheet = this.forCleanSheet(oldPlayerStats['CS'], newPlayerStats['CS']);
+    var forGoalAgainst = this.forGoalAgainst(oldPlayerStats['GA'], newPlayerStats['GA']);
+    return forGoals + forYellowCards + forRedCards + forStarting + forSub + forAssists + forCleanSheet + forGoalAgainst;
 };
 
 points.prototype.previous = function(oldStats, newPlayerStats){
@@ -76,16 +81,61 @@ points.prototype.previous = function(oldStats, newPlayerStats){
     }
 };
 
-points.prototype.forGoals = function(oldData, newData){
-    return newData - oldData;
+
+points.prototype.forStarting = function(oldData, newData){ //starting a match 3 point
+    return (newData - oldData) * 3;
 };
 
-points.prototype.forYellowCards = function(oldData, newData){
+points.prototype.forSub = function(oldData, newData){ //sub = 1 point
+    return (newData - oldData) * 1;
+};
+
+points.prototype.forGoals = function(oldData, newData, position){//depends on position
+    position = 'GK'
+    var multiplier;
+    if (position == 'GK'){
+        multiplier = 10;
+    } else  if (position == 'DEF'){
+        multiplier = 8;
+    } else if (position == 'MID'){
+        multiplier = 6;
+    } else if (position == 'STK'){
+        multiplier = 4;
+    }
+    return (newData - oldData) * multiplier;
+};
+
+points.prototype.forAssists = function(oldData, newData){//assist = 3 points
+    return (newData - oldData) * 3;
+};
+
+points.prototype.forYellowCards = function(oldData, newData){ //-2
     return (oldData - newData) * 2;
 };
 
-points.prototype.forRedCards = function(oldData, newData){
-    return (oldData - newData) * 10;
+points.prototype.forRedCards = function(oldData, newData){ //-5
+    return (oldData - newData) * 5;
+};
+
+points.prototype.forCleanSheet = function(oldData, newData, position){ //5
+    position = 'GK'
+    var multiplier;
+    if (position == 'DEF' || position == 'GK'){
+        multiplier = 5;
+    } else  {
+        multiplier = 0;
+    }
+    return (oldData - newData) * multiplier;
+};
+
+points.prototype.forGoalAgainst = function(oldData, newData, position){ //-1
+    var multiplier;
+    if (position == 'DEF' || position == 'GK'){
+        multiplier = -1;
+    } else  {
+        multiplier = 0;
+    }
+    return (oldData - newData) * multiplier;
 };
 
 points.prototype.savePlayers = function(body){

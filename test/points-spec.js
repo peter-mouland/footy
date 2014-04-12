@@ -40,8 +40,8 @@ exports.footy = {
       test.equal(points.forYellowCards(0, 5), -10, 'a player gets -4 points if 5 yellow cards');
 
       test.equal(points.forRedCards(1, 1), 0, 'a player gets 0 points if no red cards');
-      test.equal(points.forRedCards(1, 2), -10, 'a player gets -10 points if 1 red cards');
-      test.equal(points.forRedCards(0, 5), -50, 'a player gets -50 points if 5 red cards');
+      test.equal(points.forRedCards(1, 2), -5, 'a player gets -5 points if 1 red cards');
+      test.equal(points.forRedCards(0, 5), -25, 'a player gets -25 points if 5 red cards');
 
       test.done();
   },

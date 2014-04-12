@@ -1,18 +1,48 @@
 var cheerio = require('cheerio');
 var fs = require('fs');
 var request = require('request-promise');
+var mkdirp = require("mkdirp");
+var getDirName = require("path").dirname;
 
 var externalWeekUrl = 'https://fantasyfootball.skysports.com/json/teaminfo/0';
 var externalOverallUrl = 'https://fantasyfootball.skysports.com/statistics/';
-
+//var externalPlayerUrl = 'http://fantasy.premierleague.com/web/api/elements/';
+//1-635?
+/* http://fantasy.premierleague.com/web/api/elements/186/
+ first_name: "George",
+ second_name: "Boyd",
+ web_name: "Boyd",
+ type_name: "Midfielder",
+ fixture_history: {all: [
+ "18 Aug 16:00", //d.  date                  0
+ 1,              //r.  round                 1
+ "CHE(A) 0-2",   //o.  opponent              2
+ 11,             //mp. minutes played        3
+ 0,              //gs. goals scored          4
+ 0,              //A.  assists               5
+ 0,              //c.  clean sheets          6
+ 0,              //gc. goals conceded        7
+ 0,              //og. own goals             8
+ 0,              //ps. penalties saved       9
+ 0,              //pm. penalties missed      10
+ 0,              //yc. yellow cards          11
+ 0,              //rc. red coards            12
+ 0,              //s.  saves                 13
+ 0,              //b.  bonus                 14
+ 0,              //esp. ea sports ppi        15
+ 1,              //bps. bonus point system   16
+ 0,              //nt. net transfers         17
+ 55,             //v.  value                 18
+ 1               //p.  points                19
+ ]}
+ */
 var statistics = function(opts){
     opts = opts || {};
 
     this.statsRoot = opts.statsRoot || 'public/stats/';
     this.teamPath = opts.teamPath || this.statsRoot + 'latest-team.json';
-
+    this.positionsPath = opts.positionsPath || this.statsRoot + 'player-positions.json';
 };
-
 
 statistics.prototype.tableToJson = function(body){
     var $ = cheerio.load(body);
@@ -66,9 +96,12 @@ statistics.prototype.tableToJson = function(body){
 module.exports = statistics;
 
 statistics.prototype.writeJson = function(url, json){
-    fs.writeFile(url, JSON.stringify(json, null, 2), function(err){
-        if (err) console.log(err);
-        console.log(url + ' saved');
+    mkdirp(getDirName(url), function (err) {
+        if (err) return cb(err);
+            fs.writeFile(url, JSON.stringify(json, null, 2), function(err){
+            if (err) console.log(err);
+            console.log(url + ' saved');
+        });
     });
 };
 
@@ -103,13 +136,13 @@ statistics.prototype.saveTeam = function(body){
     var newJson = JSON.parse(body);
     var newWeek = newJson.CURRENTWEEK;
     var isUpToDate = latest.CURRENTWEEK == newWeek;
-    if (isUpToDate || this.weekInProgress(newJson)){
-        return false;
-    } else {
+//    if (isUpToDate || this.weekInProgress(newJson)){
+//        return false;
+//    } else {
         this.latestTeam = newJson;
         this.writeJson(this.teamPath, newJson);
         return newWeek;
-    }
+//    }
 };
 
 statistics.prototype.weekInProgress = function(weekJson){
